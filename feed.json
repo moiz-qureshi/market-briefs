@@ -1,14 +1,14 @@
 [
   {
-    "file": "2026-09-22T07-00-pt-post-open.json",
-    "brief_id": "2026-09-22T07-00-pt-post-open",
-    "generated_at_pt": "2026-09-22T07:00:00-07:00",
+    "file": "2026-09-22T08-00-pt-post-open.json",
+    "brief_id": "2026-09-22T08-00-pt-post-open",
+    "generated_at_pt": "2026-09-22T08:11:07-07:00",
     "type": "post-open"
   },
   {
-    "file": "2026-09-22T08-00-pt-post-open.json",
-    "brief_id": "2026-09-22T08-00-pt-post-open",
-    "generated_at_pt": "2026-09-22T06:05:00-07:00",
+    "file": "2026-09-22T07-00-pt-post-open.json",
+    "brief_id": "2026-09-22T07-00-pt-post-open",
+    "generated_at_pt": "2026-09-22T07:00:00-07:00",
     "type": "post-open"
   }
 ]
