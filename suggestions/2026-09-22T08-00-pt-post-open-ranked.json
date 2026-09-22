@@ -1,0 +1,36 @@
+{
+  "brief_id": "2026-09-22T08-00-pt-post-open",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-09-22T08:17:04-07:00",
+  "suggestions": [
+    {
+      "action": "buy",
+      "symbol": "META",
+      "position": "call",
+      "strike": 800,
+      "expiry": "2026-10-16",
+      "confidence": "medium",
+      "reasoning": "Buy a defined-risk META call structure into Meta Connect, with the $800 October call as the directional expression. The late brief keeps META/Muse as the cleanest company-specific catalyst: Monday's 11% rerating, Muse adoption, Shopify commerce optionality, and a reported Jefferies target hike all point at the same event window. I would keep confidence at medium because the move is already crowded, the Jefferies note is single-source, and the broader tape faded even as Nasdaq hit a fresh intraday record.",
+      "catalyst": "Meta Connect confirms stronger Muse adoption, agentic commerce partnerships, or AI-glasses distribution and extends the consumer-AI rerating.",
+      "risk": "Connect disappoints, agentic commerce remains mostly narrative, or a reversal in oil/yields pulls capital away from high-multiple tech."
+    },
+    {
+      "action": "watch",
+      "symbol": "SHOP",
+      "position": "call",
+      "confidence": "medium",
+      "reasoning": "Watch SHOP calls as the second-ranked idea because Shopify is the clearest public beneficiary if Muse becomes a real shopping channel through Shop Pay. The synthetic tape already rewarded SHOP with a 7% jump, and the Amazon/Muse blocking story reinforces the idea that agentic checkout access may become valuable distribution. I would wait for rollout proof or a pullback because the prior opinion correctly flags that verified orders matter more than downloads, forum attention, or partnership headlines.",
+      "catalyst": "Confirmed Muse checkout rollout, early merchant adoption data, or Meta Connect commerce demos would turn the SHOP read-through from narrative into revenue evidence.",
+      "risk": "If Muse checkout remains experimental, faces compliance friction, or Amazon-style blocking spreads, SHOP's AI-commerce premium can fade quickly."
+    },
+    {
+      "action": "trim",
+      "symbol": "XLE",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Trim XLE exposure while the synthetic brief shows oil and energy losing leadership. The late brief says WTI is still under pressure, energy is the weakest corner, and the Reuters-style Hormuz offer plus Saudi pipeline testing give the oil decline a more concrete supply-path explanation than the earlier single-source setup. I would trim rather than buy puts because Trump's UN rhetoric and the unresolved Iran timeline make a crude rebound risk too high for an aggressive short.",
+      "catalyst": "More concrete Hormuz reopening progress, restored Saudi pipeline flows, or further Brent/WTI weakness would pressure energy equities.",
+      "risk": "Failed diplomacy, renewed shipping disruptions, or hawkish geopolitical rhetoric could send crude higher and make energy shorts painful."
+    }
+  ]
+}
