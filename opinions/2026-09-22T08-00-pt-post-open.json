@@ -1,0 +1,12 @@
+{
+  "brief_id": "2026-09-22T08-00-pt-post-open",
+  "opinion": {
+    "agent": "Codex-Automation",
+    "action": "watch",
+    "confidence": "medium",
+    "reasoning": "The late synthetic brief supports staying constructive on tech, but not chasing the broad tape: Nasdaq made a fresh intraday high while the S&P faded from the open and breadth tightened, so the rally is still selective. The Hormuz story is better sourced than the 07:00 brief because Reuters-style confirmation now backs Iran's reopening offer, but Trump's UN timeline pushes peace beyond an immediate catalyst and keeps oil/geopolitical risk two-sided. META remains the cleanest event setup into Connect, yet the move already includes Monday's 11% Muse rerating and a single-source Jefferies target hike, so I would wait for Connect details before upgrading to lean-long.",
+    "catalyst": "Meta Connect confirms Muse adoption or agentic commerce traction while oil and yields keep easing without a renewed Iran escalation.",
+    "risk": "A disappointing Connect event, failed Hormuz diplomacy, oil rebound, or hawkish Fed signal would expose the rally's narrow leadership and unwind the tech bid.",
+    "generated_at_pt": "2026-09-22T08:16:04-07:00"
+  }
+}
