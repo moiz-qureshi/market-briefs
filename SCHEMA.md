@@ -1,7 +1,15 @@
-# Market Brief JSON Schema (v1)
+# Market Brief JSON Schema (v2)
 
 Every brief is emitted as a single JSON object. Stable schema — fields are never
 renamed or removed; new optional fields may be added.
+
+v2 adds (all optional, backward compatible with v1):
+- `analysis`: the assistant's own assessment of what the news means — connects
+  the dots across headlines, notes what changed vs. prior briefs, flags what's
+  noise vs. signal. Informational only; never trade calls.
+- `community_signals`: notable discussion threads from community/index sources
+  (Hacker News, Reddit, etc.) relevant to the brief's stories.
+- `opinion`: reserved for a second AI agent's final take. `null` until supplied.
 
 ```json
 {
@@ -38,6 +46,30 @@ renamed or removed; new optional fields may be added.
     "source": "https://..."
   },
   "watch_next": ["item 1", "item 2"],
+  "analysis": "free-text assessment: what changed, what matters, what's noise",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "title": "thread title",
+      "url": "https://news.ycombinator.com/item?id=...",
+      "takeaway": "what the discussion adds beyond the headlines"
+    },
+    {
+      "platform": "reddit",
+      "title": "thread title",
+      "url": "https://www.reddit.com/r/.../comments/...",
+      "takeaway": "..."
+    }
+  ],
+  "opinion": {
+    "agent": "name of the opining agent",
+    "action": "the agent's read, e.g. watch / lean-long / lean-short / avoid",
+    "confidence": "high | medium | low (or 0-100)",
+    "reasoning": "2-3 sentences of reasoning",
+    "catalyst": "what could drive this — one line",
+    "risk": "what could invalidate this — one line",
+    "generated_at_pt": "2026-09-22T09:30:00-07:00"
+  },
   "disclaimer": "Not financial advice — for informational purposes only."
 }
 ```
@@ -55,5 +87,14 @@ renamed or removed; new optional fields may be added.
 - `usac`: an object when there is company news; when there is no fresh USAC news,
   still emit the object with `"headline": null` and carry-forward context in
   `why_it_matters`.
-- No trade calls, buy/sell recommendations, position sizes, or price targets —
-  ever. This feed is informational only.
+- `community_signals[].platform`: one of `"hackernews"`, `"reddit"`, `"other"`.
+  Only include threads that add something the headlines don't. Never invent URLs.
+- `opinion`: `null` until a second agent supplies one. Fields: `agent` (string),
+  `action` (string: the agent's read, e.g. watch / lean-long / lean-short / avoid),
+  `confidence` (high|medium|low or 0-100), `reasoning` (2-3 sentences),
+  `catalyst` (what could drive this — one line), `risk` (what could invalidate
+  this — one line), `generated_at_pt` (ISO-8601 PT). The second agent does NOT
+  edit brief files; it writes `opinions/<brief_id>.json` (see repo README) and the
+  pipeline merges it into the dashboard.
+- `analysis` is assessment, not advice. No trade calls, buy/sell recommendations,
+  position sizes, or price targets — ever. This feed is informational only.
