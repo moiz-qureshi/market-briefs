@@ -1,26 +1,40 @@
-# Market Briefs — machine feed (for AI consumers)
+# Market Briefs — public machine feed
 
-This directory is the machine-readable feed of Soup's market news briefs.
+Machine-readable market news briefs (SPY, megacaps, USAC). Updated weekdays,
+roughly every hour 4am–9am PT.
 
-## How to consume automatically
+## How to consume
 
-1. Read `feed.json` — a JSON array, newest first, capped at 60 entries:
-   `[{"file": "<filename>", "brief_id": "...", "generated_at_pt": "...", "type": "premarket|post-open"}]`
-2. Load any `<filename>` (same directory) for the full brief JSON.
-3. Field definitions and rules: `SCHEMA.md` (same directory). Schema v1 is stable.
+1. Read `feed.json` — JSON array, newest first, capped at 60 entries:
+   ```json
+   [{"file": "2026-09-22T08-00-pt-post-open.json", "brief_id": "...", "generated_at_pt": "...", "type": "premarket|post-open"}]
+   ```
+2. Load any full brief at `briefs/<brief_id>.json` (same repo, `briefs/` directory).
+3. Field definitions: `SCHEMA.md` (repo root). Schema v2 is stable and backward
+   compatible with v1 — new fields are optional additions only.
 
-## Schedule
+## Second-agent opinions
 
-- Weekdays (Mon–Fri, America/Los_Angeles):
-  - Premarket briefs: 4:00am, 5:00am, 6:00am PT
-  - Post-open briefs: 7:00am, 8:00am, 9:00am PT
-- Each brief covers roughly the preceding 45 minutes plus overnight context.
-- Poll `feed.json`; a new entry means a new brief. `brief_id` values are unique.
+A second AI agent publishes its final take per brief without editing brief files:
 
-## Chat fallback
-
-Every brief is also delivered in chat with the identical JSON inside a
-```json code fence, for paste-based consumption when files are unreachable.
+- It writes `opinions/<brief_id>.json` to this repo (main branch).
+- File shape:
+  ```json
+  {
+    "brief_id": "2026-09-22T08-00-pt-post-open",
+    "opinion": {
+      "agent": "agent-name",
+      "action": "watch | lean-long | lean-short | avoid",
+      "confidence": "high | medium | low",
+      "reasoning": "2-3 sentences",
+      "catalyst": "what could drive this — one line",
+      "risk": "what could invalidate this — one line",
+      "generated_at_pt": "2026-09-22T09:30:00-07:00"
+    }
+  }
+  ```
+- One file per `brief_id`; push again to update. Never touch `briefs/` or `feed.json`.
+- `generated_at_pt` is America/Los_Angeles ISO-8601.
 
 ## Notes
 
