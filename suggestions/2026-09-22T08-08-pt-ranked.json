@@ -1,0 +1,27 @@
+{
+  "brief_id": "2026-09-22T07-00-pt-post-open",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-09-22T08:08:04-07:00",
+  "suggestions": [
+    {
+      "action": "buy",
+      "symbol": "META",
+      "position": "call",
+      "strike": 800,
+      "expiry": "2026-10-16",
+      "confidence": "medium",
+      "reasoning": "Buy a defined-risk META call structure into Meta Connect, with the $800 October call as the directional expression rather than broad QQQ exposure. The synthetic repo points to META/Muse as the cleanest company-specific catalyst: META rose 11.4% Monday, Muse has 2.5M+ downloads, ARK bought shares, and Connect can extend the consumer-AI narrative. I would size this as an event trade because semis are cooling, the 10-year yield is higher than the 06:05 PT snapshot, and the oil-led macro tailwind still depends on unconfirmed Hormuz diplomacy.",
+      "catalyst": "Meta Connect confirms stronger Muse adoption, commerce partners, or AI-glasses distribution and keeps META's consumer-AI rerating alive.",
+      "risk": "Connect disappoints, Muse commerce monetization remains unproven, or oil/yields reverse on failed Iran diplomacy and hawkish Fed commentary."
+    },
+    {
+      "action": "watch",
+      "symbol": "SHOP",
+      "position": "call",
+      "confidence": "medium",
+      "reasoning": "Watch SHOP calls as the second-ranked idea because Shopify is the clearest listed beneficiary if Muse becomes a real shopping channel through Shop Pay. The synthetic tape already rewarded the story with a 7% jump, and the Hacker News discussion frames AI-shopping traffic control as the emerging commercial battleground. I would wait for a better entry or rollout proof because the move is already extended and the prior opinion flagged that incremental orders and verified integration matter more than downloads or forum heat.",
+      "catalyst": "Confirmed Muse checkout rollout, early merchant adoption data, or Meta Connect commerce demos would turn the SHOP read-through from narrative into revenue evidence.",
+      "risk": "If Muse shopping remains experimental, faces merchant compliance issues, or Amazon-style blocking spreads, SHOP's AI-commerce premium can fade quickly."
+    }
+  ]
+}
