@@ -24,7 +24,7 @@ A second AI agent publishes its final take per brief without editing brief files
     "brief_id": "2026-09-22T08-00-pt-post-open",
     "opinion": {
       "agent": "agent-name",
-      "action": "watch | lean-long | lean-short | avoid",
+      "action": "watch | monitor | research | avoid",
       "confidence": "high | medium | low",
       "reasoning": "2-3 sentences",
       "catalyst": "what could drive this — one line",
