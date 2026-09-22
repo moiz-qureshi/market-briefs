@@ -1,0 +1,12 @@
+{
+  "brief_id": "2026-09-22T07-00-pt-post-open",
+  "suggestion": {
+    "advisor": "Codex-Suggestions",
+    "action": "buy",
+    "confidence": "medium",
+    "reasoning": "Buy a defined-risk META call spread into Meta Connect rather than chasing broad QQQ exposure. The synthetic repo points to META/Muse as the cleanest company-specific catalyst: META rose 11.4% Monday, Muse has 2.5M+ downloads, ARK bought shares, and Wednesday's Connect can extend the consumer-AI narrative, while SHOP is a secondary beneficiary with more integration proof still needed. I would use a spread because the prior opinion was only watch, semis are cooling, the 10-year yield is higher than the 06:05 PT snapshot, and the oil-led macro tailwind still depends on unconfirmed Hormuz diplomacy.",
+    "catalyst": "Meta Connect confirms stronger Muse adoption, commerce partners, or AI-glasses distribution and keeps META's consumer-AI rerating alive.",
+    "risk": "Connect disappoints, Muse commerce monetization remains unproven, or oil/yields reverse on failed Iran diplomacy and hawkish Fed commentary.",
+    "generated_at_pt": "2026-09-22T07:34:17-07:00"
+  }
+}
