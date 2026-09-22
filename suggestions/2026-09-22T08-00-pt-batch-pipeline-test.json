@@ -1,0 +1,27 @@
+{
+  "brief_id": "2026-09-22T07-00-pt-post-open",
+  "advisor": "Dashboard-Test",
+  "generated_at_pt": "2026-09-22T08:00:00-07:00",
+  "suggestions": [
+    {
+      "action": "buy",
+      "symbol": "META",
+      "position": "call",
+      "strike": 800,
+      "expiry": "2026-10-16",
+      "confidence": "high",
+      "reasoning": "End-to-end batch pipeline test: defined-risk call spread leg verifying the options line renders.",
+      "catalyst": "Pipeline verification only.",
+      "risk": "This is a synthetic test record, not a real recommendation."
+    },
+    {
+      "action": "trim",
+      "symbol": "AAPL",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "End-to-end batch pipeline test: share-trim item verifying a non-options record renders.",
+      "catalyst": "Pipeline verification only.",
+      "risk": "This is a synthetic test record, not a real recommendation."
+    }
+  ]
+}
