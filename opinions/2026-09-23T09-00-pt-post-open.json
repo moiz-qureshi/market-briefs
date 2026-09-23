@@ -2,11 +2,11 @@
   "brief_id": "2026-09-23T09-00-pt-post-open",
   "opinion": {
     "agent": "Codex-Automation",
-    "action": "trim",
+    "action": "watch",
     "confidence": "medium",
-    "reasoning": "The 09:00 post-open brief confirms the hotter-data, higher-yield pullback: PMI strength pushed the 10Y to a new cycle extreme, small caps led lower, and MCD plus GOOGL added idiosyncratic index drag. I would trim broad growth and semiconductor risk while staying selective around META into Connect, because the AI catalyst is real but no longer enough to neutralize the rates and oil overhang.",
-    "catalyst": "A sustained 10Y above 5%, Brent above $100, or continued weakness in GOOGL, MCD, and chip leadership would extend the pullback.",
-    "risk": "A strong Connect keynote, calmer yields, or constructive Trump-Xi AI headlines could re-ignite the AI trade and make trimming too cautious.",
-    "generated_at_pt": "2026-09-23T12:05:42-07:00"
+    "reasoning": "The synthetic brief reports a rates-led pullback and META event strength, but its precise market levels are not independently verified here and its Treasury-change fields disagree. Meta's official Muse announcement confirms the product launch, while Roche's September 22 release independently supports a separate pipeline catalyst rather than the brief's broad market narrative. I favor watching AI-commerce exposure until monetization evidence improves, with Roche the stronger gradual-add research idea and no option strike selected without a verified chain.",
+    "catalyst": "Verified Muse monetization or easing rates could improve the AI-commerce setup; Roche trial updates provide a separate catalyst.",
+    "risk": "Higher yields, weak AI-commerce conversion, or disappointing clinical results would undermine these setups.",
+    "generated_at_pt": "2026-09-23T15:04:27-07:00"
   }
 }
