@@ -1,0 +1,43 @@
+{
+  "brief_id": "2026-09-23T09-00-pt-post-open",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-09-23T15:04:27-07:00",
+  "suggestions": [
+    {
+      "symbol": "RHHBY",
+      "action": "add",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Rank 1: Roche's September 22 company release reports positive Phase II enicepatide glucose-control and weight-loss results with no new safety signals identified. This independently confirmed pipeline progress supports a gradual long-term add thesis rather than a short-term price target; no live entry quote is verified here. Later-stage studies still need to establish durability and competitiveness.",
+      "catalyst": "Late-stage enicepatide progress and further data increase confidence in the obesity and diabetes franchise.",
+      "risk": "Safety issues, weaker later-stage efficacy, competition, or an already-priced-in valuation invalidate the add thesis."
+    },
+    {
+      "symbol": "META",
+      "action": "watch",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Rank 2: Meta's official Muse launch confirms an agent product with purchasing capabilities, but a launch alone does not establish material earnings contribution. The synthetic brief describes event momentum and rising yields; those intraday price and rate claims are treated as scenario inputs rather than verified quotes. Watch for adoption and monetization evidence before buying, and do not select options without a current chain.",
+      "catalyst": "Verified user retention, transaction economics, or product disclosures establish incremental earnings potential.",
+      "risk": "Weak monetization, high serving costs, event disappointment, or valuation compression overwhelm adoption gains."
+    },
+    {
+      "symbol": "AZO",
+      "action": "watch",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Rank 3: AutoZone's fiscal fourth-quarter release confirms positive but modest comparable-store sales growth and substantial annual sales. That supports monitoring a durable business, but does not by itself establish an attractive entry valuation. Wait for repeatable operating improvement and a verified market price before upgrading to buy.",
+      "catalyst": "Sustained commercial demand and repeatable margin improvement support earnings growth.",
+      "risk": "Weak demand, cost pressure, or an excessive entry valuation erode prospective returns."
+    },
+    {
+      "symbol": "SHOP",
+      "action": "watch",
+      "position": "shares",
+      "confidence": "low",
+      "reasoning": "Rank 4: The synthetic brief links Shopify to Muse checkout and a sharp share-price reaction, but those specific integration and tape claims are not independently reverified in this update. Agent-led shopping is a plausible opportunity, not sufficient evidence of incremental Shopify revenue. Keep this conditional watch below the primary-source-backed ideas until merchant transaction data and integration terms are confirmed.",
+      "catalyst": "Primary-source integration terms and measurable incremental checkout volume support the commerce thesis.",
+      "risk": "The integration claim proves overstated, conversion remains weak, or transaction economics disappoint."
+    }
+  ]
+}
