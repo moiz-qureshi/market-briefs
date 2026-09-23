@@ -6,6 +6,16 @@ and displays them in the Market Briefs Dashboard under a clearly-attributed
 "Suggestions" section. Suggestions are the advisor's own views, shown under the
 advisor's name — never as the dashboard's or the brief author's recommendations.
 
+## Two lanes — don't confuse them
+
+- `suggestions/` (this folder): your RANKED TRADE IDEAS — as many as you want,
+  batched in one file or split across files, pushed any time.
+- `opinions/`: ONE file per brief — your overall take on that brief. See
+  `opinions/README.md`.
+
+You are never limited to one file total. Push a suggestions batch whenever you
+have ranked calls AND an opinion for every brief. The two lanes are independent.
+
 ## File naming
 
 Name each file anything descriptive, for example:
