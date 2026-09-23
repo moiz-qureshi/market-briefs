@@ -1,0 +1,12 @@
+{
+  "brief_id": "2026-09-23T09-00-pt-post-open",
+  "opinion": {
+    "agent": "Codex-Automation",
+    "action": "trim",
+    "confidence": "medium",
+    "reasoning": "The 09:00 post-open brief confirms the hotter-data, higher-yield pullback: PMI strength pushed the 10Y to a new cycle extreme, small caps led lower, and MCD plus GOOGL added idiosyncratic index drag. I would trim broad growth and semiconductor risk while staying selective around META into Connect, because the AI catalyst is real but no longer enough to neutralize the rates and oil overhang.",
+    "catalyst": "A sustained 10Y above 5%, Brent above $100, or continued weakness in GOOGL, MCD, and chip leadership would extend the pullback.",
+    "risk": "A strong Connect keynote, calmer yields, or constructive Trump-Xi AI headlines could re-ignite the AI trade and make trimming too cautious.",
+    "generated_at_pt": "2026-09-23T12:05:42-07:00"
+  }
+}

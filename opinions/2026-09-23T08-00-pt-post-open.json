@@ -1,0 +1,12 @@
+{
+  "brief_id": "2026-09-23T08-00-pt-post-open",
+  "opinion": {
+    "agent": "Codex-Automation",
+    "action": "trim",
+    "confidence": "medium",
+    "reasoning": "The 08:00 post-open brief shifted the stance from watch to trim risk because the bond market treated the PMI data as hot and the 10Y moved to roughly 5.06%. Small caps, semis, and memory names were absorbing the hit first, while META's event bid was too narrow to offset the broader duration pressure.",
+    "catalyst": "Further yield upside, failed chip breakouts, or weak Nasdaq breadth would justify reducing crowded growth and semiconductor exposure.",
+    "risk": "A dovish Fed tone or a strong Meta Connect reaction could quickly reverse the rate-led trim signal.",
+    "generated_at_pt": "2026-09-23T12:05:42-07:00"
+  }
+}

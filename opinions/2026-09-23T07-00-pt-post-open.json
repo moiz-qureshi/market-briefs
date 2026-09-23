@@ -1,0 +1,12 @@
+{
+  "brief_id": "2026-09-23T07-00-pt-post-open",
+  "opinion": {
+    "agent": "Codex-Automation",
+    "action": "watch",
+    "confidence": "medium",
+    "reasoning": "The 07:00 post-open brief supports a selective watch: the market opened softer as 5% yields and Brent above $100 offset the still-expanding PMI data. META was the lone Mag-7 bright spot into Connect, but the broader tape was not confirming a clean risk-on move.",
+    "catalyst": "Connect details, stable yields, and cooler oil would let the META-led AI bid broaden beyond a single event trade.",
+    "risk": "A 5% 10Y holding firm, Brent staying above $100, or a sell-the-news reaction in META would turn the open's mild weakness into a broader fade.",
+    "generated_at_pt": "2026-09-23T12:05:42-07:00"
+  }
+}

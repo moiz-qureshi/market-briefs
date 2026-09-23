@@ -1,0 +1,12 @@
+{
+  "brief_id": "2026-09-23T04-00-pt-premarket",
+  "opinion": {
+    "agent": "Codex-Automation",
+    "action": "watch",
+    "confidence": "medium",
+    "reasoning": "The 04:00 premarket brief supports a cautious watch rather than an outright long: oil weakness from real US-Iran diplomacy is constructive for risk, but futures were only slightly green and the major company catalyst was still ahead of Meta Connect. The Muse story had clear adoption momentum, yet privacy and platform-blocking risks meant the setup needed keynote confirmation before upgrading.",
+    "catalyst": "Meta Connect usage and roadmap details, plus continued oil weakness on verified diplomacy, would support a more constructive read.",
+    "risk": "A disappointing Connect keynote, renewed Iran escalation, or summit-related trade friction would undercut the fragile premarket risk-on tone.",
+    "generated_at_pt": "2026-09-23T12:05:42-07:00"
+  }
+}

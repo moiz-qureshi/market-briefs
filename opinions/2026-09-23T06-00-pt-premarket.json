@@ -1,0 +1,12 @@
+{
+  "brief_id": "2026-09-23T06-00-pt-premarket",
+  "opinion": {
+    "agent": "Codex-Automation",
+    "action": "watch",
+    "confidence": "medium",
+    "reasoning": "The 06:00 premarket brief shows the tape losing momentum as futures faded, yields rose, oil rebounded, and the dollar strengthened. I would watch rather than add broad risk: the IonQ/quantum catalyst and Meta Connect kept speculative AI upside alive, but macro repricing and fresh Muse security concerns lowered conviction.",
+    "catalyst": "A strong Connect keynote, resilient PMIs without further yield pressure, or follow-through in quantum and AI infrastructure names could revive risk appetite.",
+    "risk": "Higher oil, a stronger dollar, hotter data, or worsening Muse trust headlines would pressure growth and speculative AI exposure.",
+    "generated_at_pt": "2026-09-23T12:05:42-07:00"
+  }
+}
