@@ -1,56 +1,62 @@
 [
- {
-  "file": "2026-09-23T09-00-pt-post-open.json",
-  "brief_id": "2026-09-23T09-00-pt-post-open",
-  "generated_at_pt": "2026-09-23T09:00:00-07:00",
-  "type": "post-open"
- },
- {
-  "file": "2026-09-23T08-00-pt-post-open.json",
-  "brief_id": "2026-09-23T08-00-pt-post-open",
-  "generated_at_pt": "2026-09-23T08:03:44-07:00",
-  "type": "post-open"
- },
- {
-  "file": "2026-09-23T07-00-pt-post-open.json",
-  "brief_id": "2026-09-23T07-00-pt-post-open",
-  "generated_at_pt": "2026-09-23T07:12:00-07:00",
-  "type": "post-open"
- },
- {
-  "file": "2026-09-23T06-00-pt-premarket.json",
-  "brief_id": "2026-09-23T06-00-pt-premarket",
-  "generated_at_pt": "2026-09-23T06:04:00-07:00",
-  "type": "premarket"
- },
- {
-  "file": "2026-09-23T05-00-pt-premarket.json",
-  "brief_id": "2026-09-23T05-00-pt-premarket",
-  "generated_at_pt": "2026-09-23T05:09:00-07:00",
-  "type": "premarket"
- },
- {
-  "file": "2026-09-23T04-00-pt-premarket.json",
-  "brief_id": "2026-09-23T04-00-pt-premarket",
-  "generated_at_pt": "2026-09-23T04:08:00-07:00",
-  "type": "premarket"
- },
- {
-  "file": "2026-09-22T09-00-pt-post-open.json",
-  "brief_id": "2026-09-22T09-00-pt-post-open",
-  "generated_at_pt": "2026-09-22T09:05:00-07:00",
-  "type": "post-open"
- },
- {
-  "file": "2026-09-22T08-00-pt-post-open.json",
-  "brief_id": "2026-09-22T08-00-pt-post-open",
-  "generated_at_pt": "2026-09-22T08:11:07-07:00",
-  "type": "post-open"
- },
- {
-  "file": "2026-09-22T07-00-pt-post-open.json",
-  "brief_id": "2026-09-22T07-00-pt-post-open",
-  "generated_at_pt": "2026-09-22T07:00:00-07:00",
-  "type": "post-open"
- }
+  {
+    "file": "2026-09-24T04-00-pt-premarket.json",
+    "brief_id": "2026-09-24T04-00-pt-premarket",
+    "generated_at_pt": "2026-09-24T04:00:00-07:00",
+    "type": "premarket"
+  },
+  {
+    "file": "2026-09-23T09-00-pt-post-open.json",
+    "brief_id": "2026-09-23T09-00-pt-post-open",
+    "generated_at_pt": "2026-09-23T09:00:00-07:00",
+    "type": "post-open"
+  },
+  {
+    "file": "2026-09-23T08-00-pt-post-open.json",
+    "brief_id": "2026-09-23T08-00-pt-post-open",
+    "generated_at_pt": "2026-09-23T08:03:44-07:00",
+    "type": "post-open"
+  },
+  {
+    "file": "2026-09-23T07-00-pt-post-open.json",
+    "brief_id": "2026-09-23T07-00-pt-post-open",
+    "generated_at_pt": "2026-09-23T07:12:00-07:00",
+    "type": "post-open"
+  },
+  {
+    "file": "2026-09-23T06-00-pt-premarket.json",
+    "brief_id": "2026-09-23T06-00-pt-premarket",
+    "generated_at_pt": "2026-09-23T06:04:00-07:00",
+    "type": "premarket"
+  },
+  {
+    "file": "2026-09-23T05-00-pt-premarket.json",
+    "brief_id": "2026-09-23T05-00-pt-premarket",
+    "generated_at_pt": "2026-09-23T05:09:00-07:00",
+    "type": "premarket"
+  },
+  {
+    "file": "2026-09-23T04-00-pt-premarket.json",
+    "brief_id": "2026-09-23T04-00-pt-premarket",
+    "generated_at_pt": "2026-09-23T04:08:00-07:00",
+    "type": "premarket"
+  },
+  {
+    "file": "2026-09-22T09-00-pt-post-open.json",
+    "brief_id": "2026-09-22T09-00-pt-post-open",
+    "generated_at_pt": "2026-09-22T09:05:00-07:00",
+    "type": "post-open"
+  },
+  {
+    "file": "2026-09-22T08-00-pt-post-open.json",
+    "brief_id": "2026-09-22T08-00-pt-post-open",
+    "generated_at_pt": "2026-09-22T08:11:07-07:00",
+    "type": "post-open"
+  },
+  {
+    "file": "2026-09-22T07-00-pt-post-open.json",
+    "brief_id": "2026-09-22T07-00-pt-post-open",
+    "generated_at_pt": "2026-09-22T07:00:00-07:00",
+    "type": "post-open"
+  }
 ]
