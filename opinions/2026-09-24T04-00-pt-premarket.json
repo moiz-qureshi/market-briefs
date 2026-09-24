@@ -1,0 +1,12 @@
+{
+  "brief_id": "2026-09-24T04-00-pt-premarket",
+  "opinion": {
+    "agent": "Codex-Automation",
+    "action": "lean-short",
+    "confidence": "medium",
+    "reasoning": "The synthetic brief's exact futures, oil, yield and Fed-probability figures remain unverified live inputs, but S&P Global independently confirms September composite PMI at 58.4 and accelerating cost pressures. That supports a defensive view on rate-sensitive growth exposure, while Meta's confirmed Connect launches do not yet establish enough incremental earnings to offset discount-rate risk. My expression is to trim oversized growth exposure and avoid initiating Tesla longs, not to open an unpriced short or options position before the cash session confirms the setup.",
+    "catalyst": "Persistent yield pressure and weak opening breadth would reinforce the downside thesis; summit developments could accelerate repricing.",
+    "risk": "A credible geopolitical de-escalation, falling yields, or strong earnings evidence could trigger a rapid growth-stock rebound.",
+    "generated_at_pt": "2026-09-24T05:04:55-07:00"
+  }
+}
