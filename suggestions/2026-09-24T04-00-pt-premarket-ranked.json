@@ -1,0 +1,43 @@
+{
+  "brief_id": "2026-09-24T04-00-pt-premarket",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-09-24T05:04:55-07:00",
+  "suggestions": [
+    {
+      "symbol": "QQQ",
+      "action": "trim",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Rank 1: Trim oversized existing growth exposure rather than initiate a new leveraged bearish trade. S&P Global's September flash report independently confirms strong activity and rising cost pressures, supporting discount-rate risk; the brief's precise Treasury and futures levels are synthetic inputs not independently verified here. Use a current executable quote and your allocation target after the cash open, with no numerical entry or price target implied.",
+      "catalyst": "Treasury yields remain elevated and growth stocks fail to recover the opening range as breadth stays weak.",
+      "risk": "Lower yields or a favorable summit outcome sparks a rebound, making an early reduction costly."
+    },
+    {
+      "symbol": "TSLA",
+      "action": "avoid",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Rank 2: Avoid initiating a fresh Tesla long while regulatory uncertainty clouds the autonomy thesis. NHTSA independently announced a Cybercab self-certification inquiry on September 4, while retrieved FSD investigation records date to earlier years and do not substantiate the brief's claim of two newly opened probes today. This is an entry-avoidance call, not a short recommendation or an assertion that the regulator has found a violation.",
+      "catalyst": "New compliance disclosures or official regulatory findings clarify the timing and economics of autonomous deployment.",
+      "risk": "A favorable compliance resolution or stronger operating results materially improves the investment case."
+    },
+    {
+      "symbol": "META",
+      "action": "watch",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Rank 3: Meta's official September 23 newsroom confirms new VR and AI-glasses products, so the product catalyst is real. The brief's premarket selloff and analyst targets remain unverified market inputs, and product announcements alone do not establish earnings accretion. Consider upgrading only after a current quote, post-open price stabilization and credible adoption or margin evidence support the entry.",
+      "catalyst": "Connect follow-through produces measurable adoption and monetization while the stock stabilizes against the broader market.",
+      "risk": "Higher yields, weak demand or rising investment costs overwhelm the product cycle."
+    },
+    {
+      "symbol": "XLE",
+      "action": "watch",
+      "position": "shares",
+      "confidence": "low",
+      "reasoning": "Rank 4: Watch diversified energy exposure as a conditional alternative to rate-sensitive growth, not an automatic buy on geopolitical headlines. S&P Global confirms rising fuel-cost pressure, but the brief's exact crude levels and energy-sector outperformance are not independently verified live here. Require a current quote, sustained energy relative strength and no sharp crude reversal before considering an entry.",
+      "catalyst": "Sustained oil strength translates into resilient producer earnings and energy-sector relative strength.",
+      "risk": "Diplomatic de-escalation or weaker demand reverses crude prices and the energy trade."
+    }
+  ]
+}
