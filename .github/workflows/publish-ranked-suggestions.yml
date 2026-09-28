@@ -50,10 +50,6 @@ jobs:
           done
 
           latest_file="$(git diff --cached --name-only | sort | tail -n 1)"
-          brief_id="$(python3 - "$latest_file" <<'PY'
-import json, sys
-print(json.load(open(sys.argv[1])).get("brief_id", "batch"))
-PY
-)"
+          brief_id="$(python3 -c 'import json, sys; print(json.load(open(sys.argv[1])).get("brief_id", "batch"))' "$latest_file")"
           git commit -m "Add ranked suggestions for ${brief_id}"
           git push origin main
