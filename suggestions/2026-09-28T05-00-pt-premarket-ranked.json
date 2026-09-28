@@ -1,0 +1,34 @@
+{
+  "brief_id": "2026-09-28T05-00-pt-premarket",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-09-28T05:37:02-07:00",
+  "suggestions": [
+    {
+      "action": "trim",
+      "symbol": "QQQ",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Trim oversized existing QQQ exposure toward the intended allocation if the first 30 minutes of regular trading confirm weak technology participation and persistent Treasury yield pressure, using an executable quote. The synthetic 05:00 brief retains Nasdaq futures at minus 0.9% while the reported Treasury yield rises to a 5.22%-5.24% range and oil strengthens, reinforcing the prior defensive call; its exact yield change is internally inconsistent and its market figures remain scenario inputs. Nvidia's company-specific buyback does not establish broad participation, and absent cash-session breadth limits confidence even as this week's previously verified PCE and employment releases approach.",
+      "catalyst": "A failed technology rebound after the cash open, sustained high yields or stronger inflation data could extend growth-stock valuation compression.",
+      "risk": "Falling yields, credible diplomatic progress or broadening AI leadership could reverse the decline; reassess the trim if QQQ recovers its opening range as rates ease."
+    },
+    {
+      "action": "watch",
+      "symbol": "NVDA",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Watch NVDA for a possible small shares entry only after it holds its first 30-minute opening range and outperforms QQQ while yields stabilize. Nvidia's company release, reproduced by StockTitan, confirms an additional $150 billion repurchase authorization and $235 billion remaining through fiscal 2028, but authorization is not completed buying and does not create a near-term price floor. The synthetic brief's roughly 1% premarket gain against weak semiconductor peers makes relative strength worth testing, while OpenAI's primary incident report confirms a training interruption without establishing a reduction in Nvidia orders.",
+      "catalyst": "Sustained post-open relative strength and subsequent evidence of repurchase execution could support NVDA despite a weak broader technology market.",
+      "risk": "A failed opening-range hold, higher yields or evidence of customer spending delays could overwhelm the buyback narrative; unconfirmed China purchase plans are excluded from the entry thesis."
+    },
+    {
+      "action": "hold",
+      "symbol": "XLE",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Hold an existing, appropriately sized XLE allocation while sustained crude strength continues to undermine the September 22 falling-oil trim thesis. The synthetic 05:00 brief describes a steeper oil rise, but leaves WTI fields null and mixes crude benchmarks, so its roughly $108 headline is not treated as a verified WTI quote or an entry level. State Street's fund information confirms energy-equity exposure, while missing current XLE price action and continuing diplomatic uncertainty favor retaining the position over adding.",
+      "catalyst": "Sustained crude strength accompanied by energy-equity outperformance could support producer earnings expectations.",
+      "risk": "Renewed diplomacy, weaker demand or broad equity selling could reverse energy returns; refiners and service holdings mean XLE is not a direct crude-price hedge."
+    }
+  ]
+}
