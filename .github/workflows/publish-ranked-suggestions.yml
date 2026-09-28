@@ -1,0 +1,59 @@
+name: Publish ranked suggestions
+
+on:
+  schedule:
+    # Covers 5:15-10:15 America/Los_Angeles across DST. The script gates actual PT hours.
+    - cron: "15 12-18 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ranked-suggestions-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Generate ranked suggestions
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python3 scripts/generate-ranked-suggestions.py --enforce-window
+          else
+            python3 scripts/generate-ranked-suggestions.py
+          fi
+
+      - name: Commit and push suggestions
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain -- suggestions/*.json)" ]; then
+            echo "No suggestion changes to publish."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- suggestions/*.json
+
+          for path in $(git diff --cached --name-only); do
+            case "$path" in
+              suggestions/*.json) ;;
+              *) echo "Refusing to commit unexpected path: $path" >&2; exit 1 ;;
+            esac
+          done
+
+          latest_file="$(git diff --cached --name-only | sort | tail -n 1)"
+          brief_id="$(python3 - "$latest_file" <<'PY'
+import json, sys
+print(json.load(open(sys.argv[1])).get("brief_id", "batch"))
+PY
+)"
+          git commit -m "Add ranked suggestions for ${brief_id}"
+          git push origin main

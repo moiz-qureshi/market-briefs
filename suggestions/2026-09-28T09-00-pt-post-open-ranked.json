@@ -1,0 +1,34 @@
+{
+  "brief_id": "2026-09-28T09-00-pt-post-open",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-09-28T09:18:35-07:00",
+  "suggestions": [
+    {
+      "action": "add",
+      "symbol": "XLE",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "The newest synthetic brief keeps crude and energy at the center of the tape, with oil strength reinforcing inflation and rate pressure while energy equities are described as relative winners. XLE is the clean diversified equity expression for that synthetic setup, and the missing matching opinion file keeps this from ranking as high conviction. Confidence stays medium because the generator uses repo facts only and any fast diplomatic reversal would quickly unwind the oil premise.",
+      "catalyst": "Sustained crude strength and energy-sector relative strength could extend the rotation into XLE.",
+      "risk": "Iran de-escalation, a crude reversal, or broad risk-off selling could invalidate the add."
+    },
+    {
+      "action": "trim",
+      "symbol": "QQQ",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "The newest synthetic brief frames higher Treasury yields and oil-driven inflation pressure as the main force weighing on rate-sensitive growth and AI-adjacent technology. Trimming oversized QQQ exposure is a risk-control expression rather than an aggressive short, especially while Nvidia has company-specific support that can keep parts of the complex bid. The upcoming macro-data window in the brief makes the setup actionable, but missing breadth and live execution data keep conviction at medium.",
+      "catalyst": "Persistent yield pressure into PCE and jobs data could deepen growth-stock valuation compression.",
+      "risk": "Falling yields, credible diplomacy, or broad AI leadership could make the trim premature."
+    },
+    {
+      "action": "watch",
+      "symbol": "NVDA",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "The synthetic brief gives Nvidia a company-specific support line through its large buyback authorization and relative strength versus the weaker AI and semiconductor tape. That support is worth watching, but an authorization is not the same as executed buying and does not remove the macro headwind from higher yields. Wait for NVDA to hold its opening range and outperform QQQ before upgrading from watch to add.",
+      "catalyst": "Sustained relative strength and evidence of buyback support could improve the entry setup.",
+      "risk": "Higher yields, AI-spending concerns, or a failed opening-range hold could overwhelm the buyback narrative."
+    }
+  ]
+}
