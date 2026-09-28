@@ -1,0 +1,34 @@
+{
+  "brief_id": "2026-09-28T07-00-pt-post-open",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-09-28T07:33:40-07:00",
+  "suggestions": [
+    {
+      "action": "add",
+      "symbol": "XLE",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "The synthetic latest brief shows the oil-yields chain persisting into the open, with Brent front-month near $108, the 10Y near 5.24%, and energy shares green while broad indexes and technology opened lower. External checks support the tradable expression rather than every scenario detail: Reuters-syndicated reporting confirms crude rebounded after the rejected Iran proposal, and State Street confirms XLE targets S&P 500 energy-sector exposure. Missing latest-opinion input and fast-moving diplomacy keep confidence at medium, but the prior falling-oil XLE trim thesis is invalidated while crude remains the tape's dominant factor.",
+      "catalyst": "Sustained crude strength and energy-equity relative strength after the open could extend the macro rotation.",
+      "risk": "Verified Iran de-escalation, a crude reversal, or broad risk-off selling that overwhelms energy beta would invalidate the add."
+    },
+    {
+      "action": "trim",
+      "symbol": "QQQ",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "The synthetic latest brief shows the Nasdaq and S&P opening lower as the 10Y reaches 5.24%, October-hike pricing stays elevated, and fresh AI-sentiment negatives hit the tape despite Nvidia's buyback. External checks confirm the September 30 PCE and October 2 employment catalysts, and Invesco confirms QQQ is the clean Nasdaq-100 large non-financial exposure for reducing rate-sensitive growth risk. Missing prior opinion and Nvidia's company-specific support argue for trimming oversized QQQ exposure rather than opening an aggressive short.",
+      "catalyst": "Persistent Treasury-yield pressure into PCE and jobs week could deepen valuation compression in growth leadership.",
+      "risk": "Falling yields, credible diplomacy, or broad AI-led relative strength could make a QQQ trim premature."
+    },
+    {
+      "action": "watch",
+      "symbol": "NVDA",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Nvidia's own release confirms a $150 billion increase to the buyback authorization, lifting the remaining program to $235 billion through fiscal 2028, and the synthetic brief reports NVDA up about 2% while the broader technology tape is weak. That is real relative-strength support, but authorization is not executed buying and the same brief flags AI-safety and AI-sentiment negatives that can cap the multiple. Watch for NVDA to hold its opening range and outperform QQQ before upgrading to add, with no options strike selected without a verified chain.",
+      "catalyst": "Post-open relative strength plus evidence of buyback execution could turn the authorization into a stronger support signal.",
+      "risk": "Higher yields, customer-spending concerns, or a failed opening-range hold could overwhelm the capital-return narrative."
+    }
+  ]
+}
