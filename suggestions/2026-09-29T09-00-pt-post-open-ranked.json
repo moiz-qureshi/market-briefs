@@ -1,0 +1,34 @@
+{
+  "brief_id": "2026-09-29T09-00-pt-post-open",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-09-29T13:32:12-07:00",
+  "suggestions": [
+    {
+      "action": "avoid",
+      "symbol": "FICO",
+      "position": "shares",
+      "confidence": "high",
+      "reasoning": "Avoid initiating or averaging into FICO while the synthetic brief's monopoly-risk shock is externally corroborated by FHFA/VantageScore mortgage-score modernization and reports that Rocket Mortgage is moving VantageScore-first for eligible loans. The stock's sharp selloff reflects a structural repricing of Scores pricing power, not just a normal earnings miss, so a falling-knife bounce is not enough to restore the thesis.",
+      "catalyst": "More lenders adopt VantageScore or GSE pricing changes confirm lower FICO mortgage-score pricing power.",
+      "risk": "Adoption is slower than feared or Fair Isaac proves mortgage-score economics are less exposed than the tape implies."
+    },
+    {
+      "action": "add",
+      "symbol": "NVDA",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Add only to an existing NVDA position on confirmed relative strength, because Nvidia has the cleanest company-specific support inside the AI trade: its official $150B authorization increase lifts remaining buyback capacity to $235B, while the latest synthetic brief shows chips rebounding despite weak index breadth. Confidence stays medium because authorization is not executed buying, the 10Y near 5.26% still compresses long-duration multiples, and AI safety headlines keep headline risk elevated.",
+      "catalyst": "Sustained NVDA outperformance versus QQQ plus evidence the buyback narrative offsets AI capex and safety concerns.",
+      "risk": "Higher yields, failed chip follow-through, or AI spending concerns overwhelm the capital-return support."
+    },
+    {
+      "action": "trim",
+      "symbol": "QQQ",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "Trim oversized QQQ exposure toward target allocation while the synthetic macro setup remains hostile to broad growth: the 10Y is back near 5.26%, October hike odds are elevated, and consumer confidence fell to 81.9 ahead of PCE and payrolls. Nvidia and semis can still work idiosyncratically, so this is a risk-control trim rather than an aggressive short on the whole AI complex.",
+      "catalyst": "Persistent yield pressure into PCE and jobs data drives another valuation-compression leg in crowded growth.",
+      "risk": "A dovish Fed signal, cooler inflation data, or a broad AI-led rebound makes the trim premature."
+    }
+  ]
+}
