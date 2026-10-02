@@ -1,0 +1,130 @@
+{
+  "brief_id": "2026-10-02T04-00-pt-premarket",
+  "generated_at_pt": "2026-10-02T04:00:00-07:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": 0.51,
+    "sp500_futures_pct": 0.5,
+    "nasdaq100_futures_pct": 0.83,
+    "sp500_vs_record_pct": null,
+    "vix": 16.39,
+    "vix_change": null,
+    "treasury_10y_pct": 5.236,
+    "treasury_10y_change_bps": -9.4,
+    "sp500_advance_decline": "1.35:1",
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "All futures figures are Friday premarket (~5am ET). All other internals describe Thursday's prior regular session: S&P 500 +0.19% at 7,666.45, snapping a 3-day losing streak; ~56% of issues advancing vs 41.5% declining (ratio derived from those sourced figures); tech +0.8% led on semis, biotech lagged; 53-65% of stocks above their 20/50/100/200-day SMAs. No sourced volume-vs-20-day-average figure.",
+    "wti_usd": 92.87,
+    "wti_day_pct": 2.7,
+    "gold_usd": 4157.0,
+    "gold_day_pct": null,
+    "btc_usd": 86300.0,
+    "notes": "Fri 4:00am PT premarket: futures higher ahead of the 8:30am ET jobs report (Dow +0.51%, S&P +0.5%, Nasdaq-100 +0.83%); 10Y at 5.236% off Thursday's 24-year high ~5.34% after the Jefferson dovish pivot; Brent $101.14 premarket (-1.1%) after Thursday's +4% run to $102.31 on US Mideast buildup; gold ~$4,157; BTC ~$86,300; DXY at 18-month high."
+  },
+  "headlines": [
+    {
+      "ticker": "NKE",
+      "headline": "Nike reported fiscal Q1 after Thursday's close: revenue $11.21B (-4% y/y) missed ~$11.3B consensus while EPS $0.48 beat; Greater China -26% currency-neutral; full-year FY27 guide cut to revenue down high-single-digits and adjusted EPS $1.15-$1.35 vs $1.67 consensus, with a $2.5B savings plan. Shares down ~9% premarket, worst year on record.",
+      "why_it_matters": "Revenue miss plus a much weaker full-year guide says the turnaround is taking longer than expected \u2014 a sentiment overhang for consumer discretionary at the open.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/nike-earnings-stock-price-7e4ffe0a"
+    },
+    {
+      "ticker": "GOOGL",
+      "headline": "Google launched Gemini 4 Argon, its most advanced AI model, priced at $2/$10 per million input/output tokens \u2014 undercutting rival frontier models; shares up ~1.3% premarket to $348.41 after a 16% slide since May. Separately, Google put TPU technology in orbit for the first time on a SpaceX rideshare.",
+      "why_it_matters": "A credible frontier-model launch plus an orbital TPU demo gives the AI narrative fresh legs \u2014 supportive bid for megacap tech.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.tradingview.com/news/stocktwits:3865593f8094b:0-nasdaq-s-p-500-dow-futures-rise-ahead-of-jobs-report-nke-meta-rklb-mrna-sls-tsla-stocks-in-focus/"
+    },
+    {
+      "ticker": "META",
+      "headline": "New Mexico is reportedly seeking up to $40B in data-privacy penalties from Meta tied to the Cambridge Analytica matter; shares up marginally premarket.",
+      "why_it_matters": "The $40B figure is a single reported ask, not a confirmed fine \u2014 treat as fragile; it adds legal-overhang noise on top of Thursday's relative weakness.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.tradingview.com/news/stocktwits:3865593f8094b:0-nasdaq-s-p-500-dow-futures-rise-ahead-of-jobs-report-nke-meta-rklb-mrna-sls-tsla-stocks-in-focus/"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon is reportedly exploring shifting ~$8B of Nvidia Grace Blackwell chips into a special-purpose vehicle and leasing them back.",
+      "why_it_matters": "Single-source and unconfirmed \u2014 treat as fragile; if real, it would be a capex-light way to keep funding AI infrastructure, easing balance-sheet strain concerns.",
+      "sentiment": "positive",
+      "confirmation": "single-source",
+      "source": "https://www.tradingview.com/news/stocktwits:3865593f8094b:0-nasdaq-s-p-500-dow-futures-rise-ahead-of-jobs-report-nke-meta-rklb-mrna-sls-tsla-stocks-in-focus/"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Nvidia up ~0.9% premarket (closed Thursday +1.09% at $230.86), carried by Micron's record quarter \u2014 revenue $54.2B and FY Q1 guide of ~$61.5B vs $56.8B consensus.",
+      "why_it_matters": "Micron's numbers are the strongest evidence yet AI memory capex is still accelerating \u2014 a direct sentiment tailwind for the AI-chip complex.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-yields-tumble-micron-tesla-jobs-report-due/"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Tesla reports Q3 2026 deliveries today (not yet released as of 4am PT). Company-compiled consensus: ~462k vehicles (median 463,406), about -7% y/y vs the record 497,099 in Q3 2025 when US EV credits were expiring; energy storage consensus 15.9 GWh (+27% y/y).",
+      "why_it_matters": "Tesla's biggest near-term catalyst lands during today's session \u2014 the actual print will move the stock off expectations either way.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://ir.tesla.com/press-release/delivery-consensus-third-quarter-2026"
+    },
+    {
+      "ticker": "ON",
+      "headline": "ON Semiconductor agreed to buy Synaptics for $5.7B \u2014 revised down from $7B previously. ON +6.1%, SYNA +14% premarket.",
+      "why_it_matters": "A lower agreed price reads as a buyer-friendly renegotiation \u2014 a modest positive for ON while still a takeover premium for SYNA.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/stock-movers-5e76284f"
+    },
+    {
+      "ticker": "MRNA",
+      "headline": "Moderna will replace Warner Bros. Discovery in the Nasdaq-100 effective Oct 9, as WBD completes its Paramount Skydance merger next week; MRNA +~2% premarket.",
+      "why_it_matters": "Index inclusion means mechanical buying from Nasdaq-100 trackers \u2014 a flow tailwind into the Oct 9 effective date.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.tradingview.com/news/stocktwits:3865593f8094b:0-nasdaq-s-p-500-dow-futures-rise-ahead-of-jobs-report-nke-meta-rklb-mrna-sls-tsla-stocks-in-focus/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Fed Vice Chair Jefferson signaled patience Thursday \u2014 officials 'may need more time' before judging whether further hikes are needed \u2014 and October rate-hike odds fell to ~23-26% from ~70% Monday; Goldman pushed its next-hike call to December.",
+      "why_it_matters": "The dovish pivot from the Fed's #2 drove Thursday's bond rebound off the 24-year yield high \u2014 and makes Friday's jobs report the swing factor for the Oct 27-28 meeting.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://walletinvestor.com/news/finance-news/fed-officials-signal-patience-as-october-rate-hike-odds-fall-to-23/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Initial jobless claims held at 197,000 (unchanged, vs 200k expected) \u2014 a 10-week low \u2014 with continuing claims at a 3.5-year low ahead of today's September payrolls (consensus ~84-95k, unemployment 4.1%).",
+      "why_it_matters": "Steady claims support the 'labor market stable' read \u2014 a neutral-to-positive backdrop heading into NFP, with little pre-emption of the report.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-yields-tumble-micron-tesla-jobs-report-due/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news overnight. Today, Friday Oct 2, is the last NYSE trading day; units begin trading on the Texas Stock Exchange on Oct 5 with the ticker unchanged. Carried: consensus Hold with $29.50 average target across six firms; Wall Street Zen downgrade to hold (Sep 26); $600M 6.75% senior notes due 2035 priced Sep 9. Thursday's $102 Brent is a mild sector tailwind.",
+    "sentiment": "neutral",
+    "source": "https://www.businesswire.com/news/home/20260909309670/en/USA-Compression-Partners-LP-to-Transfer-Stock-Exchange-Listing-to-Texas-Stock-Exchange"
+  },
+  "watch_next": [
+    "8:30am ET: September jobs report (NFP consensus ~84-95k, unemployment 4.1%) \u2014 the week's main event; October hike odds at ~25% make it the swing factor.",
+    "Tesla Q3 deliveries drop today (~462k consensus, -7% y/y) \u2014 moves TSLA during the session.",
+    "Nike opens down ~9% after the Q1 miss and FY27 guide cut \u2014 watch consumer discretionary fallout.",
+    "USAC: last NYSE trading day today; units list on the Texas Stock Exchange Oct 5 (ticker unchanged).",
+    "10Y yield direction after Thursday's 24-year high (~5.34%) \u2014 the bond bid is still the index's boss."
+  ],
+  "analysis": "The frame flipped on one speech: Jefferson's dovish pivot Thursday took October hike odds from ~70% to ~25% and knocked the 10Y off its 24-year high to ~5.24%, which is why futures are green into the open. That makes today's 8:30am ET jobs report the single swing factor \u2014 a hot print re-arms hike bets (Deutsche Bank flags exactly that), a soft one cements the pause. Stock-specific: the AI-capex paper trail stays signed (Micron's record quarter, ON/Synaptics) while the consumer turnaround story stalled (Nike's miss + guide cut, worst year on record). Meta has a double overhang: the OpenAI-threat weakness from earlier this week plus a single-source $40B penalties ask from New Mexico \u2014 the latter is fragile, treat accordingly. Signal vs noise: NFP, Tesla deliveries, and the Nike open are the signal; the META $40B ask, AMZN's $8B SPV report, and the Oracle/Tencent $7B chip lease (unconfirmed by both companies) are single-source noise until confirmed. Community read: the 1,655-point HN thread on Gemini 4 Argon confirms devs see Google back among the top three AI labs \u2014 constructive for the AI bid, not hype. Vs yesterday's briefs: the market went from 'good data is bad for bonds' (ISM prices-paid) to a Fed patience pivot \u2014 same 10Y level, opposite mood; Thursday's session snapped a 3-day losing streak with 56% breadth.",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "title": "Gemini 4 Argon",
+      "url": "https://news.ycombinator.com/item?id=49913571",
+      "takeaway": "1,655 points / 1,145 comments \u2014 the dev community sees Google back among the top three AI labs on intelligence, reinforcing constructive AI-infra sentiment rather than chasing benchmarks."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
