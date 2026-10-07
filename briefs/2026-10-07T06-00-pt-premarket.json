@@ -1,0 +1,131 @@
+{
+  "brief_id": "2026-10-07T06-00-pt-premarket",
+  "generated_at_pt": "2026-10-07T06:00:00-07:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": -0.6,
+    "sp500_futures_pct": -0.4,
+    "nasdaq100_futures_pct": -0.7,
+    "sp500_vs_record_pct": 0.0,
+    "vix": 15.52,
+    "vix_change": null,
+    "treasury_10y_pct": 5.34,
+    "treasury_10y_change_bps": 0.3,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Prior regular session: S&P 500 closed at a record 7,818.93 (+0.58%) and Nasdaq hit its 24th record close of 2026 on narrow AI-led gains; breadth narrowing (UBS's Haefele warns on concentration, Bespoke flags six of the 13 trillion-dollar stocks as overbought). Europe weaker this morning (Stoxx 600 -1%); VIX at 15.52 (+3.3%) into the open.",
+    "wti_usd": 90.0,
+    "wti_day_pct": 0.5,
+    "gold_usd": 4145.0,
+    "gold_day_pct": -1.0,
+    "btc_usd": 83600.0,
+    "notes": "Wednesday Oct 7, 6:00am PT. 30Y Treasury 5.70-5.71% (highest since 2002) ahead of the $39B 10-year auction at 1pm ET and Fed September-meeting minutes at 2pm ET; Fed speakers Waller, Kashkari and Musalem also due today. Brent $101.88-102.08 (+1.3-1.5%) after Houthi attacks on Saudi airports. Prior brief (5am): 10Y 5.337%, gold $4,118, BTC $83,683."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Futures lower into the open: Dow E-minis -0.6%, S&P 500 E-minis -0.4%, Nasdaq 100 futures -0.7% after the S&P 500 and Nasdaq closed at record highs Tuesday.",
+      "why_it_matters": "Profit-taking after back-to-back records \u2014 the bond selloff and rebounding oil are doing the damage as the 30-year sits at a 24-year high.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-wednesday-october-7-2026-12162281"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "10-year Treasury yield at 5.34%, up from Tuesday's 5.29% close and approaching Monday's 5.35% peak \u2014 its highest in nearly 25 years. The 30-year hit 5.70-5.71%, its highest since 2002.",
+      "why_it_matters": "Long-end yields at extremes into a $39B 10-year auction \u2014 a weak auction pushes yields higher and tightens the squeeze on the record tape.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/wall-st-futures-slip-yields-oil-rebound-fed-minutes-focus-2026-10-07/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Treasury auctions $39B of 10-year notes at 1pm ET; Fed September-meeting minutes drop at 2pm ET. Fed officials Waller, Kashkari and Musalem also speak today. FedWatch: ~78% chance of an October hold, December hike largely priced.",
+      "why_it_matters": "The auction result and minutes frame the hike path \u2014 the day's tape hinges on both, with Oct 14 CPI the only realistic path back to an October hike.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/wall-st-futures-slip-yields-oil-rebound-fed-minutes-focus-2026-10-07/"
+    },
+    {
+      "ticker": "SPY",
+      "headline": "VIX up 3.3% to 15.52 as the fear gauge ticks higher; the S&P 500's prior close was a record 7,818.93 (+0.58%), the Nasdaq's 24th record close of 2026.",
+      "why_it_matters": "Fear gauge rising against record prints \u2014 the open is being hedged even though the AI rally tape still shows records.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/livecoverage/stock-market-news-today-100726/card/market-fear-index-jumps-as-stock-futures-fall-and-bond-yields-rise-DaeerEkP2XbK7wenIv0X"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Nvidia down 1.1% at $236.70 premarket after its first record close since May. Nvidia-backed Lambda is raising up to $4B at a $14.5B valuation ahead of IPO; Mistral released a Large 4 preview trained on ~4,000 Nvidia Grace Blackwell GPUs.",
+      "why_it_matters": "Investors are watching Nvidia's neocloud bets to become the next SpaceX-scale customers \u2014 the stock's muted reaction to the SpaceX scoop is the tell that no confirmed demand event exists yet.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/nvidia-stock-price-ai-startups-ff880306"
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "SpaceX down ~2% premarket ($168-169). The FT and Bloomberg both report a $40B package \u2014 ~$10B in bank loans plus ~$30B in investment-grade debt led by Apollo \u2014 to fund Nvidia chip purchases, expected to close next year. No confirmation from SpaceX or Nvidia.",
+      "why_it_matters": "Financing overhang on the newest trillion-dollar name; the scale of the chip spend is the AI-capex story. Two outlets now report it, but with no company confirmation it stays fragile.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/spacex-stock-price-nvidia-musk-ai-chips-54508813"
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "Transportation Department/FAA proposed five rules Tuesday to streamline and modernize commercial space launch and reentry regulations \u2014 faster licensing, broader corridors, updated weather rules.",
+      "why_it_matters": "A genuine regulatory cost tailwind for SpaceX that cuts the other way against the financing overhang.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/spacex-stock-price-trump-space-traffic-rules-efa6aa84"
+    },
+    {
+      "ticker": "STZ",
+      "headline": "Constellation Brands down 5-8% premarket, on track for its lowest level since early 2020, after beating Q2 targets but signaling weak underlying demand for Modelo and Corona; the company also announced the acquisition of spirit-based RTD brand SpikedAde.",
+      "why_it_matters": "Beat-but-soft-guide is being punished \u2014 revenue quality, not the headline beat, sets the open; the RTD acquisition adds an execution question on top.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-wednesday-october-7-2026-12162281"
+    },
+    {
+      "ticker": "MU",
+      "headline": "Chip stocks lower premarket: Micron down 2.2%, Marvell down 1.2%.",
+      "why_it_matters": "AI-memory beta pulling back with the record tape \u2014 chips led the records and are leading the fade.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/wall-st-futures-slip-yields-oil-rebound-fed-minutes-focus-2026-10-07/"
+    },
+    {
+      "ticker": "INTC",
+      "headline": "Intel up 1.3% after Bloomberg reported the chipmaker will continue working on Elon Musk's Terafab chipmaking venture, partially reversing Tuesday's pullback.",
+      "why_it_matters": "The Terafab reversal is holding \u2014 a Musk-linked semiconductor tailwind while peers fade. Single-source, unconfirmed \u2014 treat as fragile.",
+      "sentiment": "positive",
+      "confirmation": "single-source",
+      "source": "https://www.reuters.com/business/wall-st-futures-slip-yields-oil-rebound-fed-minutes-focus-2026-10-07/"
+    },
+    {
+      "ticker": "MSTR",
+      "headline": "Crypto-related stocks sliding with bitcoin near $83,600 (-2.3%): Coinbase, Robinhood, Mara Holdings, Circle and Strategy (MSTR, -3.5%) all in the red.",
+      "why_it_matters": "Risk-off bleeding into crypto beta as yields rise and the dollar firms \u2014 the retreat from this week's $87K high is accelerating.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-wednesday-october-7-2026-12162281"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh overnight news. Carry-forward: USA Compression began primary trading on the Texas Stock Exchange on Oct 5 \u2014 one of the exchange's first corporate primary listings (Energy Transfer, Sunoco, USAC, ~$100B combined market cap). Zacks lifted Q3 2026 EPS estimates to $0.21 from $0.20 on Oct 1 (Hold); Oct 1 issuance of 34.47M Class A units at $26.7206 (9.25% fixed distributions) restructured the capital stack; Q2 print Aug 4 beat ($0.31 EPS vs $0.28 estimate, revenue $342.15M vs $340.49M). Brent back above $100 is the macro tailwind.",
+    "sentiment": "neutral",
+    "source": "https://www.thestockobserver.com/2026/10/04/zacks-research-issues-optimistic-outlook-for-usac-earnings.html"
+  },
+  "watch_next": [
+    "$39B 10-year Treasury auction result (1pm ET) \u2014 the day's sentiment setter in bonds",
+    "Fed September-meeting minutes (2pm ET) \u2014 hawkish tilt vs. peak-rates framing; Waller, Kashkari and Musalem speak today",
+    "Applied Digital (APLD) and Levi Strauss report after Wednesday's close",
+    "EIA crude inventories (10:30am ET) and Hormuz/Houthi developments after Brent retook $100",
+    "SpaceX $40B financing scoop \u2014 confirmation or denial from SpaceX or Nvidia"
+  ],
+  "analysis": "Versus the 5am brief, the setup held but sharpened into a yields-and-macro day. Futures stayed lower (S&P -0.4%), the 10-year ground to 5.34% \u2014 within a whisker of Monday's nearly-25-year peak \u2014 and the VIX ticked up 3.3% to 15.52, so the open is being hedged even off record prints. The SpaceX financing scoop firmed: Bloomberg now corroborates the FT (terms = ~$10B bank loans + ~$30B IG debt via Apollo, closing next year), but with no company confirmation it stays fragile \u2014 and Nvidia's muted reaction (-1.1% at $236.70 after its first record close since May) is the tell that no confirmed demand event exists yet. The Trump-era space-traffic rules are a genuine counterweight for SPCX. On names: the focus shifted from headline beats to revenue quality (STZ's slide deepened on soft Modelo/Corona demand even as it bought RTD brand SpikedAde), chip beta (MU -2.2%, MRVL -1.2%) is fading with the record tape while INTC's Terafab reversal holds (+1.3%, still single-source), and Nvidia's startup bets are under the microscope (Lambda $4B at $14.5B, Mistral Large 4 on ~4,000 Grace Blackwells). Signal: the 10Y auction and Fed minutes are today's real drivers. Noise: chop in single-outlet chip headlines and the crypto slide, which is following yields rather than leading anything.",
+  "community_signals": [],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
