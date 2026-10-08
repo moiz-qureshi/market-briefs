@@ -1,0 +1,94 @@
+{
+  "brief_id": "2026-10-08T09-00-pt-post-open",
+  "generated_at_pt": "2026-10-08T09:00:00-07:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "vix": null,
+    "vix_change": null,
+    "treasury_10y_pct": 5.3,
+    "treasury_10y_change_bps": 1.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": null,
+    "wti_usd": 92.7,
+    "wti_day_pct": 4.9,
+    "gold_usd": 4136.0,
+    "gold_day_pct": null,
+    "btc_usd": 82500.0,
+    "notes": "Thursday Oct 8, 9:00am PT \u2014 about 2.5 hours into the regular session. The strong 10Y auction relief is fully reversed: 10Y back to ~5.30% (up ~1bp; touched 5.35% in the morning) after Brent probed near $105.50. S&P 500 and Nasdaq on track for a second down day off Tuesday's records. WTI ~$92.70 (+4.9%), gold ~$4,136, bitcoin ~$82,500. CME FedWatch: 22% Oct hike / 86% Dec hike. FOMC minutes due 2pm ET."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Midday: S&P 500 -0.4%, Nasdaq -0.6%, Dow -0.4% (~-181 pts) \u2014 indexes on track for a second down day off Tuesday's records as crude's 4-5% spike retook the driver's seat.",
+      "why_it_matters": "Three down reads in a row confirm this is a supply-shock repricing, not a one-off fade \u2014 oil is now the binding constraint on both yields and equity multiples.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://nypost.com/2026/10/08/business/oil-prices-jump-5-pushing-treasury-yields-higher-and-stocks-lower-after-iranian-tanker-attacks/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Trump said he has no intention of striking a deal with Iran to end the conflict (AP), firming the war premium just as reports of a possible large-scale U.S. operation in Iran circulated.",
+      "why_it_matters": "Single-source, unconfirmed \u2014 treat the strike-prep reports as fragile. But Trump's confirmed no-deal stance removes the diplomatic off-ramp the tape was hoping for, so crude holds its bid even if the strike report proves wrong.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.sharecast.com/news/market-report-us/us-open-stocks-slip-as-surging-yields-crude-spike-weigh-on-sentiment--23796812.html"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "The 10Y Treasury yield is back to ~5.30% (up ~1bp on the day, after touching 5.35% in the morning), fully reversing the post-auction dip to 5.273% \u2014 BlackRock's Russ Brownback credits the intraday bond moves to oil action.",
+      "why_it_matters": "The auction's demand signal got steamrolled by crude within one session \u2014 yields are now a pure oil derivative intraday, which means every Hormuz headline is a bond-market headline too.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/livecoverage/stock-market-news-today-100826/card/bond-yields-are-high-but-so-is-growth-wzFsfB5Ad2cDqlLJCSOp"
+    },
+    {
+      "ticker": "GOOGL",
+      "headline": "Waymo closed a $5B term loan \u2014 its first debt financing \u2014 led by PIMCO, Blackstone and Sixth Street with Goldman as sole bookrunner, to accelerate its autonomous ride-hailing expansion (15th US city last month; Singapore next).",
+      "why_it_matters": "Positive on the expansion signal, but it extends the credit-financed AI buildout theme (Broadcom's $50B+ OpenAI financing, SpaceX's ~$40B, Oracle's chip-debt talks) \u2014 the AI capex story is increasingly a debt story, which the bond market is noticing.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/alphabets-waymo-secures-5-billion-term-loan-accelerate-expansion-2026-10-08/"
+    },
+    {
+      "ticker": "PLTR",
+      "headline": "Palantir rose ~5% to top the S&P 500's gainers, defying the macro tape; Skyworks fell ~5% to lead the losers, with Coherent, Corning, Lumentum and Super Micro weak \u2014 optical names reversing their export-control rally.",
+      "why_it_matters": "Selective risk appetite: software/platform names can still earn a bid while hardware-adjacent names pay for priced-for-perfection AI expectations \u2014 the dispersion is the story, not the index level.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://stocktwits.com/news-articles/markets/equity/dow-falls-nearly-200-points-s-and-p-500-and-nasdaq-in-red-as-treasury-yields-stay-near-24-year-highs-oil-prices-jump/cZDUkhDRBNj"
+    },
+    {
+      "ticker": "CMG",
+      "headline": "Carry-forward: Chipotle +6% on the FT's report that Starbucks had explored acquiring it; Starbucks -3%. Still no confirmation from either company.",
+      "why_it_matters": "Single-source, unconfirmed \u2014 treat as fragile. An 'explored' deal is pure option-value speculation, but it remains the session's biggest single-stock move and shows deal flow still gets paid.",
+      "sentiment": "positive",
+      "confirmation": "single-source",
+      "source": "https://www.reuters.com/business/starbucks-explored-chipotle-takeover-ft-reports-2026-10-08/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news this morning. Carry-forward: common units began trading on the Texas Stock Exchange under USAC on Oct 5 (transferred from NYSE); Oct 1 issuance of 34.47M Class A units at $26.7206 with 9.25% fixed distributions restructured the capital stack; Zacks lifted Q3 2026 EPS estimates to $0.21 from $0.20 (Hold); $600M of 6.75% senior unsecured notes due 2035 were issued in September; Q2 print Aug 4 beat ($0.31 EPS vs $0.28, revenue $342.15M vs $340.49M). WTI near $92.70 and firming gas prices are the macro tailwinds for gas-compression demand. Next fundamental catalyst is the Q3 print.",
+    "sentiment": "neutral",
+    "source": "https://www.businesswire.com/news/home/20260909309670/en/USA-Compression-Partners-LP-to-Transfer-Stock-Exchange-Listing-to-Texas-Stock-Exchange"
+  },
+  "watch_next": [
+    "FOMC minutes at 2pm ET (plus consumer credit at 3pm) \u2014 the minutes land against a tape already pricing an 86% December-hike chance",
+    "Microsoft Windows/Surface AI event today (Jensen Huang expected to attend) \u2014 any NVDA/MSFT AI-PC announcements",
+    "Hurricane Isaias's track toward the Gulf Coast \u2014 Gulf output restarts or further curtailments move crude directly",
+    "Trump's Iran remarks: confirmation, detail, or walk-back; the strike-prep report remains unconfirmed",
+    "TSMC full Q3 earnings next Thursday, Oct 15 \u2014 margins and capex guidance are the real AI-demand verdict",
+    "Broadcom/OpenAI $50B+, SpaceX ~$40B, Oracle chip-debt financing reports \u2014 confirmation or denial from the companies",
+    "CMG/SBUX: confirmation or denial of the FT's 'explored acquisition' report",
+    "Next week: CPI and the bank-earnings kickoff; University of Michigan consumer sentiment Friday"
+  ],
+  "analysis": "Versus the 8am brief, the story is the same but sharper: the 10Y auction's demand signal (5.30% clearing, 1.8bp through) got fully reversed within one session, and yields are now a pure oil derivative intraday \u2014 BlackRock's Brownback explicitly credits the bond moves to crude. That makes every Hormuz headline a bond-market headline. Trump's confirmed no-deal comment on Iran removed the diplomatic off-ramp while tanker traffic sits at a fraction of pre-war levels and Hurricane Isaias curtails Gulf output; the physical-supply squeeze is repricing in real time, with Brent probing near $105.50 and national gas prices above $4 a gallon. The AI-capex story is morphing into a credit story: Waymo's first-ever debt ($5B) joins Broadcom's $50B+ OpenAI financing, SpaceX's ~$40B tied to Nvidia chips, and Oracle's chip-debt talks \u2014 Reuters notes sovereign-bond strain is being aggravated by tech competing for the same funding pool, and deVere's Nigel Green warned Nvidia is effectively bankrolling its own customers. The fifth straight sub-200K jobless-claims print (197K) keeps the hike repricing (22% Oct / 86% Dec) locked in ahead of the 2pm ET FOMC minutes. Noise vs signal: Securitize tokenized stocks and the Mag-Seven-$25T pieces are structural/commentary, not price movers today; CMG/SBUX and the strike-prep reports are single-source and fragile; the Fool insider-selling piece (Form 4 data back to 2021) is stale relative to today's tape. No qualifying HN or Reddit threads found this morning \u2014 institutional/news-driven tape, retail commentary thin.",
+  "community_signals": [],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
