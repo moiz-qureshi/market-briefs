@@ -1,5 +1,11 @@
 [
   {
+    "file": "2026-10-08T09-00-pt-post-open.json",
+    "brief_id": "2026-10-08T09-00-pt-post-open",
+    "generated_at_pt": "2026-10-08T09:00:00-07:00",
+    "type": "post-open"
+  },
+  {
     "file": "2026-10-08T08-00-pt-post-open.json",
     "brief_id": "2026-10-08T08-00-pt-post-open",
     "generated_at_pt": "2026-10-08T08:00:00-07:00",
@@ -38,7 +44,7 @@
   {
     "file": "2026-10-07T08-00-pt-post-open.json",
     "brief_id": "2026-10-07T08-00-pt-post-open",
-    "generated_at_pt": "2026-10-07T08:15:00-07:00",
+    "generated_at_pt": "2026-10-07T08:00:00-07:00",
     "type": "post-open"
   },
   {
@@ -74,7 +80,7 @@
   {
     "file": "2026-10-06T07-00-pt-post-open.json",
     "brief_id": "2026-10-06T07-00-pt-post-open",
-    "generated_at_pt": "2026-10-06T07:05:00-07:00",
+    "generated_at_pt": "2026-10-06T07:00:00-07:00",
     "type": "post-open"
   },
   {
@@ -152,13 +158,13 @@
   {
     "file": "2026-10-02T06-00-pt-premarket.json",
     "brief_id": "2026-10-02T06-00-pt-premarket",
-    "generated_at_pt": "2026-10-02T06:08:00-07:00",
+    "generated_at_pt": "2026-10-02T06:00:00-07:00",
     "type": "premarket"
   },
   {
     "file": "2026-10-02T05-00-pt-premarket.json",
     "brief_id": "2026-10-02T05-00-pt-premarket",
-    "generated_at_pt": "2026-10-02T05:05:00-07:00",
+    "generated_at_pt": "2026-10-02T05:00:00-07:00",
     "type": "premarket"
   },
   {
@@ -278,19 +284,19 @@
   {
     "file": "2026-09-28T09-00-pt-post-open.json",
     "brief_id": "2026-09-28T09-00-pt-post-open",
-    "generated_at_pt": "2026-09-28T09:05:00-07:00",
+    "generated_at_pt": "2026-09-28T09:00:00-07:00",
     "type": "post-open"
   },
   {
     "file": "2026-09-28T08-00-pt-post-open.json",
     "brief_id": "2026-09-28T08-00-pt-post-open",
-    "generated_at_pt": "2026-09-28T08:10:00-07:00",
+    "generated_at_pt": "2026-09-28T08:00:00-07:00",
     "type": "post-open"
   },
   {
     "file": "2026-09-28T07-00-pt-post-open.json",
     "brief_id": "2026-09-28T07-00-pt-post-open",
-    "generated_at_pt": "2026-09-28T07:05:00-07:00",
+    "generated_at_pt": "2026-09-28T07:00:00-07:00",
     "type": "post-open"
   },
   {
@@ -351,12 +357,6 @@
     "file": "2026-09-24T09-00-pt-post-open.json",
     "brief_id": "2026-09-24T09-00-pt-post-open",
     "generated_at_pt": "2026-09-24T09:00:00-07:00",
-    "type": "post-open"
-  },
-  {
-    "file": "2026-09-24T08-00-pt-post-open.json",
-    "brief_id": "2026-09-24T08-00-pt-post-open",
-    "generated_at_pt": "2026-09-24T08:00:00-07:00",
     "type": "post-open"
   }
 ]
