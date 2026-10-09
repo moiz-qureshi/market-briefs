@@ -1,0 +1,123 @@
+{
+  "brief_id": "2026-10-09T09-00-pt-post-open",
+  "generated_at_pt": "2026-10-09T09:00:00-07:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "vix": null,
+    "vix_change": null,
+    "treasury_10y_pct": 5.27,
+    "treasury_10y_change_bps": 4.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "No intraday A/D, volume-vs-20d, or sector-breadth figures on sourced pages; VIX intraday not shown (Oct 8 close ~15.41, +~3.3%). 10Y +4bp to 5.27% late-morning (IBD), pressing toward multi-decade highs. Michigan sentiment miss plus sticky inflation expectations keeps the no-Fed-pivot overhang on the tape.",
+    "wti_usd": 91.5,
+    "wti_day_pct": null,
+    "gold_usd": null,
+    "gold_day_pct": null,
+    "btc_usd": 83000.0,
+    "btc_day_pct": null,
+    "notes": "Friday Oct 9, 9:00am PT - 2.5 hours into the regular session. S&P 500 +0.4%, Nasdaq +0.6%, Dow +0.4%, Russell 2000 +0.2% in late-morning trade; Nasdaq on pace for a 4th straight weekly gain. Roundhill Mag7 ETF +~1% with every Mag7 name green except AAPL. WTI ~$91.50 (flat late-morning after dipping ~1.2% to $90.40 overnight); Brent ~$102.91. BTC ~$83,000."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Indexes rebound in late-morning trade: S&P 500 +0.4%, Nasdaq +0.6%, Dow +0.4%, Russell 2000 +0.2%; Nasdaq on pace for a 4th straight weekly gain and the Roundhill Mag7 ETF is +~1% with all Mag7 names green except AAPL.",
+      "why_it_matters": "Dip-buying after Thursday's OpenAI-revenue selloff is broadening - the tape is voting that the AI-capex cycle, not the revenue-measurement dispute, is the story.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-stock-aapl-delta-earnings/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Michigan consumer sentiment (preliminary October) fell to 46.3 from 48.1 in September, below the 48.0 expected - a third straight monthly decline, near the record-low 44.8 from May. One-year inflation expectations rose to 4.7% (from 4.6%) and five-year to 3.5% (from 3.4%).",
+      "why_it_matters": "Weak sentiment plus rising inflation expectations is the worst combo for a hawkish Fed - it argues against any pivot to cuts, keeping the 5%+ yield headwind in place.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/us-consumer-sentiment-deteriorates-further-october-2026-10-09/"
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "UBS analyst David Vogt says iPhone 18 Pro wait times compressed ~6 days week-over-week, an 'increasing concern' with stable supply; Neutral, $296 price target. Jefferies and Bernstein also flagged soft demand. AAPL fell ~2.1-2.5% to ~$333 in morning trade. Possible offset: the iPhone Duo foldable launches Oct 23 ($1,999, preorders Oct 16), so some 18 Pro buyers may be waiting.",
+      "why_it_matters": "A second independent demand read amplifies Nikkei's report of a 15-20% October component-order cut - hardware revenue is at risk, though the foldable launch genuinely muddies the signal.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/apple-stock-iphone-18-pro-production-cut-2f348147"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "NVDA rebounded ~1.5% early (recovering about half of Thursday's -2.9%), then faded to roughly flat ($229.96) - choppy. Fresh negative wrinkle: Australian data-center firm Firmus Grid scrapped a $5B IPO at a $30B valuation (3x its $10.5B two months ago); Nvidia is an investor and Firmus rents chips to OpenAI and Meta. Calming factor: analysts say the $50B-vs-$70B revenue gap is a measurement discrepancy - Anthropic counts cloud-partner sales from AWS/Google Cloud, OpenAI doesn't. OpenAI still has not responded to the FT.",
+      "why_it_matters": "The rebound shows AI-spend conviction returning, but Firmus keeps valuation-risk headlines alive - the revenue-measurement confusion is the noise layer on top of real demand.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/nvidia-stock-price-openai-ipo-ai-firmus-41cf38bd"
+    },
+    {
+      "ticker": "AXP",
+      "headline": "American Express fell 1.4-1.7% after the OCC and Fed fined it $350M over anti-money-laundering failures covering ~$13B of suspicious activity from 2014-2025. Consent orders include no asset cap; AXP says it had already reserved for the fine and kept 2026/2027 guidance unchanged.",
+      "why_it_matters": "Headline overhang but no capital or growth constraint - the muted price reaction says the market treats this as a known, contained cost.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/american-express-fined-occ-fed-anti-money-laundering-processes-41ab5478"
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "SpaceX-spectrum rotation continued this morning: SPCX +3% (bouncing from two days of losses) while VZ -6%, T -7%, TMUS -9% on satellite-carrier competition fears; tower names CCI/SBAC/AMT +6-12%.",
+      "why_it_matters": "The market is pricing Starlink Mobile as a real fourth national carrier - carriers get re-rated down while towers win either way.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Oil eased further on de-escalation rhetoric: Trump said on Truth Social Thursday there are 'productive discussions' with Iran and no attack before the Nov 3 midterms, with the blockade staying; Iran's FM says Tehran is reviewing the US response to a proposal to reopen Hormuz within 7 days. Fresh US sanctions Thursday (individuals, networks, 17 vessels) and Hurricane Isaias (1.3M bpd, 62.9% of Gulf production shut in) keep a floor under crude. WTI ~$91.50 flat late-morning after dipping ~1.2% overnight; Brent ~$102.91.",
+      "why_it_matters": "De-escalation rhetoric eases the wartime supply premium, but sanctions plus hurricane shut-ins keep the floor - airlines and refiners still live with elevated crude.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://wabx.net/2026/10/08/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns/"
+    },
+    {
+      "ticker": "DAL",
+      "headline": "Delta's Q3 EPS $1.72 vs $1.77 expected; revenue $17.6B vs $17.7B expected; the carrier slashed its 2026 profit outlook, blaming Iran-war-driven jet fuel costs. Stock -2% premarket.",
+      "why_it_matters": "Confirms the fuel-cost squeeze is an airline-sector theme, not Delta-specific - watch United and American for the same damage.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-stock-aapl-delta-earnings/"
+    },
+    {
+      "ticker": "HUM",
+      "headline": "Humana +12% (IBD 10:15 AM ET), clearing the 419.97 buy point after CMS raised Medicare Advantage star ratings - 18 contracts scored at least four stars.",
+      "why_it_matters": "Star ratings directly lift future MA revenue - a sustained quality repricing, not a one-day bounce.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-stock-aapl-delta-earnings/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news this morning. Carried forward: Oct 1 8-K - issued 34.47M Class A units at $26.7206 (fixed 9.25% distribution, non-convertible, non-redeemable, unlisted) to J-W Energy in an internal reorg; began TXSE listing Oct 5 under USAC; Q2 2026 beat Aug 4 ($0.31 EPS vs $0.28 est, $342.15M revenue vs $340.49M est); $600M 6.75% notes due 2035 issued in September to repay credit facility debt; next earnings est 11/04/2026; consensus Hold with $29.50 target.",
+    "sentiment": "neutral",
+    "source": "https://www.tipranks.com/news/company-announcements/usa-compression-restructures-capital-with-new-class-a-units"
+  },
+  "watch_next": [
+    "Q3 earnings season kicks off next week - the big banks report, first broad read on credit and consumer health",
+    "Whether the Iran-Hormuz negotiation progress materializes or oil re-prices higher again",
+    "Any official OpenAI response to the FT revenue report, or a second outlet confirming the $50B figure",
+    "iPhone Duo foldable launch Oct 23 ($1,999) - the demand wildcard for the AAPL read",
+    "10Y yield pressing toward 5.30%+ multi-decade highs - every rally has to climb over it"
+  ],
+  "analysis": "The morning's clearest new data is Michigan sentiment (46.3, third straight decline, inflation expectations up), which lands on the side of the Fed hawks - Waller and Musalem get no help pivoting dovish, so the 10Y keeps grinding (+4bp to 5.27% today). Meanwhile equities are shrugging it off: the S&P +0.4% and Nasdaq +0.6% rebound is a conviction vote that Thursday's AI selloff was a one-day multiple-compression event. The most useful development in the OpenAI story is not price action but the measurement explanation - Anthropic's figures include cloud-partner revenue, OpenAI's don't, which shrinks the 'miss' into an accounting dispute rather than a demand break. But two unconfirmed threads still hang over the tape: no official OpenAI response, and the Nikkei Apple cut report (now seconded by UBS's wait-time read, though the foldable launch is a real confound). The SpaceX rotation is the session's purest signal: one credible entrant headline took 6-9% off every major carrier while towers ran 6-12% - competitive-moat repricing, not earnings. Net: a relief morning with a sentiment-economics undercurrent that could cap how far this rebound runs.",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "title": "The headline should've been 'OpenAI annualised revenues $20B less than previously...'",
+      "url": "https://news.ycombinator.com/item?id=50009723",
+      "takeaway": "Comment thread reframes the FT story: the $40B/$70B figures came from OpenAI's own investors 'grossing up' OpenAI's numbers for a direct Anthropic comparison (Anthropic counts cloud-partner sales; OpenAI doesn't), then applying 70%+ growth to the inflated baseline - so the 'miss' is a correction of a flawed extrapolated consensus, not a revenue collapse. Direct counter-analysis the headlines barely carried."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice - for informational purposes only."
+}
