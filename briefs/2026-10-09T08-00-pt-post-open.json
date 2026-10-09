@@ -1,0 +1,115 @@
+{
+  "brief_id": "2026-10-09T08-00-pt-post-open",
+  "generated_at_pt": "2026-10-09T08:00:00-07:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "vix": null,
+    "vix_change": null,
+    "treasury_10y_pct": 5.26,
+    "treasury_10y_change_bps": null,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "No fresh morning breadth/internals figures on sourced pages; bond sell-off losing steam - 10Y easing from multi-decade highs (touched 5.35-5.37 earlier in the week; NY Post put it at 5.259%, IBD at 5.26% this morning). Thursday's session saw 7 of 11 S&P sectors lower with tech leading losses while two-thirds of members finished higher.",
+    "wti_usd": 91.43,
+    "wti_day_pct": null,
+    "gold_usd": 4210.0,
+    "gold_day_pct": 1.0,
+    "btc_usd": 82700.0,
+    "btc_day_pct": null,
+    "notes": "Friday Oct 9, 8:00am PT - 90 minutes into the regular session. S&P 500 +0.3%, Nasdaq +0.4%, Dow +0.3% in early trade, bouncing back from Thursday's OpenAI-revenue selloff (S&P -0.5%, Nasdaq -1.3%); all three eye small weekly gains (S&P +0.6%, Dow +0.1%, Nasdaq flat through Thursday). Trump Thursday pledge of no Iran strike before midterms is easing oil; WTI ~$91.4-91.6, Brent ~$103.9, down from wartime highs earlier in the week. BTC ~$82,700, up from this week's $80,300 low."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Indexes higher Friday morning: S&P 500 +0.3%, Nasdaq +0.4%, Dow +0.3% in early trade, with tech leading after Thursday's selloff on the FT's OpenAI revenue report; small-cap Russell 2000 +0.2%.",
+      "why_it_matters": "The tape is treating Thursday's drop as a one-day multiple-compression event, not a demand break - AI names bouncing the next morning keeps the weekly-gain setup alive.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-stock-aapl-delta-earnings/"
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "SpaceX agreed to buy a nationwide low-band spectrum portfolio (up to 14 MHz of paired 800 MHz spectrum) from Grain Management, saying it 'paves the way for Starlink Mobile to become a major mobile carrier in the U.S.' Shares rose ~3% Friday morning.",
+      "why_it_matters": "New entrant threat to the wireless oligopoly - the deal is the single biggest mover of sector rotation today, punishing carriers while lifting tower names.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/stock-movers-28befd73"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "AT&T -6.7%, Verizon -5.4%, T-Mobile -7.5% as carriers sold off on the SpaceX threat; Scotiabank cut price targets (VZ to $50, TMUS to $212, T to $26.50) citing higher long-term disruption risk. Tower stocks rallied instead: American Tower +6.6%, Crown Castle +7.5%, SBA +8.2%.",
+      "why_it_matters": "Competitive-pressure rotation - even a credible-but-unproven SpaceX network is enough to reprice the incumbents while investors treat towers as winners either way.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://stocktwits.com/news-articles/markets/equity/vz-tmus-t-stock-price-targets-cut-by-scotiabank-analyst-sees-higher-risk-of-disruption-from-space-x-spectrum-deal/cZD6F9zRBVU"
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "Nikkei Asia reported Friday that Apple told suppliers to cut iPhone 18 Pro and Pro Max component production by 15-20% for October on soft demand, with soaring memory chip costs and $100 price hikes ($1,199/$1,299) blamed; AAPL fell ~2%.",
+      "why_it_matters": "Demand-signal risk on the flagship cycle - the twist is the AI capex wave itself is driving the DRAM shortage that's squeezing Apple's margins, though Apple's split launch schedule may be distorting the read.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.barrons.com/articles/apple-stock-iphone-18-sales-2f348147"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "AI names rebounded from Thursday's 3%+ slide: NVDA, AMD, Intel, Marvell all higher; Lumentum +6.2% after saying its optical components are 'completely sold out' through early 2029 on AI data-center demand; Amphenol +2% near a buy point.",
+      "why_it_matters": "Hard demand signals (Lumentum sold out into 2029) are competing with revenue-model skepticism (the OpenAI report) - today's tape is voting for the capex cycle, for now.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.zeroHedge.com/markets/futures-rise-after-openai-damage-control-sparks-tech-rebound-oil-slides"
+    },
+    {
+      "ticker": "HUM",
+      "headline": "Humana +12-16% after CMS raised its Medicare Advantage star ratings - 18 contracts scored at least four stars, with 12 plans covering ~95% of MA customers at four stars, lining the insurer up for bigger bonus payments; Baird upgraded the stock.",
+      "why_it_matters": "Ratings directly map to revenue per member (~$160/month target vs $105 industry median) - a clean fundamental re-rating, not just multiple expansion.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-stock-aapl-delta-earnings/"
+    },
+    {
+      "ticker": "DAL",
+      "headline": "Delta Air Lines -2.4% after missing Q3 earnings targets and cutting its full-year EPS outlook, blaming the Iran-war-driven jet fuel cost surge.",
+      "why_it_matters": "Real earnings damage from the oil spike - airlines are the canary for how long elevated crude stays in margins.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/stock-movers-28befd73"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Fed still hawkish: Governor Waller said further rate rises are probably needed (up to 75 bps over time, not necessarily at consecutive meetings); St. Louis Fed's Musalem backs higher rates over the next 6-9 months without endorsing a move this month. Solid demand at Thursday's 30Y auction helped pull long yields off their highs.",
+      "why_it_matters": "The equity rebound is happening despite no Fed rescue in sight - 5%+ yields remain the headwind every rally has to climb over.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://rivkin.com.au/hide/morning-market-wrap-today/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news this morning. Carried forward: Oct 1 8-K - issued 34.47M Class A units at $26.7206 (fixed 9.25% distribution, non-convertible, non-redeemable, unlisted) to J-W Energy in an internal reorg; began TXSE listing Oct 5 under USAC; Q2 2026 beat Aug 4 ($0.31 EPS vs $0.28 est, $342.15M revenue vs $340.49M est); $600M 6.75% notes due 2035 issued in September to repay credit facility debt.",
+    "sentiment": "neutral",
+    "source": "https://www.tipranks.com/news/company-announcements/usa-compression-restructures-capital-with-new-class-a-units"
+  },
+  "watch_next": [
+    "Michigan consumer sentiment this morning (10 AM ET) - first fresh demand read of the day",
+    "Whether the OpenAI revenue report (single FT sourcing, ~$50B annualized vs ~$68-70B signaled) draws an official response or a second outlet's confirmation",
+    "FCC approval path and further detail on SpaceX's spectrum/carrier buildout",
+    "Iran / midterm timeline developments and any oil-price swing off Trump's no-strike pledge",
+    "Next week's big-tech earnings slate - Thursday's move showed how little room AI multiples have for disappointment"
+  ],
+  "analysis": "The week's axis is one question: can AI revenue keep pace with AI capex. Thursday's FT report ($50B annualized OpenAI revenue, ~$20B below what investors were signaled) hit chip stocks hard (SOX -3.4%, NVDA -3%) even though the number was single-sourced; Friday's rebound rests on no new confirmation - just 'damage control' narratives and a hard demand datapoint from Lumentum (sold out into 2029). The two big stories are ironically linked: the AI data-center buildout is driving the DRAM shortage that's squeezing Apple's margins and forcing iPhone price hikes, which Nikkei says are now costing Apple 15-20% of October Pro orders. The Apple report is also single-sourced (Reuters could not verify; Apple silent; AppleInsider points to the annual pattern of early supply-chain pessimism) but the split launch schedule (no base iPhone 18 until spring) genuinely muddies the read. Meanwhile the SpaceX-spectrum rotation is the clearest signal of the session: one credible entrant headline cut 5-7% off all three carriers and lifted towers, a reminder that the market is repricing competitive moats, not just earnings. Breadth underneath is okay - Thursday saw two-thirds of S&P members higher even as tech fell, and Trump's no-strike-before-midterms pledge plus the solid 30Y auction took the acute tail risks (oil at wartime highs, 10Y at 5.35-5.37) off the tape. Net: a relief morning, but both of today's moving stories rest on unconfirmed reporting, so treat the moves as reactive rather than definitive.",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://news.ycombinator.com/item?id=50008187",
+      "takeaway": "412-point, 286-comment thread debating whether AI revenue growth justifies the data-center capex wave; skepticism that a ~$50B annualized figure covers the buildout helps explain the sharp chip-stock reaction and why Friday's rebound could look fragile."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice - for informational purposes only."
+}
