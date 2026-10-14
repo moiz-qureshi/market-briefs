@@ -1,0 +1,117 @@
+{
+  "brief_id": "2026-10-14T04-00-pt-premarket",
+  "generated_at_pt": "2026-10-14T04:15:00-07:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": 0.45,
+    "sp500_futures_pct": 0.21,
+    "nasdaq100_futures_pct": -0.03,
+    "sp500_vs_record_pct": -0.18,
+    "vix": null,
+    "vix_change": null,
+    "treasury_10y_pct": 5.2,
+    "treasury_10y_change_bps": -3.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Prior session (Tue Oct 13): S&P 500 7,805 (-0.02%), Dow 51,670 (-0.35%), Nasdaq 27,204 (-0.15%), Russell 2000 -0.4%; PHLX Semiconductor Index -2.7%, fifth straight down session and down ~5% in October. Split tape: megacaps held up (META +2.6%, NVDA +0.9%, MSFT +0.4%, AMD +1.9%) while memory/equipment sold off (MU -3.6%, AMAT -6.6%) and big banks faded (Citi -5.6%, WFC -3.1%, JPM -0.9% rare profit miss). Advance/decline and volume-vs-20d not shown on sourced pages. Overnight Asia: KOSPI +1.8% recovering, Samsung and SK Hynix each +2%+; Nikkei -0.05%.",
+    "wti_usd": 94.96,
+    "wti_day_pct": 0.8,
+    "gold_usd": 4168.0,
+    "gold_day_pct": null,
+    "btc_usd": 83900.0,
+    "btc_day_pct": 0.86,
+    "notes": "Premarket Wed Oct 14, ~4 AM PT (2.5h before the 6:30 AM PT open). Futures edging up into the September CPI print (5:30 AM PT) and a second wave of bank earnings before the open (BAC, MS, BLK, STT). ASML's Q3 print brought the first hard demand evidence against the memory rout. Energy elevated: Brent ~$105.50-106.60 amid Houthi attacks on Saudi Arabia and IEA demand forecast."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Futures edging higher ahead of September CPI: Dow e-minis +0.45%, S&P 500 e-minis +0.21%, Nasdaq 100 e-minis roughly flat at -0.03% (per Reuters ~5:41 AM ET).",
+      "why_it_matters": "A calm, bid tape into the 8:30 AM ET print \u2014 September CPI is the last inflation read before the Oct 27-28 FOMC, and the market is pricing a hot-vs-hold debate rather than a directional bet yet.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/sp-500-dow-futures-rise-ahead-big-bank-results-cpi-data-2026-10-14/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "September CPI lands today 8:30 AM ET (5:30 AM PT): consensus 3.6% y/y headline (from 3.4%), +0.6% m/m, core +0.2% m/m and 2.5% y/y. FedWatch: ~22% chance of an October hike, ~89% for a December hike.",
+      "why_it_matters": "The core monthly print is the decider \u2014 ~0.2% keeps the Fed on hold, ~0.3% revives October hike bets and hits both bonds and stocks; every other headline today trades downstream of this number.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10142026-12173010"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "10Y at 5.20% (-2bp overnight, -3bp vs Tuesday's brief); NY Fed's Williams: one more hike this year may be appropriate, no hikes in 2027. Boston Fed's Collins: not rethinking the 2% target. JPMorgan's Dimon warned financial pressure could intensify if rates rise another point.",
+      "why_it_matters": "Fedspeak is anchoring the terminal path (one more, then done) while bonds rally into CPI \u2014 a soft core print would validate the whole move, a hot one reprices it instantly.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.morningstar.com/news/dow-jones/202610141902/stock-futures-tick-higher-treasurys-strengthen-ahead-of-inflation-data"
+    },
+    {
+      "ticker": "ASML",
+      "headline": "ASML Q3: record revenue EUR11.66B (a touch below the EUR11.71B Visible Alpha consensus), net profit EUR4.96B beating expectations, gross margin 57.5%. Raised FY26 sales guidance to EUR44-45B from EUR43-45B \u2014 third raise this year \u2014 and guided Q4 sales EUR14.2-15.2B at ~57% margin.",
+      "why_it_matters": "CEO says customers are raising equipment demand forecasts and even expressing interest in orders for 2029 and 2030, with planned 2027-2028 supply not expected to meet demand \u2014 the first hard data point against the AI-capex-slowdown narrative that drove the chip selloff.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.globenewswire.com/news-release/2026/10/14/3380319/0/en/asml-reports-11-7-billion-total-net-sales-and-5-0-billion-net-income-in-q3-2026.html"
+    },
+    {
+      "ticker": "MU",
+      "headline": "Memory names still weak premarket: Micron -1.3%, Intel -1.1%, U.S. chip stocks down 1-2.6% in overnight trading even after ASML's raise, while Asia recovered (Samsung and SK Hynix +2%+).",
+      "why_it_matters": "The CXMT 4F2 breakthrough claim remains unsubstantiated (Bloomberg's framing), so the tape is splitting: Asia is fading the scare, U.S. memory names are still repricing the supply-glut risk \u2014 single unconfirmed claim driving real price action is fragile by definition.",
+      "sentiment": "negative",
+      "confirmation": "unconfirmed",
+      "source": "https://stocktwits.com/news-articles/markets/equity/asml-raises-sales-forecast-for-a-third-time-but-q3-sales-miss-sends-stock-lower-earnings-selloff-spreads-to-mu-sndk-intc/cZxfWHbRBp9"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Nvidia +0.2% premarket; reports (Bloomberg via Chip Briefing) that CEO Jensen Huang announced $2B in European deals during his tour, including a meeting with French President Macron and funding for French startups, adding to $8B invested in Europe over the past year.",
+      "why_it_matters": "Sovereign-AI deal flow is the counterweight to the memory selloff for the AI complex \u2014 single-source via one outlet so far, but it puts a demand floor under the AI-capex story.",
+      "sentiment": "positive",
+      "confirmation": "single-source",
+      "source": "https://chipbriefing.substack.com/p/daily-chip-stocks-fall-after-cxmt"
+    },
+    {
+      "ticker": "BAC",
+      "headline": "Bank of America disclosed a $1.21B regulatory fine that could weigh on Q3 results; shares -1.5% premarket. Morgan Stanley +0.7% ahead of the print. BAC, MS, BlackRock, State Street all report before the open.",
+      "why_it_matters": "Single-outlet report so far \u2014 treat as fragile until the release \u2014 but it puts Tuesday's NII-miss fade (Citi -5.6%, WFC -3.1%) on a knife's edge: today's wave tests whether JPM's caution was company-specific or sector-wide.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.reuters.com/business/sp-500-dow-futures-rise-ahead-big-bank-results-cpi-data-2026-10-14/"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Tesla confirmed the postponed Roadster event will livestream Thursday Oct 15 at 7:55pm CST; Musk replied 'Timing is everything.' TSLA +0.4% overnight after dropping nearly 3% to $375.23 on Tuesday.",
+      "why_it_matters": "A fresh catalyst back on the calendar nine years after the 2017 prototype reveal \u2014 hype risk is high given the delay history, but the Thursday livestream gives the tape something concrete to trade.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.tradingview.com/news/stocktwits:2e857d93b094b:0-tsla-stock-rises-overnight-tesla-s-long-delayed-roadster-event-is-back-on-musk-teases-timing-is-everything/"
+    },
+    {
+      "ticker": "GOOGL",
+      "headline": "All Magnificent Seven stocks rose premarket: Alphabet +0.7%, Meta and Amazon marginally higher, alongside futures strength.",
+      "why_it_matters": "The mega-cap complex is being treated as shelter from the hardware selloff \u2014 breadth beyond software is thin, so the open hinges on whether AI names hold the bid into CPI.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/sp-500-dow-futures-rise-ahead-big-bank-results-cpi-data-2026-10-14/"
+    }
+  ],
+  "usac": {
+    "headline": "USAC broke below its 200-day moving average ($26.92) during Monday's session, trading as low as $25.33 and last at $25.66 (reported Oct 13).",
+    "why_it_matters": "No fresh company news. Carried forward: TXSE listing effective Oct 5 (ticker unchanged); Oct 1 internal reorg issued 34,467,347 Class A units at $26.7206 (fixed 9.25% distribution, non-convertible, perpetual) to J-W Energy; Q2 revenue $342.1M beat vs $340.49M consensus, net income $45.7M, EPS $0.31 vs $0.28; September $600M 6.750% senior notes due 2035 to repay credit-facility borrowings; Zacks raised Q3 estimate to $0.21 EPS (Hold); consensus Hold, $29.50 average target. WTI ~$94.96 (+0.8%) is a mild sentiment backdrop for compression demand, not company news.",
+    "sentiment": "negative",
+    "source": "https://www.americanbankingnews.com/2026/10/13/usa-compression-partners-nyseusac-stock-price-breaks-below-200-day-moving-average-should-you-sell.html"
+  },
+  "watch_next": [
+    "September CPI today 8:30 AM ET (5:30 AM PT): 3.6% y/y, +0.6% m/m, core +0.2% m/m expected \u2014 core monthly print is the decider for October hike odds",
+    "Bank of America, Morgan Stanley, BlackRock, State Street earnings before the open \u2014 NII guidance and trading/IB commentary vs Tuesday's fade",
+    "TSMC earnings early Thursday + September PPI/retail sales \u2014 the AI-capex relay continues",
+    "Fed Beige Book 2 PM ET; speeches from Bowman, Barkin, Goolsbee today; Fed Chair Warsh and IMF's Georgieva on Thursday",
+    "Tesla Roadster livestream Thursday 7:55pm CST",
+    "FOMC Oct 27-28 \u2014 today's CPI is the last inflation read before the decision"
+  ],
+  "analysis": "What changed versus the Oct 13 9 AM PT post-open brief: (1) Wednesday's CPI moved from a distant pivot to 90 minutes away \u2014 futures are pricing a calm into-the-print tape rather than a directional bet, and the 10Y's -3bp drift says the market wants a soft core print. (2) ASML resolved Bloomberg's pre-earnings question on the bullish side: the 2029/2030 order-interest comment is the strongest demand-visibility language this cycle, which is why Amsterdam is up even as U.S. ADRs read mixed overnight. (3) The memory tape is geographically splitting \u2014 Asia fading the CXMT scare (KOSPI +1.8%, Samsung/SK Hynix +2%+) while U.S. memory names keep selling off premarket \u2014 which says the unconfirmed breakthrough claim is being priced very differently by locals versus the U.S. tape. (4) Bank focus rotated from Tuesday's misses to today's wave, with the single-source BofA fine headline the one to verify at the print. Signal vs noise: CPI consensus, futures levels, ASML numbers (company PR + Dow Jones), Roadster date (company post), and bank earnings schedule are confirmed; the BofA fine size and the Nvidia $2B Europe deals rest on single outlets so far; the CXMT claim is explicitly unsubstantiated and should be treated as fragile until production evidence appears. No qualifying HN/Reddit threads \u2014 community channels were silent on these stories.",
+  "community_signals": [],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
