@@ -1,0 +1,116 @@
+{
+  "brief_id": "2026-10-15T08-00-pt-post-open",
+  "generated_at_pt": "2026-10-15T08:00:00-07:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "vix": 16.87,
+    "vix_change": null,
+    "treasury_10y_pct": 5.06,
+    "treasury_10y_change_bps": -12.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "~8:00 AM PT, second hour of session: Dow +0.5 to +0.6%, S&P 500 -0.3%, Nasdaq -0.8 to -1.3% - the split tape from the open is holding, no bounce, no acceleration. IBD morning read: slight edge to advancers on Nasdaq, better than 2-to-1 positive on NYSE - defensives absorbing the rotation. SOXX on pace for an 8th straight down day.",
+    "wti_usd": 96.5,
+    "wti_day_pct": null,
+    "gold_usd": 4165.0,
+    "gold_day_pct": 1.4,
+    "btc_usd": 81100.0,
+    "btc_day_pct": null,
+    "notes": "Thursday Oct 15, ~8:00 AM PT. The morning's hot PPI (+1.3% MoM, 6.3% YoY - highest since 2022) still failed to lift the 10Y, which fell ~12 bps from Wednesday's close to 5.06% as the tech selloff drove a haven bid (Investopedia/IBD). Retail sales +0.8% (double estimates), jobless claims 199K. Gold $4,165 (+1.4%), WTI ~$96.50, BTC ~$81,100."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "The split tape from the open held into the second hour: Dow +0.5-0.6%, S&P 500 -0.3%, Nasdaq -0.8 to -1.3%, with the AI-credit selloff continuing while defensives (General Mills +5%, insurers Marsh & McLennan, Arthur J. Gallagher, Erie Indemnity) led the S&P 500's advancers.",
+      "why_it_matters": "No bounce but no acceleration either - the market has priced a rotation out of AI leverage into staples/insurers/healthcare rather than a broad derisking, which is what the NYSE's 2:1 advancer edge confirms.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-amd-micron-ai-fears/"
+    },
+    {
+      "ticker": "CRWV",
+      "headline": "CoreWeave fell another 7-8% after Wednesday's 15.5% plunge, its longer-dated bond yields near 15%. CEO Mike Intrator told staff in a memo that the selloff is 'irrational' and that the deal backlog covers debt obligations; one report put CoreWeave's borrowings at ~$50B with CDS implying a 63% five-year default probability.",
+      "why_it_matters": "The AI-credit epicenter keeps deteriorating despite management pushback - each leg down reprices financing risk for the whole neocloud complex, and bond yields at distressed levels make equity a derivative of credit here.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.cnn.com/2026/10/15/business/tech-selloff-nasdaq-ai-intl?cid=external-feeds_iluminar_meta"
+    },
+    {
+      "ticker": "TSM",
+      "headline": "TSMC reported a sixth straight record quarterly profit (net profit +69% YoY to ~$23.6B on $46.72B revenue) and raised its full-year 2026 revenue outlook to ~44% growth (from >40%), but CEO C.C. Wei struck a 'prudent' tone for 2027, saying consumer and price-sensitive segments are being challenged by rising component prices. Its Taipei-listed shares fell 2%.",
+      "why_it_matters": "A beat punished anyway - the market heard the 2027 caution, not the record quarter, which means demand bifurcation (AI vs consumer) is now the chip question, not whether AI demand exists.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.lapost.com/content/fch-tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Chip stocks are on pace for an eighth straight down day: AMD, Micron, Sandisk, Seagate and Western Digital each fell ~5% or more in early trade, Nvidia slid ~3% (now down ~10% from its record high earlier this month), and ASML lost nearly 5% in Europe.",
+      "why_it_matters": "AI-exposure, not fundamentals, is the sorting variable - even record TSMC results and ASML's upbeat Wednesday outlook couldn't stop day eight of the chip rout.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/anthropic-ai-sandisk-amd-stock-f95d1de5"
+    },
+    {
+      "ticker": "NBIS",
+      "headline": "Nebius fell another ~10% after Wednesday's ~10-15% slide, and Dell dropped ~8% after an 11% Wednesday plunge. Barclays downgraded Dell and HPE to equal-weight, citing no meaningful AI inflection in demand.",
+      "why_it_matters": "Neocloud contagion has a second leg (NBIS is CRWV's closest cousin), and the Barclays downgrade spreads the stress from cloud balance sheets to hardware orders - the AI capex squeeze is moving down the supply chain.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/ai-infrastructure-firms-slump-us-rate-hike-bets-rise-2026-10-14/"
+    },
+    {
+      "ticker": "ORCL",
+      "headline": "Oracle fell another ~2% after Wednesday's ~9% drop, with its bonds also under pressure and CDS costs at record highs per S&P Global Market Intelligence.",
+      "why_it_matters": "The hyperscaler most exposed to debt-funded AI spend is being priced like a neocloud - if stress stays confined to ORCL/CRWV/NBIS the tape survives, but the hyperscaler spillover is the risk.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.beinsure.com/news/global-ai-stocks-plunge/"
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "OpenAI voluntarily agreed not to use trade secrets Apple claims were stolen by employees who defected to OpenAI, after a federal judge said he was 'highly likely' to grant Apple's injunction. OpenAI also agreed to hand over forensic images of 14 employees' devices, and filed a mirror suit alleging Apple poached an ex-OpenAI employee who took 100+ confidential files.",
+      "why_it_matters": "De-escalates the near-term injunction risk for OpenAI's hardware plans but keeps legal overhang on both sides of the AAPL partnership - a contained, non-price-moving legal development so far.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.thehindubusinessline.com/info-tech/openai-vows-not-to-use-trade-secrets-allegedly-taken-from-apple/article71586569.ece"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "September PPI came in at +1.3% MoM (est. 0.6%) and 6.3% YoY (est. 5.5%, highest since 2022); retail sales rose 0.8% (double estimates); jobless claims were 199K. Yet the 10-year yield fell to ~5.06%, down ~12 bps from Wednesday's close.",
+      "why_it_matters": "Hot data couldn't lift yields - the flight-to-safety bid is overpowering inflation fears, which is a classic risk-off signal. The market is treating the tech selloff, not the data, as the day's macro event.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10152026-12174789"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Tesla fell ~3% (~$356) in morning trade ahead of tonight's Roadster demo at 5:55pm PT and its Q3 earnings on Oct 21. Amazon fell 2%+ and is on pace for a fourth straight down session; Meta fell ~1% after a Guggenheim note raised its 2027 capex estimate to $225B (vs Meta's own $130-145B 2026 plan); Microsoft was flat at ~$534.",
+      "why_it_matters": "Megacaps are sorting by capex-and-event overhang: names with spending questions (TSLA, AMZN, META) sell while defensive consumer/health names absorb the rotation.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-amd-micron-ai-fears/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news this morning. Carried forward: Oct 1 8-K - issued 34.47M Class A units at $26.7206 (fixed 9.25% distribution, non-convertible, non-redeemable, unlisted) to J-W Energy in an internal reorg; began TXSE listing Oct 5 under USAC; Q2 2026 beat Aug 4 ($0.31 EPS vs $0.28 est, $342.15M revenue vs $340.49M est); $600M 6.75% notes due 2035 issued in September to repay credit facility debt; consensus Hold, $29.50 target; units broke below the 200-day MA ($26.92) Oct 13, last ~$25.66.",
+    "sentiment": "neutral",
+    "source": "https://www.tipranks.com/news/company-announcements/usa-compression-restructures-capital-with-new-class-a-units"
+  },
+  "watch_next": [
+    "Warsh speaks in Bangkok at 11:30pm ET tonight - last scheduled Fed word before Saturday's blackout; CME Oct 27-28 hike odds ~37%",
+    "Tesla Roadster demo at 5:55pm PT tonight; earnings Oct 21",
+    "After the close: Alcoa, Interactive Brokers, J.B. Hunt Transport",
+    "Does the chip selloff print an eighth straight down day, and does afternoon dip-buying appear",
+    "Anthropic IPO timeline: Reuters reports the debut likely pushed past the November midterms; the S-1 will be the first hard look at the financing model"
+  ],
+  "analysis": "What changed vs the 7am brief: the split tape is holding rather than deteriorating - Dow +0.5-0.6%, Nasdaq -0.8 to -1.3%, S&P -0.3% in the second hour, with the open not finding a bounce but not accelerating either. New since 7am: (1) TSMC's record-but-cautious print was punished anyway (-2% in Taipei), hardening the read that even the best-positioned AI supplier gets no credit while financing fears dominate; the market is now asking about demand bifurcation between AI and consumer chips. (2) Day 8 of the chip rout is becoming the headline fact - SOXX's longest losing streak in 11 years. (3) Very hot PPI (+1.3% MoM, 6.3% YoY, highest since 2022) still failed to lift the 10Y, which fell 12 bps - the haven bid is beating the hike repricing, classic risk-off. (4) The Anthropic debate sharpened into two camps: one says the financing model is the weak link (Broadcom's CEO: capital/funding is the binding constraint; CDS on CRWV implying 63% 5-yr default probability), the other that demand is real ($16.8B, adjusted-profitable two quarters, 85% adjusted gross margin, cash-flow positive). (5) Barclays downgrading Dell/HPE extends the stress from cloud balance sheets to hardware orders. (6) The OpenAI/Apple legal de-escalation removes a near-term tail risk for both sides. Signal vs noise: the AI-funding squeeze is the dominant signal; the Apple trade-secret spat is contained noise; the AAPL China Intelligence-approval report from the 7am brief stays single-source and fragile. The afternoon's central question is whether dip-buying appears or the day closes on an eighth straight down day for chips.",
+  "community_signals": [],
+  "opinion": null,
+  "disclaimer": "Not financial advice - for informational purposes only."
+}
