@@ -1,0 +1,80 @@
+{
+  "brief_id": "2026-10-15T04-00-pt-premarket",
+  "generated_at_pt": "2026-10-15T04:00:00-07:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": 0.39,
+    "sp500_futures_pct": -0.35,
+    "nasdaq100_futures_pct": -1.26,
+    "sp500_vs_record_pct": null,
+    "vix": 16.83,
+    "vix_change": 1.56,
+    "treasury_10y_pct": 5.19,
+    "treasury_10y_change_bps": null,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "prior session (Wed): 8 of 11 S&P 500 sectors red; Energy +1.80% led on higher oil; Health Care worst at -1.35%; VIX jumped to 16.83 (+10.22%) as tech/AI sold off",
+    "wti_usd": 94.8,
+    "wti_day_pct": -0.3,
+    "gold_usd": null,
+    "gold_day_pct": null,
+    "btc_usd": null,
+    "notes": "Wednesday recap: S&P 500 -1.11% (7,718.94), Nasdaq -1.88% (26,692.87), Dow -0.09% (51,621.48) - biggest one-day drop since July after hot September CPI"
+  },
+  "headlines": [
+    {
+      "ticker": "TSM",
+      "headline": "TSMC posted a sixth straight record quarter - Q3 net profit up 68.7% to NT$763.1B, beating the NT$746.3B consensus; revenue NT$1.49T. Q4 revenue guided to $52.3-54.3B with full-year 2026 USD revenue growth of 44%, but struck a cautious note for 2027 on macro uncertainty.",
+      "why_it_matters": "Record quarter and strong AI demand signal, but the cautious 2027 comment is feeding the same AI-spending durability worries already hitting chip stocks - TSM fell 1.7% overnight.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.ajupress.com/view/20261015171710125"
+    },
+    {
+      "ticker": "ASML",
+      "headline": "ASML reported Q3 revenue of EUR 11.66B (up 55.2% y/y) and net profit of EUR 4.96B (more than doubled), and raised full-year revenue guidance to EUR 44-45B; CEO said customers are already discussing equipment orders for 2029-2030.",
+      "why_it_matters": "Bullish read-through for AI capex stretching years out - cuts against the AI-bubble narrative, though ASML shares still fell 3.9% Wednesday in the sector-wide rout.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.ajupress.com/view/20261015171710125"
+    },
+    {
+      "ticker": "SPY",
+      "headline": "AI-credit rout deepens in premarket: Nasdaq 100 futures down 1.26%, S&P 500 futures down 0.35% (Dow futures +0.39%). CoreWeave fell another 4.5% after a 15% drop; Oracle -2%, Nvidia -1.3%, Micron -4%, AMD -1.9%.",
+      "why_it_matters": "Rate-hike repricing is squeezing leveraged AI-infrastructure names hardest - this is the same CoreWeave/Oracle bond-stress trade from Wednesday extending overnight.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "September CPI came in hot: +0.6% m/m, 3.7% y/y (3.6% expected; August 3.4%); core +0.3% m/m, 2.6% y/y, both above forecast. Gasoline +9.1% m/m. Traders now price ~60% chance of a quarter-point Fed hike.",
+      "why_it_matters": "Hotter inflation is pulling forward rate-hike expectations, which lifts borrowing costs for the debt-heavy AI buildout - the macro trigger behind Wednesday's tech selloff.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://en.sedaily.com/international/2026/10/15/us-stocks-fall-on-cpi-shock-as-chip-index-tumbles-43-percent"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news overnight. Carry-forward: Oct 1 8-K disclosed 34.47M Class A units issued to J-W Energy at $26.7206 (9.25% fixed distribution, non-convertible); listing moved to Texas Stock Exchange on Oct 5; Q2 results (Aug 4) beat estimates with revenue $342.15M and EPS $0.31 vs $0.28 est.; analysts consensus Hold with $29.50 target.",
+    "sentiment": "neutral",
+    "source": "https://www.tipranks.com/news/company-announcements/usa-compression-restructures-capital-with-new-class-a-units"
+  },
+  "watch_next": [
+    "Retail sales, PPI, and jobless claims at 8:30 a.m. ET today - first macro read since the hot CPI",
+    "Whether the AI-credit selloff stabilizes or spreads from CoreWeave/Oracle to hyperscaler names",
+    "Fed Beige Book already flagged oil/diesel cost pass-through across all districts; next FOMC decision Oct 28"
+  ],
+  "analysis": "The dominant theme is a hot-CPI-meets-AI-credit double hit: Wednesday's 3.7% y/y inflation reading repriced rate-hike odds (~60% chance of a quarter-point hike), and that is landing directly on the leveraged AI-infrastructure trade - CoreWeave's distressed bonds (~15% yield), Gartner's neocloud warning, Oracle's 9% drop. Fresh overnight, TSMC's record quarter and ASML's raised guidance are the bullish counter-signal: actual AI chip demand is still beating expectations and capex is being planned out to 2029-2030, yet both stocks fell anyway as the market de-rates rather than re-examines demand. Megacaps were broadly weak Wednesday (META -3.27%, NVDA -3.16%, TSLA -2.15%; only AAPL +0.50% while crossing $5T), and Nasdaq 100 futures are down another 1.26% premarket while Dow futures are positive - a clear growth-vs-value split. Signal vs noise: the credit stress at CoreWeave is real but company-specific for now; watch hyperscaler capex comments and GPU rental pricing for evidence of actual demand decay. The 10-year at 5.19% and VIX at 16.83 confirm the risk-off tone.",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "title": "CoreWeave's Bonds Turn Distressed, Drawing 'Yikes' from Musk",
+      "url": "https://news.ycombinator.com/item?id=50090791",
+      "takeaway": "HN discussion is tracking CoreWeave's bond selloff (yields near 15%) and Musk's one-word 'Yikes' reaction, framing the episode as credit-market discipline on the debt-funded AI buildout rather than an equity valuation blip"
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice — for informational purposes only."
+}
