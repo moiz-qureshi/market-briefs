@@ -1,0 +1,97 @@
+{
+  "analysis": "New vs the 4am brief: the single biggest fresh item is Fed Chair Warsh's Bangkok speech tonight (11:30pm ET) — the last scheduled Fed word before Saturday's blackout, with October hike odds now a coin toss (Reuters, ~1h old). Futures are still split: Dow +0.23%, S&P -0.32%, Nasdaq 100 -1.2% — the growth-vs-value split from Wednesday is persisting rather than healing. Tesla has its own catalyst tonight (Roadster demo 5:55pm PT) plus a Barclays Tesla-SpaceX merger note, with TSLA -2% premarket. The chip trade added two single-source wrinkles: ByteDance-MediaTek custom AI chip talks (Nvidia-moat narrative) and a Taiwan push to settle Micron's HBM bonus dispute before a strike — treat both as fragile. Banks showed the tape's mood: BofA missed on a $1.2B regulatory charge and MS beat cleanly yet both fell Wednesday; macro is overwhelming stock-specific results right now. TSMC remains the bullish counter-signal — record Q3, 44% full-year revenue growth guide, 2nm at 8% of wafer revenue, 2026 capex held at $60-64B — yet TSM fell ~2% overnight anyway: the market is de-rating AI credit risk, not re-examining AI demand. Signal vs noise: CoreWeave's ~15% bond yields and the Gartner neocloud warning are real credit stress, but company-specific so far; watch PPI/retail sales/jobless claims at 5:30am PT today and Warsh tonight for the next repricing.",
+  "brief_id": "2026-10-15T05-00-pt-premarket",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "takeaway": "HN discussion is tracking CoreWeave's bond selloff (yields near 15%) and Musk's one-word 'Yikes' reaction, framing the episode as credit-market discipline on the debt-funded AI buildout rather than an equity valuation blip. Still the freshest HN thread on the day's dominant story; no newer qualifying threads found.",
+      "title": "CoreWeave's Bonds Turn Distressed, Drawing 'Yikes' from Musk",
+      "url": "https://news.ycombinator.com/item?id=50090791"
+    }
+  ],
+  "disclaimer": "Not financial advice — for informational purposes only.",
+  "generated_at_pt": "2026-10-15T05:03:00-07:00",
+  "headlines": [
+    {
+      "confirmation": "confirmed",
+      "headline": "Fed Chair Warsh speaks at the IMF meeting in Bangkok at 11:30pm ET tonight (8:30pm PT) — his last scheduled remarks before Saturday's blackout ahead of the Oct 27-28 FOMC. After hot September CPI, an October hike is now seen as a coin toss (CME <40% late Wednesday), and Fed colleagues are publicly pushing back on Warsh's 'quiet Fed' communications stance.",
+      "sentiment": "neutral",
+      "source": "https://www.reuters.com/markets/us/warshs-quest-quiet-fed-gets-vocal-pushback-2026-10-15/",
+      "ticker": "NONE",
+      "why_it_matters": "Last word on rates before the decision — with odds near 50/50, every phrase moves hike expectations, and hike repricing is exactly what is squeezing AI-infrastructure credit."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Tesla's Roadster demo goes live tonight 7:55pm CT (5:55pm PT) in Waco, TX — rescheduled from Oct 1 on high winds; Musk calls it a 'candidate for greatest product demo of all time.' Separately, a Barclays note floated a possible Tesla-SpaceX merger announcement before Tesla's early-December annual meeting, with an all-stock SpaceX acquisition of Tesla seen as the more likely structure.",
+      "sentiment": "negative",
+      "source": "https://www.tradingview.com/news/stocktwits:81390a2b9094b:0-tsla-stock-slips-overnight-ahead-of-roadster-event-elon-musk-promises-greatest-product-demo-of-all-time/",
+      "ticker": "TSLA",
+      "why_it_matters": "TSLA fell ~2% premarket on merger chatter plus broad tech weakness; the event is a pure sentiment catalyst ahead of TSLA earnings on Oct 21. Confirmed event and note — the merger itself is analyst speculation, not announced."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Reuters Morning Bid leads with 'CoreWeave unravels': shares down another ~5.6% premarket after a 15% Wednesday slide on debt fears. The CEO reaffirmed confidence in the $99B backlog, ARK bought 189K shares Wednesday, and Dan Ives called the fears 'way overdone.'",
+      "sentiment": "negative",
+      "source": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-10-15/",
+      "ticker": "CRWV",
+      "why_it_matters": "The AI-credit stress trade is deepening for a second day — CoreWeave's bond yields near 15% are the epicenter; the question is whether it stays company-specific or spreads to hyperscalers."
+    },
+    {
+      "confirmation": "single-source",
+      "headline": "Reports say ByteDance is in advanced talks with MediaTek on custom AI data center chips; separately, Taiwan's president urged Micron management and unions to settle bonus disputes to avoid a strike at Micron's Taiwan HBM packaging hub. NVDA -1.7%, MU -4.4% premarket.",
+      "sentiment": "negative",
+      "source": "https://www.tradingview.com/news/stocktwits:794bab264094b:0-why-are-nasdaq-futures-sinking-premarket-crwv-mu-tsm-skhy-ibrx-rklb-tsla-stocks-in-focus/",
+      "ticker": "NVDA",
+      "why_it_matters": "Custom-silicon chatter pressures Nvidia's AI-moat narrative, and an HBM packaging disruption would hit the memory trade — single-source, unconfirmed — treat as fragile."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Bank results recap (Wed): BofA missed on a $1.2B regulatory charge (AML failures; adjusted EPS $1.08 vs $1.10 est.), shares -5.9%. Morgan Stanley beat cleanly (EPS $3.03 vs ~$2.92 est., record $9.1B wealth revenue, $232B net new assets) but still fell ~3.5%.",
+      "sentiment": "negative",
+      "source": "https://www.wsj.com/business/earnings/bank-of-america-settlement-charge-hits-profit-morgan-stanley-profit-climbs-d9cde716/",
+      "ticker": "NONE",
+      "why_it_matters": "Even a clean beat got sold on the risk-off tape — on this tape, macro is overwhelming stock-specific results."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Mixed premarket split persists: Dow futures +0.23% while S&P 500 futures -0.32% and Nasdaq 100 futures -1.2%; the Magnificent Seven ETF (MAGS) is down 1%+ premarket as NVDA (-1.7%) and META (-1%) lag while AAPL (+<1%) holds up a day after its first $5T close.",
+      "sentiment": "negative",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10152026-12174789",
+      "ticker": "SPY",
+      "why_it_matters": "The growth-vs-value split from Wednesday is widening — the open is set to be tech-led again, with futures tilted negative."
+    }
+  ],
+  "market_snapshot": {
+    "breadth_notes": "prior regular session (Wed): 8 of 11 S&P 500 sectors red; SOX -4.30% (sixth straight daily decline); Nasdaq 27 new highs vs 521 new lows; VIX closed 16.83 (+10.22%). Premarket: VIX futures +7.74% (Barron's, <1h).",
+    "btc_usd": 80916,
+    "dow_futures_pct": 0.23,
+    "gold_day_pct": 1.7,
+    "gold_usd": null,
+    "nasdaq100_futures_pct": -1.2,
+    "notes": "Thursday Oct 15 premarket: futures split — Dow green, S&P/Nasdaq red on the AI-credit/tech rout. Wednesday recap: S&P 500 -1.11% (7,718.94), Nasdaq -1.88% (26,692.87), Dow -0.09% (51,621.48) — worst day since July after hot September CPI. Overnight Asia: KOSPI -7%+ (trading halt), Nikkei -4.9%; Europe: ASML -5.6%, Infineon -7.9% despite ASML's beat. Premarket commodities (Barron's): Brent -1.36%, gold futures +1.70%, BTC $80,916 (-0.97%); 2Y Treasury ~4.81% (techflowpost).",
+    "sp500_advance_decline": null,
+    "sp500_futures_pct": -0.32,
+    "sp500_vs_record_pct": null,
+    "treasury_10y_change_bps": -10.2,
+    "treasury_10y_pct": 5.088,
+    "vix": 16.83,
+    "vix_change": 1.56,
+    "volume_vs_20d_avg_pct": null,
+    "wti_day_pct": null,
+    "wti_usd": null
+  },
+  "opinion": null,
+  "type": "premarket",
+  "usac": {
+    "headline": null,
+    "sentiment": "neutral",
+    "source": "https://www.tipranks.com/news/company-announcements/usa-compression-restructures-capital-with-new-class-a-units",
+    "why_it_matters": "No fresh USAC news overnight. Carry-forward: Oct 1 8-K disclosed 34.47M Class A units issued to J-W Energy at $26.7206 (9.25% fixed distribution, non-convertible, non-redeemable); listing moved to Texas Stock Exchange on Oct 5; Q2 (Aug 4) beat with revenue $342.15M and EPS $0.31 vs $0.28 est.; $600M 6.750% senior notes due 2035 issued in September to repay credit borrowings; Zacks lifted Q3 EPS est. to $0.21 (Oct 1); consensus Hold with $29.50 target."
+  },
+  "watch_next": [
+    "PPI, retail sales, and jobless claims at 8:30am ET (5:30am PT) today — first macro read since the hot CPI",
+    "Warsh at IMF Bangkok, 11:30pm ET tonight (8:30pm PT) — final scheduled Fed word before Saturday's blackout; Oct 27-28 decision 12 days out",
+    "Tesla Roadster demo 7:55pm CT (5:55pm PT) tonight; TSLA earnings Oct 21",
+    "Whether the AI-credit selloff (CoreWeave -5.6%, memory -4%+) stabilizes or spreads from neoclouds to hyperscaler names"
+  ]
+}
