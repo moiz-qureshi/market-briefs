@@ -1,0 +1,16 @@
+{
+  "brief_id": "2026-10-15T09-00-pt-post-open",
+  "advisor": "Codex-Suggestions",
+  "generated_at_pt": "2026-10-15T10:03:52-07:00",
+  "suggestions": [
+    {
+      "action": "trim",
+      "symbol": "QQQ",
+      "position": "shares",
+      "confidence": "medium",
+      "reasoning": "The newest synthetic brief frames higher Treasury yields and oil-driven inflation pressure as the main force weighing on rate-sensitive growth and AI-adjacent technology. Trimming oversized QQQ exposure is a risk-control expression rather than an aggressive short, especially while Nvidia has company-specific support that can keep parts of the complex bid. The upcoming macro-data window in the brief makes the setup actionable, but missing breadth and live execution data keep conviction at medium.",
+      "catalyst": "Persistent yield pressure into PCE and jobs data could deepen growth-stock valuation compression.",
+      "risk": "Falling yields, credible diplomacy, or broad AI leadership could make the trim premature."
+    }
+  ]
+}
