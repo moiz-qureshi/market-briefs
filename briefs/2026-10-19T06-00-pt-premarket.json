@@ -1,0 +1,133 @@
+{
+  "brief_id": "2026-10-19T06-00-pt-premarket",
+  "generated_at_pt": "2026-10-19T06:00:00-07:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": -0.2,
+    "sp500_futures_pct": 0.4,
+    "nasdaq100_futures_pct": 1.0,
+    "sp500_vs_record_pct": null,
+    "vix": 19.99,
+    "vix_change": 0.0,
+    "treasury_10y_pct": 5.085,
+    "treasury_10y_change_bps": 1.5,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Prior regular session (Friday): 6 of 11 S&P sectors green (energy, utilities, staples, materials, financials, real estate); IT, comm services, discretionary, health care, industrials red. SOX -3.83% (8th straight down day, first 8-session skid since 2008). 2,977 advancers vs 6,694 decliners; 340 new 52-wk highs vs 1,198 new lows; 23% of stocks above 50-day. Premarket today (CTT briefing): 2,102 up vs 1,082 down; 367 up 4%+ vs 77 down 4%+; only 25% of stocks above 40-day; new lows 164 vs highs 46.",
+    "wti_usd": 100.73,
+    "wti_day_pct": -0.67,
+    "gold_usd": 4159.5,
+    "gold_day_pct": 0.28,
+    "btc_usd": 82100.0,
+    "btc_day_pct": null,
+    "notes": "Monday Oct 19, ~6:00 AM PT. Investopedia ~8am ET: Nasdaq 100 futures ~+1%, S&P 500 +0.4%, Dow -0.2% (Dow faded from +0.04% at 5:45 ET - value-to-tech rotation inside the bounce). Friday close: S&P 500 -1.09% to 7,659.44, Nasdaq -2.15% to 26,140.03, Dow -0.34% to 52,002.41; VIX +21.45% to 19.99. 10Y 5.085% (+1.5bp vs 5am). Brent -1.8% to ~$107 on the Russia sanctions waiver (Reuters); WTI $100.73. Fed blackout ahead of Oct 27-28 FOMC. Carried: PBOC non-bank liquidity support tool; China Q3 GDP 4.5% beat; UK CMA strategic-market-status proposal for Microsoft business software (consultation to Nov 13); European natgas at post-Dec-2022 highs; French-Bund spread 146bp on riot fallout; Iran reported another tanker hit a mine in the Strait of Hormuz (Reuters); Sec. Rubio: up to 60 days to assess the sanctions waiver's economic impact."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Futures held a firmer tech-led bid into the final premarket hour: Nasdaq 100 futures ~+1% and S&P 500 futures +0.4% (Investopedia, ~8am ET), while Dow futures faded to -0.2% from +0.04% at 5:45am ET (TipRanks). The Roundhill Mag-7 ETF (MAGS) is +0.5% after a -2% Friday; CoreWeave +2% premarket after plunging 25% last week on debt concerns; the Roundhill Memory ETF (DRAM) rebounded 4% after -6% Friday.",
+      "why_it_matters": "The bounce is broadening across the most beaten-down AI names, but the Dow fade shows it is a tech-led squeeze, not a broad risk-on day - the open has to confirm it before it counts as repaired.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10192026-12181593"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "AI-chip rebound: SMH +2.7% premarket, SOXX +3% after a -4% Friday, NVDA +1.35%, AMD +3.26%, AVGO +2.67%, MU/SNDK/WDC/STX up to +4.5%; Lam Research +4% premarket despite reporting this week (TipRanks, CTT briefing). SOXX has fallen eight straight sessions - first time since 2008 - while Cantor says chip equipment is sold out (CTT).",
+      "why_it_matters": "Chips are the engine of this morning's bid - an eight-session washout usually snaps hard, but it only matters if SOXX breaks the losing streak at the open and new lows start shrinking.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.tipranks.com/news/nasdaq-futures-surge-1-2-but-why-are-meta-and-tesla-stocks-lagging"
+    },
+    {
+      "ticker": "META",
+      "headline": "Meta lagged the bounce, -0.26% premarket (TipRanks), with Tesla (-0.37%), Netflix (-0.27%) and IBM (-0.31%) also soft. Reuters says Meta is expected to beat Wall Street estimates when it reports Wednesday AMC, after Friday's -3.72% - the steepest Mag-7 drop.",
+      "why_it_matters": "Investors are de-risking into Wednesday's print - Friday's hangover plus earnings caution; capex guidance is what decides whether the AI-supply-chain fear trade resumes or fades.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.tipranks.com/news/nasdaq-futures-surge-1-2-but-why-are-meta-and-tesla-stocks-lagging"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Tesla -0.37% premarket ahead of Wednesday's print (TipRanks); SpaceX reports Tuesday night. Musk's pledge of one SpaceX share to every US child (~$10.5B) is circulating in the tape.",
+      "why_it_matters": "Same two-day de-risking pattern as Meta - the print plus SpaceX results and merger rumors keep both legs of the Musk complex news-sensitive this week.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.tipranks.com/news/nasdaq-futures-surge-1-2-but-why-are-meta-and-tesla-stocks-lagging"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "American Electric Power signed an agreement with X-Energy and Amazon to study a 960-megawatt nuclear project in Indiana (CTT AI Analyst pre-market briefing); utilities were the second-best premarket sector at +1.19%. AMZN +1.33% premarket.",
+      "why_it_matters": "Single-source, unconfirmed - treat as fragile. If confirmed, it is another datapoint in the Big Tech nuclear/power-buying trend feeding the AI data-center buildout.",
+      "sentiment": "positive",
+      "confirmation": "single-source",
+      "source": "https://confluencetradingtools.substack.com/p/ctt-ai-analyst-pre-market-briefing-7ee"
+    },
+    {
+      "ticker": "MSFT",
+      "headline": "Microsoft +0.42% premarket, joining the rebound (TipRanks); the UK CMA's strategic market status proposal for Microsoft's business software (Copilot, E5, cloud licensing; consultation to Nov 13) carried from earlier. MSFT -1.93% Friday.",
+      "why_it_matters": "The CMA probe is long-dated and consultative, so it pressures the returns-on-AI narrative more than near-term cash flow; today MSFT is trading with the tape.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.tipranks.com/news/nasdaq-futures-surge-1-2-but-why-are-meta-and-tesla-stocks-lagging"
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "Apple ticked lower premarket after being Friday's only green Mag-7 name (+0.43% to $343.46) on the $1,999 iPhone Duo preorder sellout; Kalkine notes the sellout speed may reflect limited early inventory as well as demand, with deliveries slipping to late Jan 2027.",
+      "why_it_matters": "Profit-taking after Friday's decoupling - the Duo narrative is demand-positive, but the limited-inventory caveat keeps it from being a clean upside read.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://kalkine.com/news/consumer/apple-nasdaqaapl-stands-out-as-a-rare-tech-winner-on-the-dow-after-its-foldable-sells-out"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Analyst/action roundup: JPMorgan upgraded INTC to neutral (target $85), INTC +4.2% premarket; Truist backed NBIS Buy with a $355 target - NBIS +7.4% on ~2x volume, pulling CRWV +7.1% with it (CTT). Dan Ives called the neocloud selloff 'another gut-check moment for the AI revolution' and a buying opportunity (TipRanks). CoreWeave's CDS spreads topped 1,000bp last week; ~$52B debt/lease obligations.",
+      "why_it_matters": "Two-sided tape: hard upgrade money plus dip-buying on one side, the AI-credit overhang untouched on the other - watch whether credit spreads follow the equity bounce or keep pricing distress.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.tipranks.com/news/why-are-coreweave-nebius-and-iren-stocks-rising-in-premarket-today-october-19"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Earnings slate: NFLX Tuesday AMC as tone-setter (EPS est $0.82, +39% y/y, revenue ~$12.9B; after ~1,000 layoffs); SpaceX Tuesday night; META + TSLA Wednesday AMC; MSFT/GOOGL Oct 28; INTC Oct 29 (EPS est $0.40, +70% y/y, revenue $16.5B); AMD Nov 3. Today 10am ET: NAHB housing index (forecast 31); bank earnings (Fifth Third, Western Alliance, Zions, Wintrust).",
+      "why_it_matters": "The macro tape is quiet until 10am ET - the bounce runs on its own momentum into the open, then housing data and bank earnings test whether credit reality supports the risk bid.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-news-october192026/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Deals and guides: TTM Technologies is buying the Ophir Optics business from MKSI for ~$650M cash (optical parts for AI data centers); Eos Energy guided preliminary Q3 revenue to $82-83M (~170% y/y growth) but expects full-year revenue in the lower half of its $300-350M range; Red Cat proposed an all-cash EUR39/share offer for Austria's Steyr Motors (autonomous maritime defense); Cerebras bounced off its $126.05 52-wk low.",
+      "why_it_matters": "Single-source, unconfirmed - treat as fragile. Optical/parts M&A and beat-but-trim guides fit the AI-hardware theme; the bounce is selective, not indiscriminate.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://confluencetradingtools.substack.com/p/ctt-ai-analyst-pre-market-briefing-7ee"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news overnight. Carried: Q3 distribution $0.525/unit ($2.10 annualized), payable Nov 6 to record holders Oct 26 (BusinessWire, Oct 15); Q3 results before the open Tuesday, Nov 3 (11am ET call); Oct 1 8-K: 34.47M Class A units at $26.7206, 9.25% fixed, to J-W Energy; TXSE listing since Oct 5; Q2 beat ($0.31 EPS vs $0.28 est, $342.15M revenue); $600M 6.75% notes due 2035; consensus Hold, $29.50 target; ~8.4% yield.",
+    "sentiment": "neutral",
+    "source": "https://www.thestockobserver.com/2026/10/16/usa-compression-partners-lp-nyseusac-stock-to-pay-quarterly-dividend-of-0-53.html"
+  },
+  "watch_next": [
+    "The 6:30am PT open: does the tech-led bid hold, and does SOXX snap its 8-day losing streak (first since 2008)? New lows vs highs (164 vs 46 premarket) is the tell",
+    "10am ET NAHB housing index (forecast 31) plus today's regional-bank earnings (Fifth Third, Western Alliance, Zions, Wintrust) - credit/demand reality check on the risk bid",
+    "Earnings: NFLX Tuesday AMC (tone-setter, EPS est $0.82, +39% y/y) and SpaceX Tuesday night; META + TSLA Wednesday AMC - capex guidance decides the AI-supply-chain fear trade",
+    "Meta/Tesla lagging into Wednesday: whether dip-buyers return or de-risking deepens; CMA/MSFT consultation runs to Nov 13",
+    "Credit: do neocloud equity gains (CRWV +2%, NBIS +7.4% premarket) follow through into credit spreads (CRWV CDS topped 1,000bp last week)?",
+    "Energy/fiscal: European natgas at post-Dec-2022 highs vs soft crude on the Russia waiver; French-Bund spread 146bp",
+    "USAC: Q3 results before the open Tuesday, Nov 3 (11am ET call); $0.525 distribution payable Nov 6 to record holders Oct 26"
+  ],
+  "analysis": "What changed vs the 5:00am brief: the tech bid held (Nasdaq 100 futures ~+1%) but the Dow faded to -0.2% - a value-to-tech rotation inside the bounce. Memory chips became the bounce's leaders (DRAM ETF +4%, WDC/SNDK/MU/STX up to +4.5%), Lam Research +4% despite reporting this week, and JPMorgan's INTC upgrade plus Truist's $355 NBIS target added hard analyst legs under the beaten-down names. New items: the AEP/X-Energy/Amazon 960MW nuclear study, the TTMI/Ophir $650M deal, EOSE's beat-but-trim guide, and RCAT's Steyr offer (all single-source via the CTT briefing). The flip side: Meta, Tesla, Netflix and IBM are all lagging the premarket bid on earnings caution - a two-speed tape ahead of Wednesday's double print. Internals read like a textbook deeply-oversold bounce (2,102 up vs 1,082 down premarket; only 25% above the 40-day; new lows 164 vs highs 46) - bounces from these levels snap hard, but they only become bottoms when new lows start shrinking. Signal vs noise: the PBOC tool, EU energy stress, and the AI-credit overhang (CRWV CDS >1,000bp, still untouched) are durable threads; the DPRK-missile chatter and single-source deal items are noise until confirmed. The open at 6:30 PT is the first real test.",
+  "community_signals": [
+    {
+      "platform": "other",
+      "title": "WSB Sentiment Today (2026-10-18): SPY, CRWV, SOXL, META, QQQ - r/wallstreetbets daily discussion analysis",
+      "url": "https://sellthenews.org/wsb/daily",
+      "takeaway": "Community watching SPY 770/760 and QQQ 710-720 for whether overnight gains hold; put holders cutting losses at the open could trigger a short squeeze; broadly hedging ahead of the Oct 27-28 FOMC (low October-hike odds - focus on December guidance and Warsh's comments on AI); the Anthropic IPO is expected to drain liquidity and trigger the next AI selloff. Also notes a claimed Cboe launch of extended-hours single-stock options today (unconfirmed). No fresh HN threads qualified this morning."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice - for informational purposes only."
+}
