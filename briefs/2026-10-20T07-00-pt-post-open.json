@@ -1,0 +1,92 @@
+{
+  "analysis": "The first 30 minutes of the regular session brought two diverging verdicts on the morning's beat-and-raise industrials: Northrop Grumman was rewarded (+~7%) for its Q3 beat and raised FY2026 outlook with a record $109.6B backlog, while GE Aerospace was sold (-3.1%) despite beating across the board and raising guidance again — Barron's flags this as its fourth straight post-earnings drop, with investors looking past the strong print to slower aftermarket growth in 2027. That split is the signal-versus-noise of the morning: markets are repricing what 2027 growth looks like, not what Q3 was. Oil geopolitics escalated overnight from risk premium to live incidents — Houthis claimed attacks on Saudi energy, airport and military targets, and Iran said two 'non-compliant' tankers caught fire after striking naval mines; WTI spiked ~5% to ~$108.65 and already pared to ~$105.50, so treat the spike as fragile until it confirms. The chip/AI-debt selloff reasserted itself immediately after Monday's bounce (DRAM ETF -2.5% at the open, SOXX -2%), with CRWV -5%+ early as HSBC kept its Reduce rating and $39 PT — Monday's Goldman Buy upgrade has already fully faded. Versus the 6am brief: the tape went from 'futures pointing to a lower open' to a confirmed split session (Dow +0.4% vs Nasdaq -0.8%), GE's premarket strength (+0.6% at $313.23) reversed hard into the open, and NOC's move extended from +1% premarket to ~+7%.",
+  "brief_id": "2026-10-20T07-00-pt-post-open",
+  "community_signals": [],
+  "disclaimer": "Not financial advice — for informational purposes only.",
+  "generated_at_pt": "2026-10-20T07:00:00-07:00",
+  "headlines": [
+    {
+      "confirmation": "confirmed",
+      "headline": "Nasdaq -0.8%, S&P 500 -0.2% in early trading while Dow +0.4% on a busy earnings day as chip stocks fell and oil surged (Investopedia live; IBD: SPY -0.3% just after the open)",
+      "sentiment": "negative",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10202026-12183813",
+      "ticker": "SPY",
+      "why_it_matters": "Split tape confirms the rotation: tech weakness versus defensive/energy strength keeps the index pinned — breadth, not the bounce, decides the next leg."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Northrop Grumman Q3 beat: diluted EPS $7.89 vs $7.18-7.22 consensus on $11.12B sales (+7% y/y), raised FY2026 adjusted EPS guidance to $29.35-29.75 and posted a record $109.6B backlog; shares jumped ~6.9% in early trading (Finnhub live quote $545.86 vs $510.65 prior close)",
+      "sentiment": "positive",
+      "source": "https://www.zacks.com/stock/news/3010878/northrop-grumman-noc-q3-earnings-and-revenues-surpass-estimates",
+      "ticker": "NOC",
+      "why_it_matters": "Classic beat-and-raise rewarded — record backlog and a first 2027 outlook give investors visibility, lifting the defense bid early."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "GE Aerospace beat Q3 across the board (adj. EPS $2.25 vs $2.01 est, revenue $14.12B vs $12.88B est, orders +49%) and raised FY2026 guidance again (adj. EPS $8.00-8.10, revenue growth 19-20%), yet shares fell 3.1% in early trading to $301.50 — on pace for a fourth straight post-earnings drop (Barron's)",
+      "sentiment": "negative",
+      "source": "https://www.barrons.com/articles/ge-aerospace-earnings-stock-price-336f8329",
+      "ticker": "GE",
+      "why_it_matters": "Strong quarter sold anyway — investors are looking past 2026 to slower aftermarket growth in 2027, repricing the multiple on forward, not current, earnings."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Oil surged as Houthis said they launched attacks on Saudi energy, airport and military targets; Iran said two 'non-compliant' tankers caught fire after striking naval mines it placed in the strait. WTI spiked nearly 5% to ~$108.65 then pared to ~$105.50; Chevron climbed ~1% toward new highs",
+      "sentiment": "neutral",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-surge-netflix-earnings-spacex-earnings/",
+      "ticker": "NONE",
+      "why_it_matters": "Live geopolitical incidents in the Gulf keep crude's inflation tax on the tape — energy shares cushion the index while oil strength squeezes everything else."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Chip selloff back on: Roundhill Memory ETF (DRAM) opened down ~2.5%, iShares Semiconductor ETF (SOXX) -2%, Intel and Marvell ~-2.5% apiece, with SK Hynix, Western Digital, SanDisk, Micron, Seagate down up to 3.5% — after Monday's rebound",
+      "sentiment": "negative",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10202026-12183813",
+      "ticker": "NVDA",
+      "why_it_matters": "Monday's bounce had no staying power — AI-capex financing fears are reasserting and Nvidia (-~1.5%) leads the megacaps lower again."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "CoreWeave fell 5%+ in early trading (~$58) after HSBC kept its Reduce rating and $39 PT (36.5% downside, citing debt costs near 15% and slower AI demand); Monday's Goldman Sachs upgrade to Buy (PT cut to $106) fully faded",
+      "sentiment": "negative",
+      "source": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-tumbles-premarket-hsbc-sees-36-downside-for-core-weave-as-ai-boom-faces-debt-test/cZxqARNRBuk",
+      "ticker": "CRWV",
+      "why_it_matters": "The AI-debt canary keeps falling despite analyst defense — credit stress (~15% bond yields) still overrides equity upgrades."
+    }
+  ],
+  "market_snapshot": {
+    "btc_day_pct": null,
+    "btc_usd": 81500,
+    "dow_futures_pct": null,
+    "gold_day_pct": -0.6,
+    "gold_usd": 4135,
+    "nasdaq100_futures_pct": null,
+    "notes": "Tuesday Oct 20 7am post-open (first 30 min of regular session): split tape — Nasdaq -0.8%, S&P 500 -0.2%, Dow +0.4%; NOC beat-and-raise rewarded (+~7%), GE beat-and-raise sold (-3.1%); Houthi/Saudi strikes and mined tankers spiked WTI to ~$108.65 before paring to ~$105.50; chip/AI-debt selloff resumed; Netflix and SpaceX report after the close.",
+    "sp500_advance_decline": null,
+    "sp500_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "treasury_10y_change_bps": -1,
+    "treasury_10y_pct": 5.1,
+    "vix": null,
+    "vix_change": null,
+    "volume_vs_20d_avg_pct": null,
+    "wti_day_pct": null,
+    "wti_usd": 105.5,
+    "breadth_notes": "Early regular session: split tape — Nasdaq -0.8%, S&P 500 -0.2%, Dow +0.4%; chips/memory weak (DRAM ETF -2.5%, SOXX -2%, INTC/MRVL ~-2.5%), defense (NOC) and energy (CVX near new highs) green. Advance/decline ratio and volume vs 20-day average not shown by sourced pages."
+  },
+  "opinion": null,
+  "type": "post-open",
+  "usac": {
+    "headline": null,
+    "sentiment": "neutral",
+    "source": "https://www.morningstar.com/news/business-wire/20261015246449/usa-compression-partners-announces-third-quarter-2026-distribution-third-quarter-2026-earnings-release-and-conference-call-scheduled-for-november-3",
+    "why_it_matters": "No fresh USAC news overnight or in the early session. Carried forward: Q3 2026 distribution held at $0.525 per common unit ($2.10 annualized, ~8.4% yield), payable Nov 6 to unitholders of record Oct 26; Q3 earnings before the open Tuesday Nov 3 with a call at 11am ET. With WTI elevated near five-month highs and Houthi/Saudi headlines keeping energy bid, the compression demand backdrop stays supportive."
+  },
+  "watch_next": [
+    "Housing starts/building permits at 8:30am ET; pending home sales at 10:00am ET",
+    "Netflix and SpaceX (second-ever report) Q3 results after the close today; Tesla and Meta after the close Wednesday",
+    "Gulf headlines: Houthi/Saudi strikes and the mined-tanker incident — whether WTI's spike confirms or keeps fading; crude inventories Wednesday",
+    "Whether the chip/AI-debt selloff deepens into the afternoon and whether GE's post-earnings drop holds (fourth straight would confirm the aftermarket-growth repricing)",
+    "Micron's Taiwan labor talks ahead of the planned Thursday Oct 22 strike"
+  ]
+}
