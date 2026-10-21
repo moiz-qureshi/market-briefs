@@ -1,0 +1,132 @@
+{
+  "brief_id": "2026-10-21T04-00-pt-premarket",
+  "generated_at_pt": "2026-10-21T04:10:00-07:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": 0.01,
+    "sp500_futures_pct": 0.22,
+    "nasdaq100_futures_pct": 0.5,
+    "sp500_vs_record_pct": null,
+    "vix": 17.31,
+    "vix_change": null,
+    "treasury_10y_pct": 5.13,
+    "treasury_10y_change_bps": 2.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Prior session (Tue Oct 20): Dow +1.02% to 52,495.88, S&P 500 +0.28% to 7,712.57, Nasdaq -0.02% to 26,424.82, Russell 2000 +1.65% to 2,773.42; 9 of 11 sectors green, healthcare +2.3% leading, then real estate +1.7%, utilities and financials +1%+; comm services -0.89% and tech -0.3% lagged. VIX closed -6.13% at 17.31. MAGS split: TSLA +1.54% and AMZN +0.07% the only gainers; META -1.59%, GOOGL -1.11%, AAPL -1%, MSFT -0.31%, NVDA -0.29%. SOXX -0.29%. GM fell ~7% despite a $20B buyback; 3M +5.78% on a beat-and-raise plus a new Amazon data-center supply deal. Advance/decline and volume-vs-20d not shown on sourced pages. Overnight Asia: Kospi +~4%, Nikkei +~1.3%, Taiex +~1.7% (rebound after Tuesday's drops).",
+    "wti_usd": 98.92,
+    "wti_day_pct": 1.12,
+    "gold_usd": 4145.8,
+    "gold_day_pct": 0.08,
+    "btc_usd": 82988.76,
+    "btc_day_pct": 0.3,
+    "notes": "Premarket Wed Oct 21, ~4 AM PT (2.5h before the 6:30 AM PT open). Futures as of ~2:35 AM PT (TipRanks). 10Y ~5.13% in Asian trade (+1 to 2bp vs the Oct 20 9 AM PT brief's 5.11%). Brent ~$109.9 (+1.0%); WTI November contract expired Tuesday at $101.79 (-1.8%), December now front at ~$98.9 (+1.1%). Meta (4:30pm ET) and Tesla (5:30pm ET) report after the close; EIA petroleum report 7:30 AM PT, $13B 20-year auction 10 AM PT."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Futures higher on earnings: Nasdaq 100 e-minis +0.50%, S&P 500 e-minis +0.22%, Dow e-minis +0.01% (as of ~2:35 AM PT).",
+      "why_it_matters": "A tech-led bid into a heavy earnings day (Meta, Tesla, IBM, Lam Research, TI after the close; SpaceX's beat and SMCI's raised guide already in the tape) after Tuesday's rotation rally was led by non-tech names.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.tipranks.com/news/stock-market-today-oct-21-futures-rise-on-latest-earnings-spacex-stock-soars-on-q3-beat-and-merger-talks"
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "SpaceX Q3: revenue $14.6B (+161%, vs ~$12.7-13B est), net income $4.4B ($0.35 EPS vs ~$0.13-0.16 est) - its first profitable quarter as a public company. Super Intelligence revenue $7.56B (+830% YoY) became the largest segment for the first time (52% of total); Starlink 13.6M subscribers; capex $19.6B; Q4 capex guided to $35-40B; $63B backlog; shares +8-10% overnight (~$160-162 vs $147.79 close). ~1.3B shares unlock Thursday Oct 22.",
+      "why_it_matters": "The SI print is hard demand data for the AI-capex narrative the market spent last week repricing - but about 37% of net income came from below the operating line ($1.03B other income, $390M tax benefit, $198M net interest income), so the 'first profitable quarter' headline overstates operating leverage.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/news/spacex-earnings-q3-2026-ai-starlink-starship-tesla-elon-musk-spcx-stock/"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Musk confirmed both Tesla and SpaceX boards have formed special committees of independent directors to explore a merger, at shareholders' request; Musk recused himself as a conflicted party, said no terms are agreed and it is 'not a certainty' (Tesla would need a majority of ALL outstanding shares to approve). TSLA +1.7-2% premarket. Tesla reports Q3 after the close (call 5:30pm ET; est ~$0.40-0.43 EPS on ~$27.9B revenue).",
+      "why_it_matters": "A confirmed process around a merger that would fold the AI-compute story into Tesla - positive optionality, but Musk's own 'not a certainty' and the high shareholder-approval bar cap the premium until tonight's print lands.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2"
+    },
+    {
+      "ticker": "META",
+      "headline": "Meta reports after the close (call 4:30pm ET): est revenue ~$63.3B (+24% YoY), EPS est ~$5.74-6.58 vs $7.25 a year ago (which carried a one-time benefit). Fell 1.59% Tuesday to $694.25; edging +0.1-0.2% premarket.",
+      "why_it_matters": "The setup is ad growth vs AI-capex spend: last quarter the stock fell 8% on free-cash-flow/capex concerns despite solid revenue, so guidance on FY27 capex (reaffirmed $125-145B) matters as much as the quarter.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://longbridge.com/en/news/302521095"
+    },
+    {
+      "ticker": "NFLX",
+      "headline": "Netflix Q3: revenue $12.87B (+11.8%, in line), EPS $0.87 vs $0.82 est, operating margin 34.6%; but Q4 revenue guided to $13.44B (+11.5%) vs ~$13.52B est and Q4 EPS $0.67 vs $0.73 est; 2026 ad-revenue forecast cut to $2.7B from $3B; FY26 revenue narrowed to $51.1B (low end of prior range); shares -5.5-6% overnight, brewing a sixth straight post-print decline. Company fired its CCO and film chief and cut ~1,000 jobs (6%) last week.",
+      "why_it_matters": "A textbook guide-down: the EPS beat is overshadowed by the slowest top-line growth in three years and a $300M ad-forecast cut that undermines the one growth lever investors were counting on.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.fool.com/investing/2026/10/20/netflix-cut-its-ad-revenue-forecast-by-300-million-does-that-matter-more-than-its-earnings-beat/"
+    },
+    {
+      "ticker": "SMCI",
+      "headline": "Super Micro raised preliminary fiscal Q1 revenue guidance to $18.5-19.5B (from $14.5-15.5B) and gross-margin guide to 12-12.5% (from 10.4-10.8%); full results Nov 3; shares +12-17% overnight. The AI-hardware complex is bidding in sympathy: NVDA +1.9% premarket, MU +3%, SNDK +3.2%, plus neo-clouds CRWV/NBIS/IREN +4-5% overnight.",
+      "why_it_matters": "A hard demand print from the AI-rack builder lands on the same tape as SpaceX's SI beat - together they argue the AI-infrastructure selloff was a positioning event, not a demand break; the Nov 3 full print is the real test.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-climb-after-space-x-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/cZxtFA9RBHZ"
+    },
+    {
+      "ticker": "CRM",
+      "headline": "Salesforce signed a definitive agreement to acquire Braze for $47.50/share cash, ~$5.66B enterprise value (58% premium to Monday's close); funded entirely in cash, expected to close in Salesforce's fiscal 2028 with no change to FY27 outlook. BRZE +51.7% Tuesday to $45.57; CRM flat.",
+      "why_it_matters": "Upgrades yesterday's single-source report to confirmed: Salesforce's third AI-marketing deal this year (after Qualified $1.2B and Fin $3.6B) shows enterprise-software M&A appetite is alive even as the market debates AI-capex returns.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.morningstar.com/news/dow-jones/202610204581/salesforce-to-buy-customer-engagement-platform-for-nearly-57-billion"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Oil bid again: Brent ~$109.6-110.1 (+1%), WTI December ~$98.6-99 (+0.8-1.1%) after a supertanker caught fire striking a sea mine south of the Strait of Hormuz and Houthis claimed attacks on Saudi Aramco's Yanbu site, the Shaybah oilfield, and Riyadh/Abha airports; Kpler counts at least 18 vessel attacks in two weeks, with attacks spreading to the Gulf of Oman. Iran's FM said Tehran has had no response to its peace-talks offer.",
+      "why_it_matters": "The supply-risk premium is back after Tuesday's mediation-led dip (Brent settled $108.79, WTI Nov expired at $101.79): every escalation headline re-tightens the inflation tail the 10Y is pricing.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://965wtou.com/2026/10/20/oil-rises-on-middle-east-supply-worries/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "10Y Treasury 5.11-5.13% (+1-2bp in Asian trade) with $13B of 20-year supply today at 10 AM PT; markets price ~83-85% odds the Fed holds at the Oct 28 decision (LSEG/FedWatch), with three hikes fully priced over the next 12 months; EIA petroleum report 7:30 AM PT. Japan September exports rose 16.7% (missing estimates); BOJ seen holding Oct 30 before a December hike.",
+      "why_it_matters": "Rates are the lid on multiples: a steady 10Y above 5.1% into supply keeps the multiple-expansion door shut no matter what earnings print.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.morningstar.com/news/dow-jones/202610211330/us-treasury-yields-edge-higher-in-asian-trade"
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "Loop Capital downgraded Apple to Hold from Buy, cutting its target to $330 from $370, saying ~13M iPhones removed from second-half 2026 shipments will not be made up in 2027 and flagging gross-margin pressure from rising memory costs (2027 EPS estimate cut to $9.76 from $10.11); MoffettNathanson also cut its target to $283 from $304 (neutral). AAPL -1% Tuesday to ~$342.50 after a record $343.46 close Oct 16; Apple event Oct 28, fiscal Q4 Nov 2.",
+      "why_it_matters": "The year's best-performing Mag 7 name (+26% YTD) is being re-underwritten on units and margins: a falling iPhone shipment read gives the tape a reason to rotate away from hardware into tonight's AI-capex prints.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.barrons.com/articles/apple-stock-mag-7-895d839f"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC headlines. Carried forward: Q3 $0.525/unit cash distribution declared Oct 15 (record Oct 26, paid Nov 6; $2.10 annualized, ~8.4% yield); Q3 results due before the open Tuesday Nov 3 with an 11am ET call; Q2 beat ($0.31 vs $0.28 EPS; revenue $342.15M vs $340.49M est; net income $45.7M); 34.5M Class A units (9.25% fixed, non-convertible, non-redeemable, non-listed) issued Oct 1 in the J-W Energy reorg; listing moved NYSE to TXSE Oct 5; $600M of 6.750% senior notes due 2035 issued September 2026; analyst consensus Hold (avg target $29.50); shares ~$24.88 Friday Oct 16. WTI December ~$98.9 (+1.1%) is a mild sentiment backdrop for compression demand, not company news.",
+    "sentiment": "neutral",
+    "source": "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-15-usa-compression-partners-announces-third-quarter-2026-distribution-third-quarter-2026-earnings-release-and-conference-call-scheduled-for-november-3"
+  },
+  "watch_next": [
+    "Meta (4:30pm ET) and Tesla (5:30pm ET) Q3 after the close; IBM, Lam Research, Texas Instruments also report today",
+    "EIA petroleum report 7:30 AM PT and $13B 20-year Treasury auction 10 AM PT",
+    "Thursday: initial jobless claims (~200k est), American Airlines, Spotify, Lockheed Martin, Western Digital; ~1.3B SpaceX shares unlock from lock-up",
+    "Whether Iran-mediation talk advances or tanker/Houthi attacks escalate - oil is re-tightening the inflation tail",
+    "FOMC decision Oct 28 - markets price ~83-85% odds of a hold",
+    "SpaceX Q4 capex ramp ($35-40B guide) and Terafab spend vs the $1T-in-2028-revenue chatter from the call (Musk via Stocktwits, single-source)"
+  ],
+  "analysis": "What changed versus the Oct 20 9 AM PT post-open brief: (1) SpaceX flipped the AI-capex repricing on its head - SI revenue of $7.56B (+830% YoY, 52% of total) plus SMCI's raised preliminary guide gives the tape two hard demand prints against last week's selloff, and the confirmed Tesla-SpaceX merger-committee process adds a Tesla-side catalyst hours before its own print. Caveat: ~37% of SpaceX's net income came from below the operating line, so the profitability headline overstates operating leverage, and ~1.3B shares unlock Thursday. (2) Netflix is the anti-SpaceX: EPS beat but guide-down on everything that matters (ad forecast -$300M, Q4 EPS guide below consensus, slowest top-line growth in three years) - a sixth straight post-print decline is brewing, validating the GM/GE 'beat and fall' pattern. (3) Salesforce-Braze upgraded from single-source to confirmed (definitive agreement, Dow Jones/company PR): all-cash $5.66B, closes FY2028 - enterprise-software M&A is real even amid AI-capex skepticism. (4) Oil is two-way again: Tuesday's mediation-led dip reversed on the Hormuz mine strike and Houthi Saudi-infrastructure claims, with Brent back near $110; note the WTI roll (Nov expired $101.79, Dec front ~$98.9). (5) Rates are the lid: 10Y ~5.12-5.13% into today's 20-yr auction, Fed hold ~83-85% priced for Oct 28. (6) Megacap setup tonight is META on ad-growth-vs-capex and TSLA on margins plus merger optionality; Deepwater's Munster puts merger odds at 95% within two years (via X, single-source) against Musk's own 'not a certainty'. Signal vs noise: SpaceX numbers, merger committees (multiple outlets), Netflix numbers, SMCI preannounce, CRM-BRZE deal (company announcement + Dow Jones), oil attacks (Reuters), and rates/Fed data are confirmed; the Micron Taichung-union deal (Reuters via TipRanks) and Musk's $1T-2028 revenue chatter (Stocktwits) are single-source so far.",
+  "community_signals": [
+    {
+      "platform": "reddit",
+      "title": "WSB Sentiment Today (2026-10-20): SPCX, SMCI, SNDK, TSLA, META - r/wallstreetbets Daily Discussion Analysis",
+      "url": "https://sellthenews.org/wsb/daily",
+      "takeaway": "Aggregated sentiment from ~1,500 r/wallstreetbets daily-thread comments: SPCX's SI beat and the Tesla-merger committees dominate the tape; SMCI's raised preliminary guidance sparked a +17% overnight retail bid that spread into SOXL, MU, SNDK, NVDA, MRVL and neo-clouds (CRWV, NBIS, IREN); NFLX's guide cut drew broad disappointment. Retail is leaning long the AI-infrastructure tape into Meta and Tesla prints tonight."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice - for informational purposes only."
+}
