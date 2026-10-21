@@ -1,0 +1,105 @@
+{
+  "brief_id": "2026-10-21T09-00-pt-post-open",
+  "generated_at_pt": "2026-10-21T09:00:00-07:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "vix": 17.31,
+    "vix_change": null,
+    "treasury_10y_pct": 5.10,
+    "treasury_10y_change_bps": null,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Mid-session Wed Oct 21 (~8:00 AM PT / 11:00 AM ET, Summa Money live blog): Dow ~flat at 52,501.70 (+0.01%), S&P 500 +0.3%, Nasdaq Composite +0.7%. Within megacaps: TSLA +3.4% to $386.46, META +2.5% to $711.31, NFLX -5.0% to $65.28 (finnhub mid-session quotes). The gain concentrates in the AI/capex complex ahead of tonight's META/TSLA prints. Sourced pages did not show intraday advance/decline ratio or volume vs 20-day average. VIX last sourced at 17.31 (Tuesday close, -6.1%; 8am brief had it at 17.4 pre-open).",
+    "wti_usd": 98.40,
+    "wti_day_pct": 0.6,
+    "gold_usd": 4160.0,
+    "gold_day_pct": null,
+    "btc_usd": 83400.0,
+    "notes": "Post-open Wed Oct 21, ~9:00 AM PT (2.5 hours into the session). Versus the 8am brief: the AI-capex bid strengthened (TSLA and META both green into earnings, Anthropic S-1 rumor surfaced), the EIA inventory report landed (supportive on crude, cooled by the distillate build), and the 10Y yield last read 5.10% this morning vs 5.09% at 7am PT."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Mid-session: S&P 500 +0.3%, Nasdaq +0.7%, Dow flat. The day's advance is being led by the AI/capex complex — SpaceX, Tesla, Meta and the memory/semiconductor complex — while the broader index gains stay measured ahead of tonight's double-header.",
+      "why_it_matters": "Concentration risk is the price-action story: strength is narrow and depends on META/TSLA prints confirming the AI-capex thesis.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://summamoney.com/investing/the-daily/stock-market-today-dow-sp-500-waver-nasdaq-rises-as-earnings-roll-in-spacex-stock-surges/"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Tesla +3.4% to $386.46 in mid-session, rallying into its Q3 report after the close. The SpaceX merger-committee exploration keeps the Musk-empire optionality narrative bid.",
+      "why_it_matters": "Positioning into the print is bullish — a miss now gets punished harder, but the pre-earnings lift suggests the market expects the AI/robo story to carry.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://finnhub.io/?q=%22TSLA%22"
+    },
+    {
+      "ticker": "META",
+      "headline": "Meta +2.5% to $711.31 in mid-session ahead of its Q3 report after the close. Estimates in the morning briefs ranged around $5.74-$6.67 EPS; options imply a roughly 10.6% move.",
+      "why_it_matters": "Largest implied earnings move of the week — tonight's print sets the tape for the AI-capex debate into Thursday.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://finnhub.io/?q=%22META%22"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Anthropic could file its S-1 as soon as Friday, paving the way for what could be the largest IPO in history, according to people familiar with the AI developer's plans.",
+      "why_it_matters": "A mega-IPO filing would validate AI-valuations narrative-wide — a sentiment tailwind for the whole AI complex, but single-source, so treat as fragile.",
+      "sentiment": "positive",
+      "confirmation": "single-source",
+      "source": "https://summamoney.com/investing/the-daily/stock-market-today-dow-sp-500-waver-nasdaq-rises-as-earnings-roll-in-spacex-stock-surges/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "EIA: US crude stocks fell 3.1M barrels to 412.5M (vs ~0.3M expected draw, WSJ survey) — a third straight weekly draw. Gasoline drew 3M barrels; but distillates unexpectedly built 1.675M barrels vs an expected draw, and Cushing added ~987K barrels.",
+      "why_it_matters": "Bullish crude headline offset by the distillate build — keeps a lid on the crude rally, which softens the inflation impulse priced in this morning.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.morningstar.com/news/dow-jones/202610216600/us-crude-oil-stockpiles-fall-more-than-expected"
+    },
+    {
+      "ticker": "NFLX",
+      "headline": "Netflix -5% to $65.28 in mid-session, extending this morning's 7% slide after soft Q4 revenue guidance and a cut to its 2026 advertising revenue outlook.",
+      "why_it_matters": "'Beats aren't enough' theme hardening — guidance is what moves stocks this week, a bearish template for tonight's mega-cap prints.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://finnhub.io/?q=%22NFLX%22"
+    },
+    {
+      "ticker": "GOOGL",
+      "headline": "BMO Capital raised its GOOGL price target to $480 ahead of Alphabet's Oct 28 earnings; separately, a Google Cloud UK outage that hit banking/online services is being investigated by the Bank of England, and securities-fraud class-action lead-plaintiff deadlines around Nov 30/Dec 1 are publicized.",
+      "why_it_matters": "Analyst support is a near-term sentiment prop; the outage and litigation add headline overhang without direct revenue impact — watch if legal risk becomes a theme on the call.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://www.marketbeat.com/instant-alerts/filing-alphabet-inc-googl-stock-rkl-wealth-management-llc-decreases-holdings-2026-10-21/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC headlines this morning. Carried forward: Q3 $0.525/unit cash distribution declared Oct 15 ($2.10 annualized, ~8.4% forward yield per Seeking Alpha) — record date Oct 26, paid Nov 6. Q3 2026 results release before the open Nov 3, with an 11:00 AM ET conference call.",
+    "sentiment": "neutral",
+    "source": "https://www.morningstar.com/news/business-wire/20261015246449/usa-compression-partners-announces-third-quarter-2026-distribution-third-quarter-2026-earnings-release-and-conference-call-scheduled-for-november-3"
+  },
+  "watch_next": [
+    "$13B 20-year Treasury auction 10:00 AM PT (1:00 PM ET) — prior yield 5.42%",
+    "Meta Q3 after the close (~4:30 PM ET) and Tesla Q3 (~5:30 PM ET); IBM, Lam Research, Texas Instruments also report after the close",
+    "Anthropic S-1 filing possibly as soon as Friday — watch whether it firms up into a confirmed event",
+    "SpaceX/Tesla merger-committee process — no terms or timeline yet; Tesla's Dec 3 shareholder meeting is the next governance waypoint",
+    "UK Budget Oct 28 — the date traders are really watching after hot UK CPI printed 3.5%"
+  ],
+  "analysis": "Versus the 8am brief, the session's thesis has tightened: this is now a pure AI-capex waiting game. SpaceX holding ~+10%, Super Micro's guidance raise, Tesla and Meta both green into their prints, plus the Anthropic S-1 rumor, all push in the same direction — the market is bidding the AI trade into tonight's double-header. The risk side also got clearer: the EIA report was supportive for crude (3.1M draw vs 0.3M expected) but the distillate build and Cushing add tempered it, so oil near $98 is no longer accelerating the inflation impulse. The 'beats aren't enough' theme is the counterweight — Netflix (-5% intraday), AT&T (-6% this morning) and Intuitive Surgical show guidance, not EPS, moves stocks, which raises the bar for META and TSLA tonight. Afternoon belongs to the 20-year auction at 10am PT and then the prints. Nothing new on USAC; the $0.525 distribution and Nov 3 earnings date carry forward.",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "title": "Musk calls Tesla-SpaceX merger a 'good idea'",
+      "url": "https://news.ycombinator.com/item?id=50174150",
+      "takeaway": "Small thread (13 points, 7 comments) focused on governance rather than the earnings beat: Musk recused from both special committees as a 'conflicted party,' and any deal needs shareholder approval at both companies — the Dec 3 Tesla shareholder meeting is the next waypoint. Adds the process-discipline angle the headlines gloss over."
+    }
+  ],
+  "disclaimer": "Not financial advice — for informational purposes only."
+}
