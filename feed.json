@@ -1,5 +1,11 @@
 [
   {
+    "file": "2026-10-21T06-00-pt-premarket.json",
+    "brief_id": "2026-10-21T06-00-pt-premarket",
+    "generated_at_pt": "2026-10-21T06:24:00-07:00",
+    "type": "premarket"
+  },
+  {
     "file": "2026-10-21T05-00-pt-premarket.json",
     "brief_id": "2026-10-21T05-00-pt-premarket",
     "generated_at_pt": "2026-10-21T05:05:00-07:00",
@@ -351,12 +357,6 @@
     "file": "2026-10-07T06-00-pt-premarket.json",
     "brief_id": "2026-10-07T06-00-pt-premarket",
     "generated_at_pt": "2026-10-07T06:00:00-07:00",
-    "type": "premarket"
-  },
-  {
-    "file": "2026-10-07T05-00-pt-premarket.json",
-    "brief_id": "2026-10-07T05-00-pt-premarket",
-    "generated_at_pt": "2026-10-07T05:00:00-07:00",
     "type": "premarket"
   }
 ]
