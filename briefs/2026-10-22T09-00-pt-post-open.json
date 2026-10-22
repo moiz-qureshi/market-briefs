@@ -1,0 +1,139 @@
+{
+  "brief_id": "2026-10-22T09-00-pt-post-open",
+  "generated_at_pt": "2026-10-22T09:00:00-07:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": -3.0,
+    "vix": null,
+    "vix_change": null,
+    "treasury_10y_pct": 5.01,
+    "treasury_10y_change_bps": 0.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Midday Thu Oct 22 (~9:00 AM PT), ~2.5h into the regular session: Dow -0.4% to -0.5%, S&P 500 -1.4% (morning low 7,646), Nasdaq -2.3% testing 26,000 (IBD live); QQQ -2.35% (708.20), SPY -1.27% (763.30). Sharp split under the surface: equal-weight RSP +0.18% while the cap-weighted AI complex bleeds - SOXX -5.9%, Roundhill memory ETF -5.5%, MAGS -2.5% - as defensives (PG, LLY, SPOT, CRM, AAPL) run green. Two morning 'fake V' rebounds were sold back down within minutes. VIX was 18.1 at 7 AM PT and has not been seen above 20; fear is concentrated in AI/leverage names, not the broad index (r/wallstreetbets daily sentiment).",
+    "wti_usd": 98.35,
+    "wti_day_pct": 1.0,
+    "gold_usd": 4075.0,
+    "gold_day_pct": -2.0,
+    "btc_usd": 81800.0,
+    "btc_day_pct": -3.0,
+    "notes": "Thursday Oct 22, 9:00am PT - midday, 2.5 hours into the regular session. The selloff held but stopped deepening: Nasdaq -2.3%, S&P -1.4%, Dow -0.4%. META bounced off its $648 low to trade ~-6% ($656-660); TSLA fought back from -4% to -0.85%; GOOGL fell below its 200-day (-2.4%). Semis stayed the epicenter - SOXL -17.7%, NVDA -3.9%, AMD -7.4%, MU -4.4%, with WDC -7.3% ahead of tonight's print. P&G's beat (+5.5%) anchored the defensive rotation. 10Y at 5.01% (-14 bps on the day) is the cushion. Brent ~$111-112 on the still-unconfirmed Iran-strike tape. Anthropic S-1-for-Friday still single-source."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Indexes ground lower into midday: Nasdaq -2.3% testing 26,000, S&P 500 -1.4% (morning low 7,646), Dow -0.4% to -0.5%; QQQ -2.35% (708.20), SPY -1.27% (763.30) (IBD live; r/wallstreetbets daily sentiment).",
+      "why_it_matters": "Two 'fake V' rebounds were sold back down within minutes - intraday bounces are being used as exits. But the equal-weight RSP holding +0.18% says this is crowded-AI deleveraging, not a broad collapse.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings/"
+    },
+    {
+      "ticker": "META",
+      "headline": "META bounced off its intraday low but still trades -6% to -6.5% (~$656-660; low $648.26-648.37), with $650 the community's 'line in the sand'. The Class C dilution plan and uncapped capex remain the overhang, even as 13+ brokerages raised targets after the Q3 beat (Pivotal $960, TD Cowen $850 Buy, Morningstar $850 fair value).",
+      "why_it_matters": "The tape is repricing who funds AI - free cash flow went negative and the non-voting share plan reads as a dilution vehicle, so the revenue beat cannot carry the stock. A close below $650 is the retail pain point to watch.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/meta-falls-investors-balance-muse-growth-with-rising-ai-costs-2026-10-22/"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "TSLA reversed most early losses - from a morning low of $373.71 (down ~4%) to ~$383 (-0.85%) - as post-earnings analyst targets splintered: BofA $460 Buy, Piper $475, RBC $480 Buy, JPM $430 Neutral, UBS $425 Neutral, Goldman $360 Neutral, HSBC $157 Reduce; StoneX reiterated $475 Buy, CLSA upgraded to Hold.",
+      "why_it_matters": "The tape fought off the morning dump once the beat (adj. EPS $0.48, rev $28.05B) was priced against the pushed-out autonomy timeline - the Street is now just arguing over how much the delay is worth.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.tipranks.com/news/ratings/analyst-alexander-perry-reiterates-buy-on-tesla-sets-460-price-target-on-fsd-robotaxi-optimus-and-megapack-growth-outlook-ratings-news"
+    },
+    {
+      "ticker": "GOOGL",
+      "headline": "Alphabet slid another 2.4% midday, falling further below its 200-day moving average on the AI-capex repricing; earnings are due Oct 28 after the close (IBD live).",
+      "why_it_matters": "The selloff is spreading from semis and META to the next hyperscaler print - GOOGL on Oct 28 is the next checkpoint for whether capex guidance, not results, sets the price.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings/"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "The AI hardware chain kept liquidating into midday: SOXX -5.9%, Roundhill memory ETF -5.5%, leveraged SOXL -17.7%; NVDA -3.9% ($213.23), AMD -7.4%, MU -4.4% ($873.10), AVGO -4.6%; optical (COHR -12.6%, LITE -10%) and power names (GEV -11.4%, VST -10.3%) hit too. WDC -7.3% and Seagate -7% ahead of tonight's Western Digital print (consensus ~$4.11 EPS on ~$4.16B revenue).",
+      "why_it_matters": "Lam's in-line outlook set the template - anything short of a demand beat now reads as a cap. Tonight's WDC guide is the number that moves memory.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Micron's Taoyuan DRAM fab faces a 24-hour strike (9am Thu to 9am Fri Taiwan time) as the union demands a long-term profit-sharing mechanism; the scale of participation and any output impact are unconfirmed (FinanceFeeds, citing TradingKey/CNA). Micron settled separately with its Taichung union on Oct 21.",
+      "why_it_matters": "Memory is already the tape's weakest link - a supply event at a major DRAM fab could reprice chips on a different axis entirely. Participation and impact unconfirmed - single-source, treat as fragile.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://financefeeds.com/micron-mu-stock-914-taoyuan-strike-western-digital-results-tonight-bull-1000-bear-850/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "FRESH: Procter & Gamble beat - fiscal Q1 net sales $23.28B (+4%, vs ~$22.8B est), organic sales +4% on 2.4% volume growth, core EPS $2.00 vs $1.89; stock +5.5% to +6%. Raised all-in FY sales guide to 2-4% on the Thorne acquisition but flagged a $1.4B commodity headwind (up from $1.0B).",
+      "why_it_matters": "A clean defensive beat on a risk-off day - staples are absorbing the rotation out of AI hardware, which is exactly why the equal-weight index is green while the cap-weighted one bleeds.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.quiverquant.com/news/Procter%20&%20Gamble%20stock%20jumps%20after%20earnings%20beat%20and%20guidance%20hold"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Anthropic S-1 watch: Seeking Alpha and PYMNTS now echo Yahoo Finance's three-source report that Anthropic could publicly file its S-1 as soon as Friday, clearing the 15-day runway for a November listing; the company declined to comment. Valuation chatter has slipped toward ~$1.5T from ~$2T; the WSJ reported H1 revenue of $16.3B and a net loss over $80B.",
+      "why_it_matters": "The largest-ever IPO would land right into an AI-spending selloff - a confirmed filing refocuses the tape on AI unit economics. Still one originating report, now syndicated - single-source, unconfirmed, treat as fragile.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://seekingalpha.com/news/4655713-anthropic-prepares-to-file-ipo-prospectus-as-early-as-friday---report"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "SpaceX round-tripped its earnings pop: -5.3% to -6% (~$150.92) after Wednesday's 8% jump on its first quarterly profit. Boards of TSLA and SpaceX have formed committees to explore a merger - no deal agreed.",
+      "why_it_matters": "A full round-trip on the earnings pop shows the tape punishing anything priced on the AI/Musk narrative. TSLA's relative strength against SPCX reads as merger-arb rotation into the cheaper name.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "WTI ~$98.35 (+1%+), Brent ~$111-112 near a five-month high, on the unconfirmed NYT report of planned U.S.-Israel strikes on Iran after the Nov 3 midterms. Trump said the U.S. is 'not currently negotiating'; Iran's foreign minister signaled openness to diplomacy; Reuters reported more Houthi attacks in Saudi Arabia.",
+      "why_it_matters": "Energy is the one real bid - if the strike tape proves out, crude becomes the macro risk factor into year-end; the cause is still unconfirmed, so today's oil bid can fade fast. Single-source on the cause - treat as fragile.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "The 10-year Treasury yield fell to ~5.01% (-14 bps on the day) as investors fled to safety; TLT +1.36%. France's 10-year hit its highest since 2002, China's CSI 300 entered bear-market territory, and Asian markets fell 3%+.",
+      "why_it_matters": "Bond and equity desks agree on one thing - fear. Falling long yields cushion equity multiples, but today's bid is flight, not growth optimism.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news this morning. Carried: Q3 cash distribution of $0.525 per common unit ($2.10 annualized) is set for payment Nov 6 to unitholders of record Oct 26; Q3 results release before market open on Nov 3 with an 11:00 AM ET call. October 1: 8-K disclosed 34.5M new Class A units (9.25% fixed distribution rate) issued to J-W Energy in a private reorganization.",
+    "sentiment": "neutral",
+    "source": "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-15-usa-compression-partners-announces-third-quarter-2026-distribution-third-quarter-2026-earnings-release-and-conference-call-scheduled-for-november-3"
+  },
+  "watch_next": [
+    "After the close: Western Digital (and Bloom Energy) earnings - the next AI memory/supply-chain checkpoint; consensus ~$4.11 EPS on ~$4.16B revenue.",
+    "Friday: Anthropic S-1 filing watch (still single-source, unconfirmed); S&P Global flash October PMIs.",
+    "Rest of the session: whether dip-buyers show into the close or semis drag lower - QQQ 707 and SPX 7650/7642 are the levels, with 200-day supports well below.",
+    "Crude tape: WTI ~$98, Brent ~$111-112; U.S.-Israel Iran strike-plans reporting unconfirmed - treat as fragile.",
+    "Fed blackout into the Oct 28 decision; December hike the unanimous economist expectation (Reuters poll, carried). GOOGL earnings Oct 28 after the close."
+  ],
+  "analysis": "What changed since the 8:00 AM PT post-open brief: the selloff stopped deepening but refused to reverse. META climbed off its $648 low to trade ~-6% ($656-660), TSLA fought back from -4% to -0.85%, and the Nasdaq held -2.3% while the Dow stayed down just -0.4% to -0.5%. Two intraday 'fake V' rebounds were sold within minutes - the tape's dominant pattern is distribution into strength. The day's real story is the split underneath: equal-weight RSP +0.18% green while the cap-weighted AI complex bleeds (SOXX -5.9%, SOXL -17.7%, DRAM -5.5%, MAGS -2.5%), with P&G's clean beat (+5.5-6%) anchoring a genuine defensive rotation (LLY, SPOT, CRM, NOW, AAPL all green). New since 8 AM: GOOGL slid below its 200-day (-2.4%) ahead of Oct 28 earnings, SpaceX fully round-tripped its earnings pop, Micron's Taoyuan strike added a supply wildcard to memory, and the Anthropic S-1 report got syndicated (still single-source). Signal vs noise: META's dilution-driven repricing and the hardware-chain liquidation (LRCX in-line read as a cap, WDC -7% pre-print) are signal - the market has moved from 'who grows in AI' to 'who pays for AI'. The Iran-strike oil bid and the NBIS/SpaceX-unlock rumors are noise until confirmed. The TSLA intraday recovery is ambiguous - merger-arb rotation, not fundamentals. The 10Y at 5.01% is the day's real offset, but it's a fear bid, not a growth bid.",
+  "community_signals": [
+    {
+      "platform": "other",
+      "title": "WSB Sentiment Today (2026-10-22): SPY, QQQ, SOXL, MU, NBIS - r/wallstreetbets Daily Discussion Analysis (10:49-11:34 ET, 1500 comments)",
+      "url": "https://sellthenews.org/wsb/daily",
+      "takeaway": "Near-capitulation on the AI trade but not the broad index: consensus is that Wall Street now cares only about capex and free cash flow, not revenue/EPS; META's +7%-after-hours-to-6% reversal is the emblem of 'good earnings, falling stock'; $650 is the community's 'line in the sand'. Fear/greed ~25/100 with VIX still under 20 - bears note SPY is only 3% off its ATH and call it 'an ant-sized pullback', framing it as crowded-AI deleveraging rather than a crash. TSLA's rally from 374 to 388 read as merger-arb rotation from SPCX; tonight's WDC/BE prints are the hoped-for 'rescue'."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
