@@ -1,0 +1,123 @@
+{
+  "brief_id": "2026-10-22T08-00-pt-post-open",
+  "generated_at_pt": "2026-10-22T08:00:00-07:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "vix": null,
+    "vix_change": null,
+    "treasury_10y_pct": 5.01,
+    "treasury_10y_change_bps": -12.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "90 min into the regular session, Thu Oct 22 (~8:00 AM PT): Dow -0.2% to -0.3%, S&P 500 -0.9% (first-hour low 7,678), Nasdaq -1.7% (IBD live, updated <1h ago); SPY -0.7%, QQQ -1.5%. Mag 7 ETF (MAGS) ~-2%; SOXX -4.5%; Roundhill memory ETF (DRAM) -4%; semis and equipment names -5 to -9%. VIX was 18.1 at 7 AM PT vs 16.68 at Wednesday's close; fresh live VIX reading unavailable.",
+    "wti_usd": 100.0,
+    "wti_day_pct": 3.0,
+    "gold_usd": 4075.0,
+    "gold_day_pct": -2.0,
+    "btc_usd": 81600.0,
+    "btc_day_pct": -3.4,
+    "notes": "Thursday Oct 22, 8:00am PT - 90 minutes into the regular session. The fade deepened into mid-morning: Dow -0.2% to -0.3%, S&P 500 -0.9% (first-hour low 7,678), Nasdaq -1.7% (IBD live). META nearly doubled its decline to -6.8% ($650.36, intraday low 648.26) on the Class C non-voting share plan and FY26 capex guide up to $145B; TSLA seesawed between flat and -3% after its Q3 beat/capex cut; LRCX -8 to -9% led the semi selloff. WTI ~$100 (+3%) on the unconfirmed NYT report of planned U.S.-Israel strikes on Iran after the midterms; 10Y plunged 12 bps to 5.01% in a flight to safety. Anthropic S-1 could land Friday (single-source). Offsets: Lockheed record $292B backlog, Spotify +6M premium subs."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Indexes faded deeper into mid-morning: Dow -0.2% to -0.3%, S&P 500 -0.9% (first-hour low 7,678), Nasdaq -1.7%; SPY -0.7%, QQQ -1.5% (IBD live coverage, updated <1h ago). Mag 7 ETF (MAGS) ~-2%.",
+      "why_it_matters": "Breadth is concentrated weakness - AI/capex names and semis absorbing the sell pressure while energy holds; the 10Y plunge to 5.01% is the cushion if risk stabilizes into the close.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings/"
+    },
+    {
+      "ticker": "META",
+      "headline": "FRESH: META extended losses to -6.8% ($650.36, intraday low 648.26), testing the 50-day moving average (~662.88). Q3 revenue $64.6B beat (~$63.4B est), Q4 guide $73-76B, but Q3 capex $34.91B, FY26 capex guide up to $145B, free cash flow negative for the first time since 2012, and the new non-voting Class C share (2-for-1 split vehicle) spooked holders. Pivotal raised its target to $960; Muse passed 10M US/Canada users since Sept 8.",
+      "why_it_matters": "The beat is priced; the market is repricing the cost of staying in the AI race - capex funded through a new non-voting share class reads as future dilution risk. A close below the 50-day line would be a profit-taking signal.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.morningstar.com/news/marketwatch/20261022113/metas-stock-falls-in-early-trading-amid-broader-sector-selloff-despite-well-received-results"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "FRESH: TSLA seesawed in early trade - opening lower, briefly turning +0.2%, then settling around -3% - as analysts digested the Q3 beat (adj. EPS $0.48 vs ~$0.43-0.45, revenue $28.05B) against the 2026 capex cut to ~$20B from $25B+ and a 5M-vehicles-by-2030 target, well below Musk's earlier 20M projection. Wall Street split: HSBC $157, Goldman $360, Piper/others raised to as high as $475. NHTSA Cybercab-probe response due Oct 30.",
+      "why_it_matters": "Guidance and timelines are the whole trade now - the numbers beat but the AI/robotics roadmap got pushed out a year, so longs and skeptics are repricing duration.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://teslanewswire.com/articles/tesla-stock-falls-premarket-oct-22-2026-q3-analyst-price-targets-goldman-360-hsbc-157-piper-475"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Semis sold off across the board: SOXX -4.5%, Roundhill memory ETF (DRAM) -4%; Lam Research -8 to -9% was the worst S&P name on an in-line outlook, with Teradyne, Astera Labs, Applied Materials, Intel -5 to -8.5% and AMD, Micron, Broadcom, Qualcomm, Marvell down 2.9-5.3%. Western Digital reports after the close today.",
+      "why_it_matters": "AI-capex repricing moved down the supply chain - an in-line equipment outlook now reads as demand-cap evidence, and WDC's print tonight is the next checkpoint.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Anthropic could publicly file its S-1 as soon as Friday, per three people cited by Yahoo Finance, clearing the 15-day runway for a November listing that would top SpaceX's June debut as the largest ever (~$2T valuation, up to $100B raise). Anthropic declined to comment.",
+      "why_it_matters": "A $2T AI listing is a sentiment event for the whole complex - a confirmed filing refocuses the tape on AI unit economics; single-source, unconfirmed - treat as fragile.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://dev.to/976905690/anthropic-to-publicly-file-s-1-as-soon-as-friday-1fg3"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "WTI climbed nearly 3% to $100 a barrel, Brent over 3% to ~$112 near a five-month high, on reports of planned U.S.-Israel strikes on Iran after the Nov 3 midterms; the strike-plans reporting remains unconfirmed.",
+      "why_it_matters": "Energy is the one bid - if the Iran tape proves real, crude becomes the macro risk factor; if not, today's oil bid fades fast. Single-source on the cause - treat as fragile.",
+      "sentiment": "positive",
+      "confirmation": "single-source",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "The 10-year Treasury yield plunged 12 basis points to as low as 5.01% as investors fled to safety.",
+      "why_it_matters": "Lower long yields cushion equity multiples - the only real offset to the oil/capex tape, with bond and equity desks disagreeing on growth vs risk.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "FRESH: Lockheed Martin posted a Q3 beat - sales $20.7B (vs $18.6B a year ago), net earnings $1.8B ($7.97/share), and a record $292B backlog, up 27% since Q2.",
+      "why_it_matters": "Defense demand is the non-AI earnings engine - a record backlog anchors the industrials bid while tech reprices.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.sharecast.com/news/market-report-us-pre-open/wall-street-nyse-usa-dow-jones-nasdaq-tesla-meta-spotify-lockheed-martin--23905777.html"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "FRESH: Spotify added 6M premium subscribers to reach 306M, grew ad-supported MAUs by 11M to 788M, and reported Q3 revenue of 4.97B euros (+16%), saying it met all key targets.",
+      "why_it_matters": "Subscriber-led growth with ad recovery - a clean non-AI consumer beat on a day the AI complex is bleeding.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.sharecast.com/news/market-report-us-pre-open/wall-street-nyse-usa-dow-jones-nasdaq-tesla-meta-spotify-lockheed-martin--23905777.html"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news this morning. Carried: Q3 cash distribution of $0.525 per common unit ($2.10 annualized) is set for payment Nov 6 to unitholders of record Oct 26; Q3 results release before market open on Nov 3 with an 11:00 AM ET call.",
+    "sentiment": "neutral",
+    "source": "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-15-usa-compression-partners-announces-third-quarter-2026-distribution-third-quarter-2026-earnings-release-and-conference-call-scheduled-for-november-3"
+  },
+  "watch_next": [
+    "After the close: Western Digital earnings - the next AI memory/supply-chain checkpoint after Lam's in-line outlook.",
+    "Friday: Anthropic S-1 filing watch (single-source, unconfirmed); S&P Global flash October PMIs at 9:45 AM ET.",
+    "Rest of the session: whether dip-buyers show in the AI complex or semis lead lower; breadth and VIX into the close.",
+    "Crude tape: WTI ~$100; U.S.-Israel Iran strike-plans reporting unconfirmed - treat as fragile.",
+    "Fed blackout into the Oct 28 decision; December hike the unanimous economist expectation (Reuters poll, carried)."
+  ],
+  "analysis": "What changed since the 7:00 AM PT post-open brief: the fade deepened into mid-morning - Nasdaq from -1.5% to -1.7% (first-hour low 7,678), S&P holding -0.9%, and META nearly doubled its decline to -6.8% as the Class C dilution narrative and the $135-145B FY26 capex guide overrode the revenue beat. TSLA steadied into a seesaw (flat to -3%) rather than the straight premarket drop, while semis stayed the weak link (SOXX -4.5%, LRCX -8 to -9%). Offsets emerged: the 10Y plunged 12 bps to 5.01%, and non-AI beats (Lockheed's record $292B backlog, Spotify's +6M premium subs) gave the tape some ballast. The Anthropic S-1-for-Friday report stayed single-source. Signal vs noise: META's move is signal - a deliberate dilution-vehicle financing for AI capex, confirmed by multiple outlets; the Iran-strike oil bid is noise until confirmed; the TSLA intraday wobble is noise. The thread connecting everything is the market repricing who pays for the AI buildout - Lam's equipment guidance, Meta's new share class, and Tesla's capex cut are the same question from three angles.",
+  "community_signals": [
+    {
+      "platform": "other",
+      "title": "WSB Sentiment Today (2026-10-22): MU, TSLA, NBIS, QQQ, SPY - r/wallstreetbets Daily Discussion Analysis",
+      "url": "https://sellthenews.org/wsb/daily",
+      "takeaway": "r/wallstreetbets' daily discussion treats META's after-hours +7%-to-negative reversal as CFO-comment-driven, reading the Class C shares as dilution that protects Zuckerberg while retail holders absorb it; the dominant TSLA narrative is that Musk is suppressing the stock ahead of a SpaceX merger; LRCX is framed as the technical trigger for the selloff, with a supply-bottleneck vs. overvaluation debate in semis. Sentiment is drifting toward 'AI investment funded through shareholder dilution.'"
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice - for informational purposes only."
+}
