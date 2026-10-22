@@ -1,0 +1,139 @@
+{
+  "brief_id": "2026-10-22T04-00-pt-premarket",
+  "generated_at_pt": "2026-10-22T04:00:00-07:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": -0.69,
+    "sp500_futures_pct": -1.1,
+    "nasdaq100_futures_pct": -1.93,
+    "sp500_vs_record_pct": -0.8,
+    "vix": 16.68,
+    "vix_change": -0.63,
+    "treasury_10y_pct": 5.085,
+    "treasury_10y_change_bps": -4.5,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Prior session (Wed Oct 21): S&P 500 +0.58% to 7,757.17 (0.8% below its Oct 6 high), Nasdaq +1.05% to 26,702.86, Dow +0.69% to 52,856.09, Russell 2000 +0.27%; 7 of 11 sectors green, tech +1.67% led, comm services -1.11% lagged; VIX closed -3.64% at 16.68. Advance/decline and volume-vs-20d not shown on sourced pages.",
+    "wti_usd": 98.9,
+    "wti_day_pct": 1.8,
+    "gold_usd": 4159.5,
+    "gold_day_pct": 0.41,
+    "btc_usd": null,
+    "btc_day_pct": -3.4,
+    "notes": "Premarket Thu Oct 22, ~4 AM PT (2.5h before the 6:30 AM PT open). Futures as of ~1:56 AM PT (Reuters). 10Y ~5.085% in premarket flight-to-safety (-4.5bp vs the Oct 21 4 AM PT brief's 5.13%). Brent ~$112 (+3%, near five-month high); WTI ~$98.90 (+1.8%). Fresher premarket quotes at ~3:58 AM PT (Finnhub): NVDA -1.98%, AMZN -1.44%, META -1.16%, MSFT -0.90%, AAPL -0.21% vs Wednesday's close."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Futures slide into Thursday: Nasdaq 100 e-minis -1.93%, S&P 500 e-minis -1.1%, Dow e-minis -0.69% as of ~1:56 AM PT, as investors re-price AI spending after Tesla and Meta earnings and a rebound in oil sours sentiment.",
+      "why_it_matters": "Tech-led futures selloff sets a weak cash-open tone; the AI-capex debate is now the tape's main driver.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+    },
+    {
+      "ticker": "META",
+      "headline": "Q3: revenue $64.6B (+26% YoY) beat ~$63.3B est; EPS $3.83 beat ~$3.57 but carried a $9.89B one-time legal charge (Aug 2026 settlement with 52 state AGs over teen mental health; ex-charge EPS $7.40). Q4 revenue guided $73-76B vs ~$73.6B consensus; 2026 capex narrowed up to $135-145B. Board approved a new non-voting Class C share structure via conditional one-for-one stock dividend. Q3 capex was $34.9B and free cash flow turned negative at -$2.12B. Shares jumped 2-6% after hours, then slipped ~1.9% premarket on the share issuance and AI-cost scrutiny.",
+      "why_it_matters": "Revenue beat plus solid guide is a sentiment tailwind, but funding the AI build with new equity while FCF goes negative shifts the debate from growth to financing, capping the pop.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://investinglive.com/stocks/meta-q3-beats-on-revenue-and-eps-as-9-9b-legal-charge-lifts-full-year-expense-outlook/"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Q3: revenue $28.05B flat YoY, adjusted EPS $0.48 beat ~$0.44; operating income fell 56% to $718M as opex rose 39% on AI/robotics; auto revenue fell 3% to $20.56B; free cash flow swung to +$1.53B vs an expected ~$4.5B burn. Management cut 2026 capex guidance to ~$20B (from $25B+) and gave a slower Optimus timeline (external deliveries around end-2027). Shares down ~5.3% premarket.",
+      "why_it_matters": "The headline beat came from spending less, not selling more; the capex cut reads as the Optimus/AI ramp slipping, which is the bearish signal the stock is pricing.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.techi.com/tesla-q3-2026-earnings-free-cash-flow-reversal/"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Down ~2.4% premarket (~-1.98% at 3:58 AM PT) with no company-specific news, caught in the broad AI-spend de-risking.",
+      "why_it_matters": "No news-driven drop means it is positioning, not a thesis break; watch whether it stabilizes into the open.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Down ~1.6% premarket (~-1.44% at 3:58 AM PT) on sector sympathy; Alphabet, Microsoft and Amazon report next week and will be read through the same AI-capex lens.",
+      "why_it_matters": "Sector sympathy drag ahead of its own print next week; today's tape sets the bar it will be judged against.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Semis broadly sold: Intel -5.1%; AMD, Qualcomm, Marvell, Broadcom and Micron -2.9% to -5.3% premarket. Lam Research posted record quarterly revenue/EPS but fell ~7.4% in extended trading on soft guidance (single-source, aephel morning brief).",
+      "why_it_matters": "Record results being sold on guidance confirms the regime: the market is grading the AI cycle on future spend, not past beats.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+    },
+    {
+      "ticker": "SPCX",
+      "headline": "SpaceX -2.3% premarket, giving back part of Wednesday's +7.79% first-profit-as-a-public-company pop (closed $159.31); WSB chatter notes large lockup expirations today and tomorrow.",
+      "why_it_matters": "Profit-taking plus lockup supply overhang keeps a lid on the follow-through after the landmark quarter.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+    },
+    {
+      "ticker": "SMCI",
+      "headline": "Super Micro -4.7% premarket after surging 9.55% Wednesday on its raised preliminary fiscal Q1 revenue guidance.",
+      "why_it_matters": "Classic give-back after a guide-driven spike; the AI-server trade is consolidating with the rest of the complex.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Oil bid again: Brent +3%+ to ~$112/bbl (near five-month high), WTI ~$98.90 (+1.8%) after more Houthi attacks in Saudi Arabia. TipRanks cites NYT reporting that the US and Israeli militaries have drawn up plans for renewed strikes on Iran after the November midterms (unconfirmed by official sources, treat as fragile).",
+      "why_it_matters": "Rising crude is a dual headwind: inflation risk that complicates the Fed picture, and a bid for energy at the expense of rate-sensitive growth.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "AT&T down 5%+ premarket on third-quarter wireless postpaid net additions below estimates, dragging Verizon and T-Mobile down 2%+ each and making communication services the weakest premarket sector (single-source, aephel morning brief).",
+      "why_it_matters": "A non-AI earnings miss dragging telecoms shows the tape is punishing weak guidance beyond just the AI complex.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.aephel.com/research/daily-brief/2026-10-22-morning-brief-thursday-october-22-2026-2"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Anthropic could file its S-1 as soon as Friday, potentially the largest IPO in history, according to people familiar with the AI developer's plans (single-source, unconfirmed).",
+      "why_it_matters": "If it lands, a mega AI IPO would compete for the same capital currently funding the hyperscaler buildout narrative; single-source, unconfirmed, treat as fragile.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://summamoney.com/investing/the-daily/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-traders-assess-tesla-meta-earnings/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh company news. Carried context: Q3 cash distribution of $0.525/unit ($2.10 annualized) payable Nov 6 to holders of record Oct 26; Q3 earnings release Nov 3 before the open with an 11 AM ET call (announced Oct 15). Crude spiking near five-month highs keeps the energy complex bid, which is the relevant tape backdrop.",
+    "sentiment": "neutral",
+    "source": "https://www.businesswire.com/news/home/20261015246449/en/USA-Compression-Partners-Announces-Third-Quarter-2026-Distribution-Third-Quarter-2026-Earnings-Release-and-Conference-Call-Scheduled-for-November-3"
+  },
+  "watch_next": [
+    "8:30 AM ET: initial jobless claims (~200K forecast vs 199K prior) plus continuing claims, during the Fed blackout ahead of the Oct 28-29 decision",
+    "10:00 AM ET US leading index; 11:00 AM ET Kansas City Fed manufacturing survey",
+    "Pre-open earnings: Procter & Gamble, Union Pacific, Blackstone, Lockheed Martin, Valero, Comcast, Honeywell, Norfolk Southern; plus Spotify and American Airlines later",
+    "Crude/Middle East tape: Brent at near five-month highs on Houthi attacks and Iran-strike-plan headlines",
+    "Whether the META/TSLA weakness spreads to the broader cash open, and any Friday Anthropic S-1 filing (unconfirmed)"
+  ],
+  "analysis": "The theme of this tape is the AI capex bill coming due. Meta and Tesla both beat revenue and EPS, and the market punished the spending story in both, just in opposite directions: Meta is funding the build with new non-voting equity while its quarterly capex exceeded operating cash flow for the first time and FCF went negative, so the after-hours pop faded into a premarket decline; Tesla spent $3.2B less than expected and cut the 2026 guide by ~$5B, which reads as the Optimus/AI ramp slipping rather than discipline, and the stock fell 5%+. Lam Research getting sold on record results for soft guidance is the third data point: this market is grading guidance, not results. That is a sharp turn from yesterday's 4 AM brief, which carried META/TSLA estimates and had futures green (ES +0.22%); both prints are now known and futures are red across the board (ES -1.1%, NQ -1.93%). Oil near five-month highs adds a macro headwind and pulled the 10Y down to ~5.085% on safety flows. The noise to discount: the NYT Iran-strike-plans item (secondhand, unconfirmed) and the Anthropic S-1 timing (single unnamed-source report); the WSB bearishness on both names is color, not new information.",
+  "community_signals": [
+    {
+      "platform": "other",
+      "title": "WSB sentiment today (2026-10-22): META, TSLA, NBIS, SOXL, SPCX",
+      "url": "https://sellthenews.org/wsb/daily",
+      "takeaway": "r/wallstreetbets daily discussion summarized as bearish on META (45 mentions): the +7% AH gain erased, Class C shares read as diluting retail while protecting Zuckerberg's control, negative FCF and record Q4 capex flagged; bearish on TSLA (15): capex cut plus downbeat call tone, with a 'depress the price to facilitate a SpaceX takeover' narrative. LRCX (7) bearish: modest beat insufficient for valuation. Agrees with the futures tape, adds no new facts."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
