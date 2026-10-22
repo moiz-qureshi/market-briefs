@@ -1,0 +1,131 @@
+{
+ "analysis": "What changed since the 4 AM brief: three pre-open prints landed. P&G beat revenue ($23.28B vs $22.80B) and maintained full-year guidance while flagging a bigger $1.4B commodity-cost headwind, and the stock is +2% premarket — a genuine non-AI positive. Blackstone is the opposite side of the risk-off tape: exits dried up (net realizations -34%, M&A down 41% sequentially) but $63B+ inflows took AUM to $1.37T. Honeywell raised its full-year outlook on 7% organic growth — an industrial beat being judged on results, in contrast to the AI complex being judged on spend. That contrast is the signal in this brief: P&G and Honeywell show the market still rewards beats with guidance outside the capex debate, while META's decline deepened (-2.44% per Finnhub as of 07:53 ET) and TSLA/NVDA/semis stayed weak. Futures, the 10Y (~5.085%), and oil are roughly unchanged from the 4 AM read, so the premarket narrative is intact, not worsening. Noise to discount: the NYT Iran-strike-plans item (secondhand, unconfirmed) and the Honeywell read itself is single-sourced to an earnings aggregator — the company release or call confirmation is the real confirmation. USAC remains quiet with the Nov 3 earnings and Nov 6 payout on deck.",
+ "brief_id": "2026-10-22T05-00-pt-premarket",
+ "community_signals": [
+  {
+   "platform": "other",
+   "takeaway": "r/wallstreetbets daily discussion summarized as bearish on META (45 mentions): the +7% AH gain erased, Class C shares read as diluting retail while protecting Zuckerberg's control, negative FCF and record Q4 capex flagged; bearish on TSLA (15): capex cut plus downbeat call tone, with a 'depress the price to facilitate a SpaceX takeover' narrative. LRCX (7) bearish: modest beat insufficient for valuation. Agrees with the futures tape, adds no new facts. HN search returned no fresh threads on these names.",
+   "title": "WSB sentiment today (2026-10-22): META, TSLA, NBIS, SOXL, SPCX",
+   "url": "https://sellthenews.org/wsb/daily"
+  }
+ ],
+ "disclaimer": "Not financial advice — for informational purposes only.",
+ "generated_at_pt": "2026-10-22T05:00:00-07:00",
+ "headlines": [
+  {
+   "confirmation": "confirmed",
+   "headline": "Futures stay weak into 5 AM PT: Dow e-minis -367 pts (-0.69%), S&P 500 e-minis -85.5 pts (-1.1%), Nasdaq 100 e-minis -578.5 pts (-1.93%) as of 04:56 AM ET, as the AI-capex repricing after Tesla and Meta earnings holds and Brent crude near five-month highs sours sentiment.",
+   "sentiment": "negative",
+   "source": "https://www.devdiscourse.com/article/international/3996336-us-stocks-nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs?amp",
+   "ticker": "SPY",
+   "why_it_matters": "Unchanged weak tone from the 4 AM brief — no relief rally before the cash open; the tape is waiting on the jobless claims print at 8:30 AM ET."
+  },
+  {
+   "confirmation": "confirmed",
+   "headline": "Q3: revenue $28.05B flat YoY, adjusted EPS $0.48 beat ~$0.44; operating income -56% to $718M as opex rose 39% on AI/robotics; auto revenue -3% to $20.56B; free cash flow swung to +$1.53B vs an expected ~$4.5B burn. Management cut 2026 capex to ~$20B (from $25B+) and pushed external Optimus deliveries to around end-2027. Shares down ~5.3% premarket.",
+   "sentiment": "negative",
+   "source": "https://www.devdiscourse.com/article/international/3996336-us-stocks-nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs?amp",
+   "ticker": "TSLA",
+   "why_it_matters": "The beat came from spending less, not selling more; the capex cut reads as the AI/robotics ramp slipping, which is the bearish signal the stock is pricing."
+  },
+  {
+   "confirmation": "confirmed",
+   "headline": "Q3: revenue $64.6B (+26% YoY) beat ~$63.3B est; EPS $3.83 beat ~$3.57 but carried a $9.89B one-time legal charge (Aug 2026 settlement with 52 state AGs over teen mental health; ex-charge EPS $7.40). Q4 revenue guided $73-76B vs ~$73.6B consensus; 2026 capex narrowed to $135-145B; board approved a non-voting Class C share structure via conditional one-for-one stock dividend. Q3 capex was $34.9B and free cash flow turned negative at -$2.12B. Premarket decline deepened to -2.44% ($680.48 as of 07:53 ET per Finnhub).",
+   "sentiment": "negative",
+   "source": "https://finnhub.io/?q=%22META%22",
+   "ticker": "META",
+   "why_it_matters": "Revenue beat plus solid guide is a tailwind, but funding the AI build with new equity while FCF goes negative keeps the debate on financing, not growth — the after-hours pop is fully faded."
+  },
+  {
+   "confirmation": "confirmed",
+   "headline": "Down ~2.4% premarket with no company-specific news, caught in the broad AI-spend de-risking.",
+   "sentiment": "negative",
+   "source": "https://www.devdiscourse.com/article/international/3996336-us-stocks-nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs?amp",
+   "ticker": "NVDA",
+   "why_it_matters": "No news-driven drop means it is positioning, not a thesis break; watch whether it stabilizes into the open."
+  },
+  {
+   "confirmation": "confirmed",
+   "headline": "Down ~1.6% premarket on sector sympathy; Alphabet, Microsoft and Amazon report next week and will be read through the same AI-capex lens.",
+   "sentiment": "negative",
+   "source": "https://www.devdiscourse.com/article/international/3996336-us-stocks-nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs?amp",
+   "ticker": "AMZN",
+   "why_it_matters": "Sector sympathy drag ahead of its own print next week; today's tape sets the bar it will be judged against."
+  },
+  {
+   "confirmation": "confirmed",
+   "headline": "Semis broadly sold: Intel -5.1%; AMD, Qualcomm, Marvell, Broadcom and Micron -2.9% to -5.3% premarket. Lam Research fell ~7.4% in extended trading on soft guidance despite record quarterly revenue/EPS (single-source, aephel morning brief).",
+   "sentiment": "negative",
+   "source": "https://www.devdiscourse.com/article/international/3996336-us-stocks-nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs?amp",
+   "ticker": "NONE",
+   "why_it_matters": "Record results being sold on guidance confirms the regime: the market is grading the AI cycle on future spend, not past beats."
+  },
+  {
+   "confirmation": "confirmed",
+   "headline": "FRESH since 4 AM brief — fiscal Q1 (Sep quarter): net sales $23.28B (+4% YoY, beat ~$22.80B est), organic sales +4%, core EPS $2.00 (+1%); volumes +2.4% on beauty/self-care demand. Raised the fiscal-year commodity-cost headwind to ~$1.4B (from $1B) — higher fuel, raw material and transport costs, with US retail diesel at a record $6/gal in September — but maintained FY organic sales, EPS growth and cash-return guidance; updated net sales guidance for the Thorne acquisition. Shares +2% premarket.",
+   "sentiment": "positive",
+   "source": "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+   "ticker": "PG",
+   "why_it_matters": "Revenue beat plus maintained guidance outweighs the bigger cost guide for staples; the $1.4B cost raise is a clean read on tariff/fuel inflation pressure into Q4."
+  },
+  {
+   "confirmation": "confirmed",
+   "headline": "FRESH since 4 AM brief — Q3: distributable earnings $1.32/share (-13%); net realizations -34% to ~$332M as choppy markets and a 41% sequential drop in global M&A activity slowed exits; cushioned by $63B+ of net inflows pushing AUM to $1.37T and fee-related earnings +6%. Private-credit BCRED redemption requests remained elevated but management says fundamentals are healthy.",
+   "sentiment": "negative",
+   "source": "https://www.reuters.com/legal/transactional/blackstones-profit-falls-choppy-market-tempers-investment-exits-2026-10-22/",
+   "ticker": "BX",
+   "why_it_matters": "Exits are the weak link in a risk-off tape, but record inflows shift the focus to fee durability — the alt-manager story is now about fundraising, not harvesting."
+  },
+  {
+   "confirmation": "single-source",
+   "headline": "FRESH since 4 AM brief — Q3: sales $5.0B (+1% reported, +7% organic); adjusted EPS $2.27 (+34% YoY) on margin expansion (segment margin 21.3%, +3.7 pts); adjusted free cash flow $688M. Raised full-year 2026 outlook: revenue $20.0-20.1B, adjusted EPS $8.40-8.45, free cash flow ~$2.1B (single-source, earnings-release.com aggregator).",
+   "sentiment": "positive",
+   "source": "https://earnings-release.com/articles/honeywell-reports-q3-2026-earnings-adjusted-eps-up-34-sales-rise-1-raises-full-year-outlook/",
+   "ticker": "HON",
+   "why_it_matters": "Raised guide plus margin expansion is the counterweight to the AI-capex tape — an industrial beat the market is grading on results, not spend."
+  },
+  {
+   "confirmation": "single-source",
+   "headline": "Oil bid again: Brent +3%+ to ~$112/bbl (near five-month high), WTI ~$98.90 (+1.8%) after more Houthi attacks in Saudi Arabia. TipRanks cites NYT reporting that the US and Israeli militaries have drawn up plans for renewed strikes on Iran after the November midterms (unconfirmed by official sources, treat as fragile).",
+   "sentiment": "negative",
+   "source": "https://www.devdiscourse.com/article/international/3996336-us-stocks-nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs?amp",
+   "ticker": "NONE",
+   "why_it_matters": "Rising crude is a dual headwind: inflation risk that complicates the Fed picture during the blackout, and a bid for energy at the expense of rate-sensitive growth."
+  }
+ ],
+ "market_snapshot": {
+  "breadth_notes": "Prior session (Wed Oct 21): S&P 500 +0.58% to 7,757.17 (0.8% below its Oct 6 high), Nasdaq +1.05% to 26,702.86, Dow +0.69% to 52,856.09, Russell 2000 +0.27%; 7 of 11 sectors green, tech +1.67% led, comm services -1.11% lagged; VIX closed -3.64% at 16.68. Premarket Thu: futures red (ES -1.1%, NQ -1.93%, Dow -0.69% as of 04:56 AM ET), 10Y ~5.085% (unchanged vs 4 AM brief) on safety flows, Brent ~$112 near five-month high. Advance/decline and volume-vs-20d not shown on sourced pages.",
+  "btc_day_pct": -3.4,
+  "btc_usd": null,
+  "dow_futures_pct": -0.69,
+  "gold_day_pct": 0.41,
+  "gold_usd": 4159.5,
+  "nasdaq100_futures_pct": -1.93,
+  "notes": "Premarket Thu Oct 22, ~5 AM PT (90 min before the 6:30 AM PT open). Futures as of 04:56 AM ET (Reuters). Three pre-open earnings prints landed since the 4 AM brief: P&G, Blackstone, Honeywell.",
+  "sp500_advance_decline": null,
+  "sp500_futures_pct": -1.1,
+  "sp500_vs_record_pct": -0.8,
+  "treasury_10y_change_bps": 0.0,
+  "treasury_10y_pct": 5.085,
+  "vix": 16.68,
+  "vix_change": -0.63,
+  "volume_vs_20d_avg_pct": null,
+  "wti_day_pct": 1.8,
+  "wti_usd": 98.9
+ },
+ "opinion": null,
+ "type": "premarket",
+ "usac": {
+  "headline": null,
+  "sentiment": "neutral",
+  "source": "https://www.businesswire.com/news/home/20261015246449/en/USA-Compression-Partners-Announces-Third-Quarter-2026-Distribution-Third-Quarter-2026-Earnings-Release-and-Conference-Call-Scheduled-for-November-3",
+  "why_it_matters": "No fresh company news. Carried context: Q3 cash distribution of $0.525/unit ($2.10 annualized) payable Nov 6 to holders of record Oct 26; Q3 earnings release Nov 3 before the open with an 11 AM ET call (announced Oct 15). Crude spiking near five-month highs keeps the energy complex bid, which is the relevant tape backdrop."
+ },
+ "watch_next": [
+  "8:30 AM ET: initial jobless claims (~200K forecast vs 199K prior) plus continuing claims, during the Fed blackout ahead of the Oct 28-29 decision",
+  "10:00 AM ET US leading index; 11:00 AM ET Kansas City Fed manufacturing survey",
+  "Results later today: Spotify, American Airlines (after pre-open slate of P&G, Blackstone, Honeywell, Comcast, Lockheed Martin, Union Pacific, Valero, Norfolk Southern)",
+  "Cash-open reaction: does the META/TSLA/AI-complex weakness spread, or does the P&G/Honeywell beat steady the tone",
+  "Crude/Middle East tape: Brent at near five-month highs on Houthi attacks and unconfirmed Iran-strike-plans headlines"
+ ]
+}
