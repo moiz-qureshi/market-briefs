@@ -1,0 +1,131 @@
+{
+  "brief_id": "2026-10-22T07-00-pt-post-open",
+  "generated_at_pt": "2026-10-22T07:05:00-07:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": -1.9,
+    "vix": 18.1,
+    "vix_change": null,
+    "treasury_10y_pct": 5.03,
+    "treasury_10y_change_bps": -1.8,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "First ~30 min of the regular session, Thu Oct 22 (~7:05 AM PT): Dow -0.5%, S&P 500 -0.9%, Nasdaq -1.5% soon after the open (MarketWatch/FactSet); IBD live: Dow -0.4%, S&P -0.8%, Nasdaq -1.4% just after the open; QQQ -1.6%, SPY -1%. Nasdaq-100 early leaders: Palo Alto +4.8%, Netflix +3%; laggards: Teradyne -8.5%, Astera Labs -6%, Applied Materials -6% (IBD live 9:11 AM ET). Dow movers: Chevron +1%, Merck +1%; Alphabet, Amazon and Nvidia down ~2% (IBD 8:41 AM ET). Finnhub live (~7:00 AM PT): SPX500 7703.8 (-0.80%), NAS100 29405.4 (-1.53%), NVDA $216.79 (-2.33%), AAPL $345.48 (+0.43%). Intraday A/D and total-volume-vs-20d figures not shown on sourced pages; VIX 18.10 (+8.51%, +1.42 pts vs Wed 16.68 close) was the pre-open read.",
+    "wti_usd": 100.0,
+    "wti_day_pct": 3.0,
+    "gold_usd": 4075.0,
+    "gold_day_pct": -2.0,
+    "btc_usd": 81600.0,
+    "btc_day_pct": -2.1,
+    "notes": "Post-open Thu Oct 22, ~7:05 AM PT (first 30 min of the session). 10Y 5.03% (IBD live says -10 bps vs Wed 5.13% close; ~-2 bps vs the 6 AM brief's 5.048%). WTI jumped ~3% to $100 (IBD live). Jobless claims 194K vs 200K est (5:30 AM PT, carried). Next: Conf Board leading index 7:00 AM PT; KC Fed manufacturing 8:00 AM PT; $26B 5Y TIPS auction; WDC after the close."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Indexes opened lower and stayed there: Dow -0.5%, S&P 500 -0.9%, Nasdaq -1.5% soon after the opening bell (MarketWatch/FactSet); SPY fell nearly 1%, QQQ -1.6% (IBD live). VIX sat at 18.10 (+8.5%) and the 10Y at 5.03% (-10 bps) as WTI hit $100.",
+      "why_it_matters": "The premarket fade held into the open \u2014 the claims beat did nothing to lift the tape; the cash open is pricing the AI-capex bill, not Wednesday's SpaceX/SMCI bid.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-weigh-meta-tesla-financial-earnings/card/dow-s-p-500-nasdaq-open-lower-as-tech-stocks-come-under-pressure-Aj8O1UVOa5yG9Fav2qme"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "TSLA down ~4-5% in early trade on Q3: revenue $28.05B beat ~$27.88B est, adjusted EPS $0.48 beat ~$0.43, but GAAP net income fell 43% to $787M and 2026 capex guidance was cut to ~$20B (from $25B+) while 2027-28 spend rises on Optimus, Cybercab and Terafab.",
+      "why_it_matters": "The beat came from spending less, not selling more; the cut reads as the AI/robotics ramp slipping \u2014 the bearish signal the stock is pricing.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.devdiscourse.com/article/international/3996510-us-stocks-wall-st-set-for-lower-open-as-ai-jitters-rekindle-oil-gains"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "FRESH (morning): Reuters exclusively reported some Tesla insiders are concerned Elon Musk's public comments on a potential SpaceX-Tesla merger could invite shareholder scrutiny and complicate deal talks.",
+      "why_it_matters": "Adds a governance layer to the merger headline risk \u2014 the story is now insiders vs. the timeline too, keeping the two-way headline swing wide. Single-source (Reuters exclusive) \u2014 treat as fragile.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://www.devdiscourse.com/article/international/3996510-us-stocks-wall-st-set-for-lower-open-as-ai-jitters-rekindle-oil-gains"
+    },
+    {
+      "ticker": "META",
+      "headline": "META down ~2-3% as the new non-voting Class C share structure (the 2-for-1 split vehicle) and raised FY26 capex of $135-145B with negative -$2.12B FCF weigh, offsetting the Q3 double beat (revenue $64.6B +26%, adjusted EPS $7.40) and the $73-76B Q4 guide. Dan Ives said the quarter showed AI spend was 'better controlled than feared.'",
+      "why_it_matters": "A clean double beat outweighed by the financing debate: negative FCF plus a raised capex bar keeps the question on spend, not growth \u2014 and the $25B New Mexico court penalty adds a legal overhang.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://moneycheck.com/stock-market-today-futures-slide-as-tesla-and-meta-post-third-quarter-results/"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "NVDA -2.3% ($216.79, finnhub live) as semis sold off across the board: Lam Research -8 to -9% was the worst S&P 500 stock after an in-line outlook (Deutsche Bank: beats-and-raises were expected), Teradyne -8.5%, Astera Labs -6%, Applied Materials -6%, SOXX -3%+, Intel -5%, and AMD, Qualcomm, Marvell, Broadcom, Micron down 3-5%.",
+      "why_it_matters": "The AI bill is being repriced through the supply chain \u2014 when an in-line Lam guide is the worst S&P stock, the bar for semis is the problem, not demand.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/market-update-chip-stocks-slide-dashing-hopes-for-a-sustained-rebound-lrcx-ter-nvda-lite-meta-tsla-soxx-12187780"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "10Y plunged 10 bps to 5.03% (IBD live); WTI jumped ~3% to $100 a barrel on reports of U.S.-Israel plans for renewed strikes on Iran after the Nov 3 midterms; bitcoin ~$81,600. The NYT plans item is unconfirmed by official sources (White House declined comment).",
+      "why_it_matters": "Dual headwind: energy-driven inflation risk locks in the hawkish Fed case during the blackout, while the fear-driven duration bid mechanically cushions valuations \u2014 oil's move is the real tape, treat the Iran-plans item as fragile.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "FRESH (<1h): Anthropic could file its S-1 as soon as Friday, potentially the largest IPO in history, per people familiar (summamoney); separately, Anthropic is launching a new AI agent to compete with Meta's Muse and OpenAI's dots (Investopedia).",
+      "why_it_matters": "A megacap-scale AI IPO gives investors a new AI-exposure vehicle \u2014 a potential rotation drain from existing AI names, which is exactly the wrinkle the morning note flagged. Single-source on timing \u2014 treat the Friday date as fragile.",
+      "sentiment": "neutral",
+      "confirmation": "single-source",
+      "source": "https://summamoney.com/investing/the-daily/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-traders-assess-tesla-meta-earnings/"
+    },
+    {
+      "ticker": "GOOGL",
+      "headline": "GOOGL and AMZN fell ~2% each in early action (IBD 8:41 AM ET); no new company news \u2014 pure read-through to the AI-capex repricing. Alphabet reports Q3 on Oct 28.",
+      "why_it_matters": "Sympathy repricing without new news \u2014 the Oct 28 prints are the bar, and today's move says the market wants capex discipline, not just Cloud beats.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings/"
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "AAPL +0.43% to $345.48 in early trade (finnhub live) \u2014 the only megacap green \u2014 despite this morning's two iPhone-supply-chain target cuts (Loop Capital downgraded to Hold, $370 to $330; MoffettNathanson $304 to $283).",
+      "why_it_matters": "Relative strength on a red tape: the market is treating the quantified ~13M-unit supply-chain shortfall as priced.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://finnhub.io/?q=%22AAPL%22"
+    },
+    {
+      "ticker": "IBM",
+      "headline": "IBM fell ~6% in the morning despite the double beat (adjusted EPS $2.95, revenue $17.1B) and a raised software forecast.",
+      "why_it_matters": "The regime holds into the session: beats aren't enough \u2014 guidance and the capex-discipline lens rule the tape.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://theshmuts.substack.com/p/nq-daily-brief-thursday-102226"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh company news this morning. Carried forward: Q3 $0.525/unit cash distribution declared Oct 15 (record Oct 26, paid Nov 6; $2.10 annualized, ~8.4% yield); Q3 results before the open Tuesday Nov 3 with an 11am ET call; Q2 beat ($0.31 vs $0.28 EPS; revenue $342.15M vs $340.49M est; net income $45.7M); 34.5M Class A units (9.25% fixed, non-convertible, non-redeemable, non-listed) issued Oct 1 in the J-W Energy reorg; listing moved NYSE to TXSE Oct 5; $600M of 6.750% senior notes due 2035 issued September 2026; analyst consensus Hold (avg target $29.50). WTI back to $100 is a mild sentiment backdrop for compression demand, not company news.",
+    "sentiment": "neutral",
+    "source": "https://www.morningstar.com/news/business-wire/20261015246449/usa-compression-partners-announces-third-quarter-2026-distribution-third-quarter-2026-earnings-release-and-conference-call-scheduled-for-november-3"
+  },
+  "watch_next": [
+    "Rest of the session: whether dip-buyers show in the AI complex or semis lead lower; breadth and VIX into midday",
+    "10:00 AM ET Conference Board leading index; 11:00 AM ET Kansas City Fed manufacturing; $26B 5-year TIPS auction (10Y at 5.03%)",
+    "After the close: Western Digital earnings; Friday: S&P Global flash October PMIs (9:45 AM ET); possible Anthropic S-1 filing (single-source, unconfirmed)",
+    "Middle East crude tape: WTI $100 after a ~3% jump; NYT Iran-strike-plans report unconfirmed \u2014 treat as fragile",
+    "Fed blackout continues into the Oct 28 decision; December hike now the unanimous economist expectation (Reuters poll, carried)"
+  ],
+  "analysis": "What changed since the 6:00 AM PT premarket brief: the fade held into the open \u2014 Dow -0.5%, S&P -0.9%, Nasdaq -1.5% \u2014 and the AI-capex repricing moved down the supply chain: Lam Research -8-9% was the worst S&P stock on an in-line outlook, with Teradyne, Astera Labs and Applied Materials off 6-8.5%. Two fresh items landed: a Reuters exclusive that some Tesla insiders worry Musk's public merger comments could invite shareholder scrutiny (governance risk on the SpaceX story), and reports Anthropic could file its S-1 as soon as Friday (a rotation-drain risk for existing AI names; single-source timing, fragile). The lone megacap green is AAPL (+0.43%), treating the iPhone-supply-chain target cuts as priced. Rates did the work of the fear bid: 10Y to 5.03% (-10 bps vs Wednesday) while WTI hit $100 \u2014 oil, not growth, is what locks in the hawkish Fed read into the blackout. Signal: the open tape, the Lam punishment, the Reuters exclusive, the claims beat holding, yields and oil. Noise: the NYT Iran-strike-plans item (unconfirmed), the Anthropic Friday timing, and the WSB takeover/dilution theories.",
+  "community_signals": [
+    {
+      "platform": "other",
+      "title": "WSB Sentiment Today (2026-10-22): MU, TSLA, NBIS, QQQ, SPY \u2014 r/wallstreetbets daily discussion roundup",
+      "url": "https://sellthenews.org/wsb/daily",
+      "takeaway": "Aggregated r/wallstreetbets sentiment: META's '+7% after hours to negative' reversal is being blamed on the non-voting-share dilution framing ('diluting retail while protecting Zuckerberg'); TSLA's dominant narrative is the 'price suppression for a cheap SpaceX takeover' theory; LRCX is treated as the technical reason for the selloff (valuation vs physical supply-limit debate); SOXL holders have cut ambitions to just exiting near 110-115. Adds the retail dilution-framing angle beyond the professional AI-capex narrative \u2014 sentiment, not verified news."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
