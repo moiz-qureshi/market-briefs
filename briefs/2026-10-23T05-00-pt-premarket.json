@@ -1,0 +1,92 @@
+{
+  "brief_id": "2026-10-23T05-00-pt-premarket",
+  "generated_at_pt": "2026-10-23T05:00:00-07:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": -0.58,
+    "sp500_futures_pct": -0.2,
+    "nasdaq100_futures_pct": 0.0,
+    "sp500_vs_record_pct": null,
+    "vix": 19.58,
+    "vix_change": null,
+    "treasury_10y_pct": 4.961,
+    "treasury_10y_change_bps": null,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Prior regular session Thu Oct 22: Nasdaq 26,008.86 -2.60% (worst since June), S&P 500 7,663.43 -1.21% (worst since July), Dow 52,867.98 +0.02%. Rotation persists: defensives bid, crowded AI sold. 10Y 4.961% per TipRanks (CAMS reports 4.978% pre-bell); VIX 19.58. For premarket briefs these describe the prior regular session.",
+    "wti_usd": 101.03,
+    "wti_day_pct": 1.57,
+    "gold_usd": 4037.0,
+    "gold_day_pct": null,
+    "btc_usd": null,
+    "notes": "Fri Oct 23, 5:00 AM PT - 1.5 hours to the open. Futures snapshot ~06:09 ET (Reuters): Dow -308 pts (-0.58%), S&P 500 -15.5 pts (-0.2%), Nasdaq 100 ~flat. Premarket Mag7 quotes ~07:58 ET (Finnhub): META $646.85 (-0.31%), MSFT $518.69 (-0.46%), AAPL $348.06 (-0.05%), TSLA $375.22 (+0.17%). Brent $113.6-114.3, near five-month high; gold ~$4,037/oz."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Futures drift lower into the open: Dow -308 pts (-0.58%), S&P 500 -15.5 pts (-0.2%), Nasdaq 100 roughly flat (Reuters, ~06:09 ET). Caution prevails after the AI-led rout; Brent near a five-month high adds inflation worry ahead of next week's FOMC meeting.",
+      "why_it_matters": "Another stabilization attempt at thin levels - watch whether the Nasdaq's flat line holds or fades into the opening auction; the Dow's red tone is the SpaceX telecom shock bleeding into index futures.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/wall-street-futures-dip-after-ai-rout-telecoms-slide-2026-10-23/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "SpaceX telecom report hits carriers: Bloomberg (unnamed sources) says SpaceX is in talks with at least one major cellular-infrastructure company, including Crown Castle, for access to a minimum of 80,000 U.S. cell sites to build a fourth nationwide wireless carrier. Premarket: TMUS -4.3%, VZ -3.7%, T -3.3%; CCI +6.5-9%, AMT +4-5%; Deutsche Telekom -3.1%, Vodafone and Orange ~-1.5% in Europe; SpaceX +2% premarket. TD Cowen estimates a nationwide terrestrial buildout would cost $80B+; 80,000 sites is ~half of the 158,500 U.S. towers (Wireless Infrastructure Association).",
+      "why_it_matters": "Single-source, unconfirmed - SpaceX didn't respond to comment and CCI's CEO gave a non-denial ('talking to all parties'). If confirmed, it re-prices U.S. wireless from oligopoly to open warfare; the tower operators are the clear winners either way, which is why CCI/AMT ripped.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5"
+    },
+    {
+      "ticker": "META",
+      "headline": "Meta details flesh out the funding story: Q3 revenue $64.60B (+26%, beat), GAAP EPS $3.83 vs $7.40 adjusted excluding a $9.89B legal charge (52-state teen-mental-health settlement); Q3 capex $34.91B exceeded operating cash flow $32.79B, flipping FCF to -$2.12B (first ever, vs +$10.63B a year ago); spreads on Meta's 5-year credit default swaps hit all-time highs; board approved a 1:1 distribution of nonvoting Class C shares in Jan 2027 (future fundraising currency, preserving Zuckerberg control); Q4 revenue guide $73-76B; New Mexico's $25B penalty accrual, Meta intends to appeal. Shares closed -6.98% at $648.85 on 40.6M shares (+91% above 30-day avg); premarket $646.85 (-0.31%).",
+      "why_it_matters": "The pricing question has fully flipped from 'what AI earns' to 'who pays for AI' - CDS at record highs means creditors, not just equity, are repricing the $825B commitment load ($355.7B data-center leases + $454.5B cloud contracts). Every AI-infra name (CRWV, LRCX, AMAT) trades off this tape.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.heygotrade.com/en/news/meta-meta-stock-news-october-23-2026/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Nvidia's Jensen Huang told CNBC capital availability is becoming a challenge for the AI infrastructure industry, with demand exceeding available funding; Ed Yardeni called the AI trade a bubble but argued moderating valuations could benefit markets without threatening the broader economy (IC Markets recap).",
+      "why_it_matters": "Single-source (IC recap of CNBC), but it corroborates the Meta thesis from the buy side: even AI's biggest supplier concedes the constraint is now money, not chips. That is the macro frame every headline today trades against.",
+      "sentiment": "negative",
+      "confirmation": "single-source",
+      "source": "https://www.ic.com/blog/friday-23rd-oct-2026-u-s-stock-futures-steady-after-tech-sell-off-as-ai-concerns-weigh-on-markets/"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "TSLA trades +0.17% premarket at $375.22 after closing Thursday -3.08% at $374.58; the Mag 7 weekly wrap shows Tesla owned the best week (+~5% into Thursday) on its Q3 FCF surprise while META was the worst (-~5%); AAPL remains the YTD leader at ~+27% and is the only Mag 7 name up this month on its AI-light positioning.",
+      "why_it_matters": "Tesla is the one megacap whose cash-flow print bought it goodwill - it's the counter-template to Meta's 'growth now, pay later' repricing. Premarket green vs red peers shows relative strength holding into the open.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://moneymorning.com/2026/10/22/magnificent-7-weekly-report-october-22-2026"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Oil is the morning's pressure point: WTI $101.03 (+1.57%), Brent $113.6-114.3 (+0.4-0.7%) near five-month highs on Houthi attacks on Saudi infrastructure plus reports of US-Israel attack planning on Iran (the latter single-source, unconfirmed). The 10Y sits 4.96-4.98% after Thursday's biggest one-day drop in 3+ years.",
+      "why_it_matters": "Confirmed crude bid vs fragile war headlines: the oil price is real, the attack-planning report is not. $100+ crude plus sticky 10Y is the stagflation shadow over every rally attempt this morning.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.curveaheadmarketstrategies.com/cams-morning-market-brief-october-23-2026/"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news this morning. Carried: Q3 cash distribution $0.525 per common unit ($2.10 annualized, ~8.4% yield) payable Nov 6 to holders of record Oct 26; Q3 earnings release before the open Tue Nov 3 with a 11 AM ET call; Q2 beat (EPS $0.31 vs $0.28 est, revenue $342.15M); now listed on the Texas Stock Exchange; Oct 1 internal reorg issued 34.47M non-convertible 9.25% Class A units to subsidiary J-W Energy.",
+    "sentiment": "neutral",
+    "source": "https://www.morningstar.com/news/business-wire/20261015246449/usa-compression-partners-announces-third-quarter-2026-distribution-third-quarter-2026-earnings-release-and-conference-call-scheduled-for-november-3"
+  },
+  "watch_next": [
+    "Anthropic S-1 filing watch today - not on EDGAR as of ~4:05 AM PT; still single-source, unconfirmed.",
+    "Pre-open earnings: AXP, SLB, INFY report today; Chevron before the open (per one morning brief).",
+    "9:45 AM ET: U.S. S&P Global flash PMI; 10 AM ET final Michigan consumer sentiment - with the 10Y at ~4.96%, a soft print feeds the bond bid, a hot one revives rate fears.",
+    "Telecom open: whether T, VZ, TMUS stabilize or keep sliding on the unconfirmed SpaceX report; CCI/AMT the other side of the pair.",
+    "Futures into the auction: Nasdaq futures flat-to-green; SPY 760.85 / QQQ 699.10 levels from Friday outlooks. Semis after WDC's beat-and-raise traded down 4.4% after hours - MU, SNDK, STX take the cue from memory.",
+    "FOMC Oct 27-28 next week; GOOGL/MSFT/AMZN report Oct 28 - the capex-funding question gets its biggest airing then."
+  ],
+  "analysis": "What changed since the 4:00 AM PT brief: the overnight headline is the Bloomberg SpaceX telecom report (single-source, unconfirmed) - it gave the tape a new sector story (carriers down 3-4% premarket, towers up) that the thin futures (Dow -0.58%, S&P -0.2%) are partly absorbing. The Meta story deepened from one fact ($825B commitments, -$2.12B FCF) into a funding dossier: record CDS spreads, a Class C issuance currency, a $25B New Mexico penalty accrual, and a raised 2026 capex floor ($135-145B) that rises every quarter. Huang's CNBC comment independently validates the frame: the AI constraint is now capital, not demand. Signal vs noise: the crude bid (WTI $101) and CDS repricing are signal; the SpaceX report, the Iran strike planning, and the Anthropic S-1 timing are all single-source noise until confirmed. The market's shape is unchanged from 4am: crowded-AI deleveraging with defensive rotation, not a broad collapse - AAPL flat, TSLA green, Dow holding up. The opening auction will test whether the telecom shock is contained or contagious.",
+  "community_signals": [],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
