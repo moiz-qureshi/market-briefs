@@ -1,5 +1,11 @@
 [
   {
+    "file": "2026-10-26T09-00-pt-post-open.json",
+    "brief_id": "2026-10-26T09-00-pt-post-open",
+    "generated_at_pt": "2026-10-26T09:00:00-07:00",
+    "type": "post-open"
+  },
+  {
     "file": "2026-10-26T08-00-pt-post-open.json",
     "brief_id": "2026-10-26T08-00-pt-post-open",
     "generated_at_pt": "2026-10-26T08:00:00-07:00",
@@ -352,11 +358,5 @@
     "brief_id": "2026-10-13T04-00-pt-premarket",
     "generated_at_pt": "2026-10-13T04:04:00-07:00",
     "type": "premarket"
-  },
-  {
-    "file": "2026-10-12T09-00-pt-post-open.json",
-    "brief_id": "2026-10-12T09-00-pt-post-open",
-    "generated_at_pt": "2026-10-12T09:10:00-07:00",
-    "type": "post-open"
   }
 ]
