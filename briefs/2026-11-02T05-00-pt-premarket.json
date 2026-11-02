@@ -1,0 +1,124 @@
+{
+  "analysis": "What changed vs the 4:00 AM brief: the bounce held rather than accelerated \u2014 futures sit at roughly the same +0.5%/+0.8% levels, and one later morning brief even showed a flatter read, so this hour reads as stabilization, not fresh momentum. Two genuinely new signals arrived before the bell: Est\u00e9e Lauder and Marriott both beat, adding consumer/travel resilience to a tape dominated by the tech selloff, and the chip rebound broadened (memory +~4%, SOXX +~2%) with Intel the lone notable decliner. The Apple story sharpened: it is now framed as Ternus's first test, with profit growth expected at its weakest in six quarters on memory costs, while Goldman Sachs notes hyperscaler capex growth may be peaking even as it rises toward $800B this year. Signal vs noise: the Binance hack fallout is fading (withdrawals resuming, ~90% covered) and is no longer a cross-asset headwind; the OpenAI funding-cut report from the 4:00 AM brief remains single-source and unconfirmed and was not repeated in this hour's sources. The week stays event-dense by design \u2014 ISM this morning, midterms Tuesday, USAC and AMD earnings, payrolls Friday \u2014 so today's open is positioning ahead of those prints, not resolution.",
+  "brief_id": "2026-11-02T05-00-pt-premarket",
+  "community_signals": [],
+  "disclaimer": "Not financial advice \u2014 for informational purposes only.",
+  "generated_at_pt": "2026-11-02T05:00:00-08:00",
+  "headlines": [
+    {
+      "confirmation": "confirmed",
+      "headline": "Futures hold the bounce into the final 90 minutes before the open: S&P 500 futures +~0.5%, Dow +~0.5%, Nasdaq 100 +~0.8% after Friday's rout, with the Nasdaq Composite's 5.3% October loss its worst month since March 2025.",
+      "sentiment": "positive",
+      "source": "https://www.investopedia.com/5-things-to-know-stock-market-november-2-2026-12206140",
+      "ticker": "SPY",
+      "why_it_matters": "The bounce is holding at roughly the same level as the 4:00 AM brief \u2014 stabilization, not fresh buying momentum, into the open."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Chips lead again: the Roundhill Memory ETF (DRAM) +nearly 4% premarket, iShares Semiconductor ETF (SOXX) +~2%, Nvidia +more than 1%; Marvell +2.9%, Arm +2.7%, Micron +2.5%, AMD +2.2% in premarket chip trading.",
+      "sentiment": "positive",
+      "source": "https://www.kucoin.com/news/flash/chip-stocks-rise-before-u-s-market-open-marvell-tech-up-2-9",
+      "ticker": "NVDA",
+      "why_it_matters": "Semis bouncing hardest for a second straight premarket read is the mirror image of Friday's rout \u2014 but after a 13% SOX drop since its October high, it is still a relief rally until proven otherwise."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Intel falls again premarket, -0.6% per Investopedia (Finnhub showed -0.97% at 7:54 AM ET), after dropping ~29% on Friday on a below-consensus quarterly revenue forecast and no expected positive cash flow this year.",
+      "sentiment": "negative",
+      "source": "https://www.investopedia.com/5-things-to-know-stock-market-november-2-2026-12206140",
+      "ticker": "NONE",
+      "why_it_matters": "Intel is the exception inside the chip bounce \u2014 a company-specific guide cut keeps dragging while peers rebound."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Apple reports after the close in new CEO John Ternus's first earnings call: LSEG consensus ~$113.39B revenue (+~11% YoY), net profit ~$29.04B (+~6%), iPhone ~$56.54B (+15%), Services ~$31.56B; Visible Alpha mean $113.6B revenue and $29.2B net income. Apple guided gross margin to 47%-48%, down from 50.1%, on memory costs; options price a +/-4.25% move.",
+      "sentiment": "neutral",
+      "source": "https://www.reuters.com/business/retail-consumer/apples-new-ceo-ternus-face-first-earnings-test-memory-costs-surge-2026-11-02/",
+      "ticker": "AAPL",
+      "why_it_matters": "Apple is the penultimate Magnificent Seven report and the last big verdict on the AI-spending question \u2014 with only nine days of iPhone 18 Pro sales in the quarter, the December-quarter guide and Ternus's AI/Siri remarks matter more than the print."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Q3 earnings season is past its midpoint: 60% of S&P 500 companies have reported, more than four-fifths beating estimates but by smaller margins than recent years, with blended earnings growth above 30% per FactSet via Investopedia.",
+      "sentiment": "neutral",
+      "source": "https://www.investopedia.com/5-things-to-know-stock-market-november-2-2026-12206140",
+      "ticker": "NONE",
+      "why_it_matters": "Beats are broad but shrinking \u2014 that is the backdrop for why strong prints have not stopped the October de-rating."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Oil stays below $100: WTI futures -4.5% after an Axios report that President Trump prefers negotiations over resumed strikes on Iran after the midterms, with Iranian-Qatari mediator talks continuing.",
+      "sentiment": "positive",
+      "source": "https://www.investopedia.com/5-things-to-know-stock-market-november-2-2026-12206140",
+      "ticker": "NONE",
+      "why_it_matters": "A 4-5% oil drop eases the inflation/energy-cost headwind and helped the risk bounce \u2014 but the 'after the midterms' caveat keeps it a fragile tailwind."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Est\u00e9e Lauder beats and raises guidance ahead of the holidays: fiscal Q1 EPS $0.72 vs $0.52 consensus (+38.5% surprise), revenue $3.72B (+~7% YoY, +1.9% vs consensus), organic sales +6%, with shares higher in early action.",
+      "sentiment": "positive",
+      "source": "https://www.zacks.com/stock/news/3020248/estee-lauder-el-tops-q1-earnings-and-revenue-estimates",
+      "ticker": "NONE",
+      "why_it_matters": "A consumer-name beat plus a raised outlook is a small offset to the tech-led selloff \u2014 breadth beyond AI names matters for the open's tone."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Marriott reports Q3 before the bell: worldwide RevPAR +6.5% (U.S. & Canada +7.4%, international +4.4%), reported diluted EPS $3.04, adjusted EPS $3.02, net income $794M (+9% YoY), adjusted EBITDA $1,512M; $1.3B of shares repurchased in the quarter.",
+      "sentiment": "positive",
+      "source": "https://www.morningstar.com/news/pr-newswire/20261102ph85645/marriott-international-reports-third-quarter-2026-results",
+      "ticker": "NONE",
+      "why_it_matters": "Travel demand holding up at +6.5% RevPAR is a consumer-resilience data point into a week dominated by tech earnings and macro prints."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Megacap premarket movers diverge: Nvidia +1.07% and Tesla +0.93% per Finnhub at ~7:51 AM ET, Microsoft +0.41%, while Meta slipped -0.58% at 7:51 AM ET; Apple was little changed ahead of its report and Palantir was up more than 1%.",
+      "sentiment": "neutral",
+      "source": "https://finnhub.io/?q=%22NVDA%22",
+      "ticker": "MSFT",
+      "why_it_matters": "The bounce is broad but not uniform \u2014 Meta lagging while NVDA/TSLA lead shows stock-picking still matters more than the index move."
+    },
+    {
+      "confirmation": "confirmed",
+      "headline": "Crypto stabilizes after last week's Binance hack: Binance says withdrawals are resuming in phases and it covered ~90% of the affected funds (reportedly over $6B); Bitcoin ~$78,000, higher than late Friday, with Strategy and Circle higher premarket and Coinbase down ~1%.",
+      "sentiment": "neutral",
+      "source": "https://www.investopedia.com/5-things-to-know-stock-market-november-2-2026-12206140",
+      "ticker": "NONE",
+      "why_it_matters": "Contagion risk from the largest reported crypto hack is fading for now \u2014 one less cross-asset headwind into the open."
+    }
+  ],
+  "market_snapshot": {
+    "breadth_notes": "Prior regular session (Fri Oct 30): broad selloff \u2014 S&P 500 cash -1.83%, Nasdaq -2.87%, Dow -1.09% per DataForge; SPY ETF closed 755.72 (-1.79%), QQQ 690.54 (-3.48%) per the 4:00 AM brief. No S&P advance/decline ratio or volume-vs-20-day-average figure shown in this hour's sourced pages. 10Y sources this hour ranged 4.91%-4.93% (Morningstar ~4.910%, TradingView Asian trade 4.924%), essentially flat vs the 4:00 AM brief's 4.91%.",
+    "btc_day_pct": null,
+    "btc_usd": 78000.0,
+    "dow_futures_pct": 0.5,
+    "gold_day_pct": 0.4,
+    "gold_usd": 3915.0,
+    "nasdaq100_futures_pct": 0.8,
+    "notes": "Mon Nov 2, 5:00 AM PT (8:00 AM ET) \u2014 1.5 hours before the 6:30 AM PT open. Futures per Investopedia Monday morning update (S&P +~0.5%, Dow +~0.5%, Nasdaq 100 +~0.8%); a separate DataForge morning brief showed a flatter later read (S&P +0.05%, Dow +0.24%, Nasdaq -0.07%), so treat the bounce as holding, not accelerating. Asia: Kospi +2.38%, Nikkei -0.33% per the 4:00 AM brief; Europe mostly higher.",
+    "sp500_advance_decline": null,
+    "sp500_futures_pct": 0.5,
+    "sp500_vs_record_pct": null,
+    "treasury_10y_change_bps": null,
+    "treasury_10y_pct": 4.92,
+    "vix": null,
+    "vix_change": null,
+    "volume_vs_20d_avg_pct": null,
+    "wti_day_pct": -4.5,
+    "wti_usd": null
+  },
+  "opinion": null,
+  "type": "premarket",
+  "usac": {
+    "headline": null,
+    "sentiment": "neutral",
+    "source": "https://www.morningstar.com/news/business-wire/20261015246449/usa-compression-partners-announces-third-quarter-2026-distribution-third-quarter-2026-earnings-release-and-conference-call-scheduled-for-november-3",
+    "why_it_matters": "No fresh USAC company news in this hour's sourced coverage. Q3 results are due before the open Tue Nov 3 with the earnings call at 11 a.m. ET that day (company Oct 15 release); AltIndex lists a $0.50 consensus EPS estimate for the quarter. The $0.525 Q3 distribution ($2.10 annualized) pays Nov 6 to holders of record Oct 26. Last reported quarter (Q2, Aug 4): EPS $0.31 beat the $0.28 consensus, revenue $342.15M vs $340.49M expected. Oil's drop below $100 is a softer energy tape into the print, though USAC's business is natural-gas compression, not crude."
+  },
+  "watch_next": [
+    "Today 10:00 AM ET: ISM manufacturing \u2014 forecast ~54.5, unchanged from September's 54.5 (some previews see 54.6-54.7).",
+    "After the close today: Apple fiscal Q4 (consensus ~$113.4-113.6B revenue, ~$2.00 EPS) and Palantir (~$2.2B revenue) \u2014 December-quarter guide and Ternus's AI/Siri remarks matter most.",
+    "Tue Nov 3: USAC Q3 results before the open (call 11 AM ET); AMD after the close; US midterm elections.",
+    "Wed Nov 4: Treasury quarterly refunding announcement (coupon sizes expected unchanged); Qualcomm and Arm after the close.",
+    "Fri Nov 6: October nonfarm payrolls \u2014 Dow Jones survey expects +55,000 jobs."
+  ]
+}
