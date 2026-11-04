@@ -1,0 +1,123 @@
+{
+  "brief_id": "2026-11-04T05-00-pt-premarket",
+  "generated_at_pt": "2026-11-04T05:00:00-08:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": 1.55,
+    "sp500_futures_pct": 1.13,
+    "nasdaq100_futures_pct": 0.97,
+    "sp500_vs_record_pct": null,
+    "vix": 20.83,
+    "vix_change": null,
+    "treasury_10y_pct": 4.91,
+    "treasury_10y_change_bps": null,
+    "sp500_advance_decline": "2.08:1",
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Premarket breadth at 7:55 AM ET (not the prior session): 281 up, 135 down across 421 stocks with a premarket print; health care +1.99% and financials +1.22% led, while industrials -3.01% and chips/memory -1.79% lagged. Prior regular session (Tue Nov 3): S&P 500 +0.36% to 7,568.92, Nasdaq +0.83% to 25,372.01, Dow -0.38% to 51,786.72, VIX 20.83. SPY ETF was +0.74% premarket at 7:55 AM ET, easing from the ~1.1% futures reading earlier in the morning.",
+    "wti_usd": 95.34,
+    "wti_day_pct": -0.78,
+    "gold_usd": null,
+    "gold_day_pct": null,
+    "btc_usd": null,
+    "btc_day_pct": null,
+    "notes": "Wed Nov 4, 5:00 AM PT \u2014 1.5 hours before the 6:30 AM PT open. Futures per Longbridge premarket snapshot: Dow +1.55%, S&P 500 +1.13%, Nasdaq +0.97%. SPY ETF +0.74% at 7:55 AM ET per the premarket heat map, down from the earlier ~1.1% reading \u2014 the overnight V-shaped recovery is holding but fading into the open. WTI $95.34 (-0.78%), Brent $102.38 (-1.18%) per Longbridge."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "The overnight futures recovery is holding but cooling into the 5 AM PT hour: SPY ETF +0.74% premarket at 7:55 AM ET, easing from the ~1.1% S&P futures reading earlier in the morning, with 281 stocks up vs 135 down across 421 premarket prints.",
+      "why_it_matters": "The V-shape off the overnight lows (Nasdaq-100 futures -2.4%, S&P -1.4%) is intact, but the fade from the morning highs shows buyers are not chasing into the open.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.regardsofwallstreet.com/heatmap"
+    },
+    {
+      "ticker": "CVS",
+      "headline": "CVS Health beat big before the open: Q3 revenue $108.4B (+5.4% year over year) vs ~$104.7B expected, adjusted EPS $2.09 vs ~$1.65 expected, and it raised full-year guidance \u2014 adjusted EPS to at least $8.20 (from $7.90-$8.10) and operating cash flow to at least $15.5B (from at least $11.5B).",
+      "why_it_matters": "A beat plus a raise is a sentiment tailwind for health care, already the premarket's strongest group (+1.99%) \u2014 it validates the post-sweep health-care rotation rather than just riding it.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.cvshealth.com/news/company-news/cvs-health-corporation-reports-third-quarter-2026-results-and-raises-full-year-2026-guidance.html"
+    },
+    {
+      "ticker": "UBER",
+      "headline": "Uber's Q4 profit guide disappointed: Q4 non-GAAP EPS guided to $0.95-$0.99 vs $1.06 expected, even as Q3 revenue of $14.77B (+10%, slowest since Q1 2021) topped the $14.69B estimate; Reuters cites driver shortages, higher fuel costs and the Middle East conflict (a 75bp drag on Q3 Mobility bookings growth, 100bp assumed for Q4). Uber also targets ~700 fully driverless vehicles by year-end and 2,000+ by end-2027.",
+      "why_it_matters": "Guidance, not the quarter, sets the tone here \u2014 a soft profit outlook outweighs a revenue beat for a stock already down on consumer-demand worries.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.reuters.com/business/ubers-profit-forecast-disappoints-driver-shortages-middle-east-conflict-hurt-2026-11-04/"
+    },
+    {
+      "ticker": "MCD",
+      "headline": "McDonald's split the print: Q3 EPS $3.57 vs $3.38 expected, but revenue $7.16B vs $7.28B expected \u2014 an EPS beat with a revenue miss.",
+      "why_it_matters": "Mixed read on the consumer: profitability held while top-line softness keeps the demand question open into the ISM services data at 10 AM ET.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.marketbeat.com/earnings/reports/2026-11-4-mcdonalds-co-stock/"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon is the premarket's biggest single lift: up about 3.45% premarket, contributing about 0.13 points of the market's move, with Apple and Microsoft each adding about 0.09 points; no fresh Amazon-specific headline accompanied the move in this hour's sourced pages.",
+      "why_it_matters": "A megacap this large moving ~3.5% does index-level work on its own \u2014 it is a large share of why the SPY premarket gain is holding despite chip weakness.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.regardsofwallstreet.com/heatmap"
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "Fresh analyst split on Apple today (MarketBeat ratings tracker): DZ Bank downgraded Apple to Sell (from Hold) with a $300 target, while Goldman Sachs set a $380 target \u2014 a wide disagreement landing the day after Apple's December-quarter margin guide (45-46% vs 47.9% in September) pressured the stock.",
+      "why_it_matters": "Conflicting analyst calls on the same morning usually widen the intraday range rather than set direction \u2014 Apple is a tug-of-war name into the open.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.marketbeat.com/compare-stocks/?Symbols=NASDAQ:TSLA,NASDAQ:NVDA,NASDAQ:META,NASDAQ:WBD,NASDAQ:ALGN,NASDAQ:AAPL,NASDAQ:AMZN,NASDAQ:GOOGL,NASDAQ:MSFT"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Carried: Musk-linked names remain the premarket's biggest drags \u2014 SpaceX and Tesla were the largest drags on the premarket map (-0.20 and -0.12 points respectively), extending Tuesday's political repricing after Democrats' sweep; Reuters earlier put both down around 4% premarket.",
+      "why_it_matters": "The political discount on Musk-linked names is persisting while the broader market recovers \u2014 it is a stock-specific overhang, not broad risk-off.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.regardsofwallstreet.com/heatmap"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "New political detail for the data-center trade: Democrat Gina Hinojosa won the Texas governorship after campaigning for a moratorium on new data centers until stronger resident protections are set, and Democrat Keisha Lance Bottoms won in Georgia, another major data-center market \u2014 adding a state-level constraint to the AI buildout story alongside memory, packaging and power shortages.",
+      "why_it_matters": "It turns the vague 'tougher AI oversight' fear into a concrete state-level mechanism \u2014 permitting risk for data centers, which is why data-center operators and chips are lagging the recovery.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.ajupress.com/view/20261104155652597"
+    },
+    {
+      "ticker": "AMD",
+      "headline": "Carried: AMD's beat still anchors the AI tape \u2014 Q3 revenue $13.38B (+45%) vs $13.09B expected, adjusted EPS $2.09 vs $1.95, data-center revenue +97% to $8.55B, Q4 guided to ~$17B vs $16.2B expected, with 2027 growth above 80% flagged; Reuters put AMD up 6.2% premarket, Nvidia up 0.5%, though chips/memory as a group were -1.79% premarket at 7:55 AM ET.",
+      "why_it_matters": "The single-stock AI strength is real, but the group-level chip weakness shows the election overhang is offsetting it \u2014 stock-picking, not sector beta, is driving chips this morning.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.kitco.com/news/off-the-wire/2026-11-04/us-stock-futures-rise-investors-assess-democrats-midterm-sweep"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news in the last hour; carrying the Q3 story: revenue $357.2M (+43% year over year, vs ~$348.32M consensus), record Adjusted EBITDA $197.3M, DCF coverage 1.67x, EPS $0.33 in line, distribution held at $0.525, with full-year guidance tightened on the Nov 3 call to Adjusted EBITDA $770-780M and DCF $495-505M. Next dated item: the $0.525 distribution pays Friday Nov 6.",
+    "sentiment": "neutral",
+    "source": "https://www.marketbeat.com/earnings/reports/2026-11-3-usa-compression-partners-lp-stock/"
+  },
+  "watch_next": [
+    "10:00 AM ET: October ISM services index; ADP private payrolls and the September trade balance also due, plus the Treasury quarterly refunding announcement.",
+    "After the close today: Qualcomm and Arm earnings.",
+    "Whether the premarket fade (SPY +0.74% at 7:55 AM ET vs ~1.1% earlier) stabilizes or extends into the 6:30 AM PT open.",
+    "First policy signals from incoming Democratic congressional leadership on AI/data-center oversight and clean-energy spending.",
+    "Fri Nov 6: October nonfarm payrolls; USAC's $0.525 distribution pays."
+  ],
+  "analysis": "What changed versus the 4:00 AM brief: the story shifted from the election repricing itself to this morning's earnings slate landing on top of it. CVS's beat-and-raise is the cleanest new positive \u2014 it validates the health-care rotation rather than just riding it \u2014 while Uber's soft Q4 profit guide and McDonald's revenue miss are the counterweight, keeping the consumer read mixed into the ISM services print. The futures tape is the tell: the overnight V-shape held, but SPY's premarket gain faded from ~1.1% to +0.74% by 7:55 AM ET, and breadth (281 up/135 down) is positive but not euphoric. The Texas/Georgia governor detail sharpens the data-center story from vague oversight fear into concrete permitting risk, which helps explain why chips as a group (-1.79%) lag even as AMD (+6.2% premarket) shines. Signal vs noise: CVS's raise, Uber's guide cut and the state-level data-center constraint are signal; the single-outlet report of a CVS split into two companies is unconfirmed noise for now \u2014 it does not appear in CVS's own earnings release, so it is excluded from the headlines above. The Nasdaq-100 remains in correction, so today's recovery is a bounce inside a damaged tape, not a trend change.",
+  "community_signals": [
+    {
+      "platform": "other",
+      "title": "WSB Sentiment Today (2026-11-04): SPCX, TSLA, SPY, QQQ \u2014 r/wallstreetbets Daily Discussion Analysis",
+      "url": "https://sellthenews.org/wsb/daily",
+      "takeaway": "Overnight WSB discussion (1,500 comments, 00:33-04:00) centered on the same V-shape: SPY described as bullish on the 743-to-760 reversal, while TSLA was the day's most consensual bearish trade (premarket ~385 cited, with hearings/investigations and Texas permitting as the thesis) \u2014 retail sentiment mirrors the institutional tape: broad recovery, Musk-specific bearishness."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
