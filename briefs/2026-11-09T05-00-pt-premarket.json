@@ -1,0 +1,123 @@
+{
+  "brief_id": "2026-11-09T05-00-pt-premarket",
+  "generated_at_pt": "2026-11-09T05:00:00-08:00",
+  "type": "premarket",
+  "market_snapshot": {
+    "dow_futures_pct": 0.95,
+    "sp500_futures_pct": 0.59,
+    "nasdaq100_futures_pct": 0.47,
+    "sp500_vs_record_pct": null,
+    "vix": 23.5,
+    "vix_change": -2.14,
+    "treasury_10y_pct": 4.859,
+    "treasury_10y_change_bps": null,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Prior regular session (Fri Nov 6): S&P +0.31%, Nasdaq +1.09%, Dow -0.46%; more S&P 500 names declined than advanced despite the index gains \u2014 the bounce stayed narrow. Premarket VIX eased to 23.50 from Friday's 25.64 close. Asia overnight: Taiex +4.94%, Nikkei +2.33%, Kospi -0.81%. Advance/decline and volume figures for Friday's session were not shown on a sourced page (left null).",
+    "wti_usd": 88.17,
+    "wti_day_pct": -2.93,
+    "gold_usd": 4122.0,
+    "gold_day_pct": 1.16,
+    "btc_usd": 74759.0,
+    "btc_day_pct": -1.46,
+    "notes": "Mon Nov 9, 5:00 AM PT \u2014 1.5 hours before the 6:30 AM PT open. Futures as of 7:20 AM ET per Swingfolio; premarket stock moves as of ~7:54 AM ET per Finnhub. VIX 23.50 premarket vs 25.64 Friday close. 10Y 4.859% is Friday's close per Swingfolio; morning readings near 4.86-4.87%. WTI/gold/BTC as of ~7:20 AM ET per Swingfolio."
+  },
+  "headlines": [
+    {
+      "ticker": "NVDA",
+      "headline": "Nvidia deepened its slide to -5.76% premarket ($175.89 at 7:33 AM ET, from Friday's $186.64 close), breaking below its April intraday low of $180.62 to a near-7-month low; China's Foreign Ministry on Monday rejected the spy claims as 'unsubstantiated' and 'smears against China.' AMD rose 3.11% premarket as chips diverged.",
+      "why_it_matters": "The probe overhang is worsening, not stabilizing \u2014 NVDA is now down ~22% from its October peak and on course to shed roughly $232B in market value at the open, while AMD's gain shows money rotating within semis rather than leaving them.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://swingfolio.com/daily/us/2026-11-09/morning"
+    },
+    {
+      "ticker": "KKR",
+      "headline": "KKR reported record Q3 results before the open: adjusted net income jumped 29% to $1.6B, or $1.78 per share vs $1.59 expected (LSEG); record fee-related earnings of $1.3B (+27%); AUM hit $804B (+11% YoY) after $25B of new capital raised. The $17B USI Insurance sale, expected to close in Q4, should add roughly $2B of adjusted profit.",
+      "why_it_matters": "A clean beat from the biggest private-markets name \u2014 and its AI-credit marks will be read as a tell on data-center lending; KKR was up 3.7% ahead of the print.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://srnnews.com/kkr-profit-hits-record-as-asset-sales-fees-surge/"
+    },
+    {
+      "ticker": "CEG",
+      "headline": "Constellation Energy beat big in Q3: adjusted EPS $5.06 vs ~$3.89-3.99 expected, revenue $9.55B (+45% YoY) on the Calpine addition; raised full-year adjusted EPS guidance to $12.50-$12.80 from $11.50-$12.50 and signed a 20-year, 270MW nuclear power deal starting 2028. Shares +2.6% premarket to $256.50.",
+      "why_it_matters": "Raised guidance plus a long-term nuclear deal is a direct read that AI data-center power demand is still firm \u2014 a counterweight to the AI-skeptic tape, and the stock was already up 4.3% Friday.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.businesswire.com/news/home/20261108197880/en/Constellation-Reports-Third-Quarter-2026-Results"
+    },
+    {
+      "ticker": "SPY",
+      "headline": "US futures firmed further into the morning: at 7:20 AM ET Dow futures +0.95%, S&P 500 +0.59%, Nasdaq 100 +0.47%, after the S&P's worst week since April 2025 (-2.68%).",
+      "why_it_matters": "Dip-buying is broadening \u2014 all three futures strengthened versus the 5:10 AM ET readings \u2014 but the Nasdaq still lags the Dow with Nvidia capping tech.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://swingfolio.com/daily/us/2026-11-09/morning"
+    },
+    {
+      "ticker": "MSFT",
+      "headline": "Megacaps strengthened in premarket: Microsoft +2.72% and Amazon +3.21% as of 7:54 AM ET per Finnhub, Apple +0.72%, Alphabet ~+1% and Meta ~+0.7%, while Tesla was roughly flat (+0.23%).",
+      "why_it_matters": "The rebound is no longer just futures \u2014 the two biggest non-Nvidia megacaps are up sharply, which is what has to hold for the Nasdaq to follow the Dow higher.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.kucoin.com/news/flash/u-s-pre-market-tech-stocks-split-optical-communication-and-cloud-computing-sectors-decline"
+    },
+    {
+      "ticker": "TSLA",
+      "headline": "Elon Musk said Cybertruck production will end in about eight months as Tesla pivots manufacturing to autonomous Cybercabs, and that the company will refund a large volume of customer deposits as orders exceed capacity. Tesla +0.23% premarket.",
+      "why_it_matters": "A product-line call, not a demand signal \u2014 ending Cybertruck to prioritize Cybercab sharpens the autonomy bet that now drives the Tesla story.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://longbridge.com/en/news/304844876"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Oil slid further: WTI -2.93% to $88.17 and Brent -3.57% to $94.81 after President Trump said he was unlikely to order further strikes on Iran; Brent fell 17% last week, its steepest weekly drop since the start of the pandemic.",
+      "why_it_matters": "Cheaper crude eases one inflation input a day before Tuesday's CPI, and airlines jumped on it (United +3.97%, Delta +3.22% premarket).",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://swingfolio.com/daily/us/2026-11-09/morning"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Berkshire Hathaway's Q3, reported Saturday, gets its first market reaction today: operating profit $12.7B (-5.8% YoY) as GEICO underwriting profit nearly halved, record cash of $377.4B, and a record $9.6B of buybacks in the quarter.",
+      "why_it_matters": "The cash pile keeps growing while Berkshire stays a net seller of equities \u2014 the read is caution from the biggest balance sheet in the market, even as it bought back its own stock at a record pace.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://seekingalpha.com/news/4668714-berkshire-hathaway-q3-operating-earnings-dip"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "HSBC strategists turned bullish again just two weeks after cutting equity exposure, reinstating an overweight on US and Asian equities while trimming government bonds back to neutral, calling the tech pullback sufficient.",
+      "why_it_matters": "Single-source, unconfirmed \u2014 treat as fragile. A fast flip from a big house is more sentiment color than a catalyst, but it fits the dip-buying tone of the morning.",
+      "sentiment": "positive",
+      "confirmation": "single-source",
+      "source": "https://longbridge.com/en/news/304844876"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC news. Carried forward: record Q3 reported Nov 3 (revenue $357.2M, +43% YoY vs ~$348.32M consensus; Adjusted EBITDA $197.3M; DCF coverage 1.67x; EPS $0.33), the $0.525 per-unit distribution paid Fri Nov 6 to holders of record Oct 26, and full-year guidance tightened to Adjusted EBITDA $770-780M and DCF $495-505M. New filing note: Alps Advisors raised its stake 15.5% in Q3 and now owns ~14.55% of the partnership. Management flagged cost pressure \u2014 monthly lubricant costs exited Q3 ~25% above first-half levels and diesel hit an all-time high in September.",
+    "sentiment": "neutral",
+    "source": "https://www.defenseworld.net/2026/11/07/usa-compression-partners-lp-usac-stock-alps-advisors-inc-boosts-position.html"
+  },
+  "watch_next": [
+    "Tue 8:30 a.m. ET: October CPI \u2014 the big checkpoint for the December hike debate (odds near 80% after the hot payrolls print).",
+    "Whether Nvidia's slide stays contained to NVDA or spreads \u2014 AMD is up 3.11% premarket, so rotation within semis is the live question; NVDA reports Q3 earnings Nov 17 and Huang faces a closed-door House briefing Nov 18.",
+    "Earnings today after the close: Take-Two, Occidental, Rocket Lab and The Trade Desk. CoreWeave reports Tue after the close.",
+    "Today: 10:00 a.m. ET September wholesale trade; 11:00 a.m. ET NY Fed consumer expectations survey; Fed speakers Bowman (8:40 a.m. ET), Goolsbee and Barkin.",
+    "Anthropic roadshow planned for the week of Nov 9 \u2014 watch for confirmation and whether the $1.2-1.3T valuation talk firms up."
+  ],
+  "analysis": "What changed versus the 4:00 AM brief: two real earnings beats landed \u2014 KKR (record fee earnings, AUM $804B) and Constellation (adjusted EPS $5.06 vs ~$3.90 expected, guidance raised) \u2014 and both are AI-infrastructure reads that cut against last week's AI-skeptic tape. Futures firmed across the board (Dow +0.73% to +0.95%, S&P +0.40% to +0.59%, Nasdaq +0.21% to +0.47%), and MSFT (+2.72%) and AMZN (+3.21%) strengthened sharply in premarket. The other direction: Nvidia worsened from -4.5% to -5.76% and broke below its April low, with Beijing now publicly rejecting the spy claims \u2014 the probe is a governance overhang that earnings on Nov 17 cannot answer, and the Nov 18 House briefing is the next escalation point. Oil slid further on Trump's Iran remarks, which helps Tuesday's CPI setup, and the VIX eased to 23.50 from Friday's 25.64. Signal vs noise: the KKR/CEG beats are signal that AI-infrastructure economics are still paying; the Nvidia probe is signal too, but the underlying spy claims remain anonymous-source reporting with no public finding; the HSBC flip and the Stifel MSFT upgrade chatter are noise. The tape is still fragile \u2014 Friday's bounce was narrow and retail outflows were $257M on Thursday \u2014 so the open is a test of whether broad strength can hold while its biggest AI name falls.",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://news.ycombinator.com/item?id=50418016",
+      "takeaway": "719 points, 805 comments (posted Nov 8, still active Monday morning). Discussion centers on whether the probe is a governance/leadership overhang or a buying opportunity in the underlying AI business, and on the unanswered question of what, if anything, was actually obtained \u2014 several top comments note the spy claims remain anonymous-source reporting with no public finding."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
