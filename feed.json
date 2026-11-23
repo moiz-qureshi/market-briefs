@@ -1,5 +1,11 @@
 [
   {
+    "file": "2026-11-23T05-00-pt-premarket.json",
+    "brief_id": "2026-11-23T05-00-pt-premarket",
+    "generated_at_pt": "2026-11-23T05:00:00-08:00",
+    "type": "premarket"
+  },
+  {
     "file": "2026-11-23T04-00-pt-premarket.json",
     "brief_id": "2026-11-23T04-00-pt-premarket",
     "generated_at_pt": "2026-11-23T04:00:00-08:00",
@@ -139,12 +145,6 @@
   },
   {
     "file": "2026-11-17T05-00-pt-premarket.json",
-    "brief_id": "2026-11-17T05-00-pt-premarket",
-    "generated_at_pt": "2026-11-17T05:00:00-08:00",
-    "type": "premarket"
-  },
-  {
-    "file": "2026-11-17T05-00-pt-premarket.v1.json",
     "brief_id": "2026-11-17T05-00-pt-premarket",
     "generated_at_pt": "2026-11-17T05:00:00-08:00",
     "type": "premarket"
@@ -318,12 +318,6 @@
     "type": "post-open"
   },
   {
-    "file": "2026-11-10T07-00-pt-post-open.v1.json",
-    "brief_id": "2026-11-10T07-00-pt-post-open",
-    "generated_at_pt": "2026-11-10T07:00:00-08:00",
-    "type": "post-open"
-  },
-  {
     "file": "2026-11-10T06-00-pt-premarket.json",
     "brief_id": "2026-11-10T06-00-pt-premarket",
     "generated_at_pt": "2026-11-10T06:00:00-08:00",
@@ -358,5 +352,11 @@
     "brief_id": "2026-11-09T07-00-pt-post-open",
     "generated_at_pt": "2026-11-09T07:00:00-08:00",
     "type": "post-open"
+  },
+  {
+    "file": "2026-11-09T06-00-pt-premarket.json",
+    "brief_id": "2026-11-09T06-00-pt-premarket",
+    "generated_at_pt": "2026-11-09T06:00:00-08:00",
+    "type": "premarket"
   }
 ]
