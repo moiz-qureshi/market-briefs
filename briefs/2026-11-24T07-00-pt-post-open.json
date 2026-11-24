@@ -1,0 +1,124 @@
+{
+  "brief_id": "2026-11-24T07-00-pt-post-open",
+  "generated_at_pt": "2026-11-24T07:00:00-08:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "vix": 29.34,
+    "vix_change": 2.7,
+    "treasury_10y_pct": 4.89,
+    "treasury_10y_change_bps": -1.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Early session (~9:35-10:00 AM ET): S&P -1.0% to -1.2% (7,150.27), Nasdaq -1.7% to -1.8% (23,658.50), Dow -0.2% to -0.3% (49,442.97). Tech and semis lead declines; defensives and health care (JNJ, MRK +~1%) hold up. No sourced S&P 500 advance/decline ratio or volume-vs-20-day-average figure. VIX 29.34, +10.2% on the day (vylos, 9:41 AM ET, delayed 20 min).",
+    "wti_usd": 81.15,
+    "wti_day_pct": 1.2,
+    "gold_usd": 3615.0,
+    "gold_day_pct": -1.0,
+    "btc_usd": 60300.0,
+    "btc_day_pct": -1.9,
+    "notes": "Tue Nov 24, 7:00 AM PT post-open (first 30 min of regular session). Cash-session figures per Investopedia live page (crawled 14:45 UTC) and Pulsafi 9:34 AM ET. Monday closes: S&P 7,237.17 (+4.73%), Nasdaq 24,089.56 (+6.51%), Dow 49,595.31 (+3.01%), VIX 26.62. Market closed Thu Nov 26 for Thanksgiving; half day Fri Nov 27. WTI ranged roughly $79.6-$81.15 across wires this morning as oil swings on Iran headlines."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Major indexes slide in the first 30 minutes: Nasdaq -1.7%, S&P 500 -1.0%, Dow -0.2% in early trading.",
+      "why_it_matters": "The premarket giveback is now a real session decline \u2014 Monday's historic rally is giving back about a fifth of its S&P gain in the first half hour.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11242026-12275797"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Nvidia -6%+ in early trading after soaring 31% Monday and adding more than $900B in market value; still down more than 30% from its Oct 6 record closing high.",
+      "why_it_matters": "Profit-taking plus the unresolved governance overhang (SEC probe, Bessent's Nov 25 deadline, Dec 1 House testimony) is outweighing the reinstatement rally.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11242026-12275797"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Chip selloff broadens: Micron and AMD -8%, Intel, Marvell and SK Hynix -5%+, Broadcom -4%; SOXX and the Roundhill Memory ETF each -6%+.",
+      "why_it_matters": "Sector-wide unwind, not a single-name move \u2014 the whole AI hardware complex is retracing Monday's surge together.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11242026-12275797"
+    },
+    {
+      "ticker": "HPE",
+      "headline": "HPE -14% in early trading despite beating expectations and raising guidance; Dell -9% ahead of its Q3 print after the close (after +20% Monday).",
+      "why_it_matters": "The beat-and-fall pattern is now the morning's dominant theme \u2014 the bar is the AI-server guide and demand durability, and Dell is the next check.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11242026-12275797"
+    },
+    {
+      "ticker": "ANT",
+      "headline": "Anthropic -7% in early trading, below the $83 IPO price, on pace for a third straight down session.",
+      "why_it_matters": "The AI trade's newest public name is under water vs its IPO price within a week \u2014 sentiment is cooling across the whole AI complex, not just hardware.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11242026-12275797"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Mega-caps mostly lower in early trading: Amazon -2%, Meta and Alphabet ~-1%, Tesla -1.7%; Apple flat, Microsoft slightly higher.",
+      "why_it_matters": "The giveback is concentrated in AI-linked names while the least AI-exposed mega-caps hold up \u2014 rotation, not a broad risk-off day.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-amd-anthropic-nvidia/"
+    },
+    {
+      "ticker": "INSM",
+      "headline": "Sanofi's $41B Insmed acquisition lifts Insmed +14% and Sanofi's US-traded shares +8% in early trading.",
+      "why_it_matters": "The morning's biggest deal is a defensive-sector counterweight to the tech selloff \u2014 M&A appetite is alive even on a down tape.",
+      "sentiment": "positive",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11242026-12275797"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Case-Shiller: US home prices +2.1% y/y in September, unchanged from August; 20-city +2.6% vs +2.7% expected; 16th straight month of real-term declines as 3.7% inflation outran the gain.",
+      "why_it_matters": "In-line and lagged, so it barely moves the tape \u2014 but it keeps the housing-affordability drag in view ahead of 10 AM consumer confidence.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.prnewswire.com/news-releases/sp-cotality-case-shiller-index-reports-annual-gain-in-september-2026-302949528.html"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Iran claims three tankers hit mines in the Strait of Hormuz; Bessent widened sanctions on 2 dozen+ Iranian exchange houses and front companies; Trump said diplomacy continues but attacks could resume after the New Year.",
+      "why_it_matters": "Fresh Hormuz risk on a day oil is already swinging \u2014 but Gulf exports have rebounded to 74% of prewar levels and the IEA sees a surplus, so crude is whipsawing rather than spiking. The mine claims are unverified \u2014 treat as fragile.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.ttnews.com/articles/oil-prices-iran-diplomacy"
+    }
+  ],
+  "usac": {
+    "headline": null,
+    "why_it_matters": "No fresh USAC company news; fresh Nov 24 Zacks analysis highlights the $500M order book through 2029, with >60% of 2027 new horsepower contracted and revenue per horsepower +8% y/y. Carry-forward: Q3 2026 (Nov 3) \u2014 revenue $357.2M (+43% y/y, above ~$348.3M consensus), EPS $0.33/unit in line, adjusted EBITDA $197.3M, DCF $127.1M, coverage 1.67x; FY26 adjusted EBITDA guidance narrowed to $770-780M, DCF $495-505M; $0.525/unit quarterly distribution (annualized $2.10) paid Nov 6. Next earnings Feb 16, 2027. WTI $81.15 (+1.2%) but swinging on Iran headlines.",
+    "sentiment": "neutral",
+    "source": "https://www.zacks.com/stock/news/3034328/can-rising-natural-gas-demand-fuel-usa-compressions-growth"
+  },
+  "watch_next": [
+    "Consumer confidence at 10 AM ET (7 AM PT) \u2014 expected 92.4 vs 91.7 prior \u2014 the first demand read before Wednesday's PCE/GDP dump.",
+    "FOMC meeting minutes at 2 PM ET \u2014 the next input on the near-certain December hike (97.6% priced for 25bp).",
+    "After-close earnings: Dell, HP, Workday, Ambarella \u2014 Dell is the next check on AI server demand after HPE's guide-driven selloff.",
+    "Best Buy earnings call at 8 AM ET \u2014 color on the AI gadget upgrade cycle and holiday demand.",
+    "NVDA overhangs still live: Bessent's Nov 25 deadline, Huang's Dec 1 House testimony, the SEC probe \u2014 plus whether the chip pullback stabilizes or deepens into the close.",
+    "Thanksgiving-week tape: market closed Thu Nov 26, half day Fri Nov 27; thin liquidity can amplify moves."
+  ],
+  "analysis": "What changed vs the 6 AM brief: the premarket giveback became a real early-session slide \u2014 Nasdaq -1.7% and S&P -1.0% in the first 30 minutes, roughly in line with futures, and the VIX jumped above 29 (+10.2%). HPE worsened from -12% premarket to -14% in the session, and Dell slid 9% into its after-close print. Case-Shiller landed in line (+2.1% y/y) and barely registered. One correction to carry: ADI's premarket print is conflicting across sources \u2014 one wire had it -10% on a soft guide, another -2.5% after a Q4 beat (EPS $4.06 vs $3.89 expected) \u2014 so don't anchor on the ADI number. Signal vs noise: the beat-and-fall pattern broadening across the AI complex, Anthropic under its IPO price, and the VIX spike are signal; the exact early-session percentages and the oil whipsaw on unverified Hormuz mine claims are noise. The next real tests are consumer confidence at 10 AM ET, FOMC minutes at 2 PM ET, and Dell after the close.",
+  "community_signals": [
+    {
+      "platform": "hackernews",
+      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+      "url": "https://news.ycombinator.com/item?id=50626578",
+      "takeaway": "A French on-chain investigation claims a fresh wallet bet $4,648 at 6.5% odds on Huang's reinstatement 89 minutes before Trump's public post, netting ~$71,500 \u2014 adding an information-asymmetry angle to the Huang story. Commenters are split: some call the timing damning, others say $70K is small and could be luck, and note the piece itself is LLM-assisted research."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
