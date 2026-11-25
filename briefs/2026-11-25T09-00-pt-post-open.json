@@ -1,0 +1,114 @@
+{
+  "brief_id": "2026-11-25T09-00-pt-post-open",
+  "generated_at_pt": "2026-11-25T09:00:00-08:00",
+  "type": "post-open",
+  "market_snapshot": {
+    "dow_futures_pct": null,
+    "sp500_futures_pct": null,
+    "nasdaq100_futures_pct": null,
+    "sp500_vs_record_pct": null,
+    "vix": 32.0,
+    "vix_change": 5.6,
+    "treasury_10y_pct": 4.82,
+    "treasury_10y_change_bps": 0.0,
+    "sp500_advance_decline": null,
+    "volume_vs_20d_avg_pct": null,
+    "breadth_notes": "Late morning Wed Nov 25 (~11:30 AM ET): S&P 500 -2.8%, Nasdaq Composite -4.1%, Dow -1.5%. SPY seesawing around $700 (intraday range $695.54-704.83). Nasdaq volume running more than 40% higher vs the same time Tuesday; NYSE volume slightly higher. SMH -7%, below $400. Defensives (XLP) and Treasuries (TLT) the only green; gold and bitcoin also falling. No sourced advance/decline ratio or volume-vs-20-day-average figure for this session.",
+    "wti_usd": 82.6,
+    "wti_day_pct": 1.0,
+    "gold_usd": 3470.0,
+    "gold_day_pct": -2.6,
+    "btc_usd": 57900.0,
+    "btc_day_pct": null,
+    "notes": "Post-open 9:00 AM PT (12:00 PM ET). VIX 'just under 32, up ~21%' per Investopedia vs Tuesday close of 26.36, hence vix_change ~+5.6. 10Y 4.82%, unchanged vs the 8 AM brief. Market closed Thu Nov 26 for Thanksgiving; half day Fri Nov 27 (1 PM ET close)."
+  },
+  "headlines": [
+    {
+      "ticker": "SPY",
+      "headline": "Indexes pinned near the lows into midday: S&P 500 -2.8% at 7,001.51, Nasdaq Composite -4.1% at 22,770.79, Dow -1.5% at 49,290.20 (11:41 AM ET). SPY seesawing around $700 (range $695.54-704.83), Russell 2000 -1.5%+. Nasdaq volume running more than 40% higher than the same time Tuesday.",
+      "why_it_matters": "No bounce yet \u2014 the tape is holding its gap-down and pinning around the round $700 SPY level into a thin Thanksgiving-week session, with volume confirming real selling rather than a quiet drift.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data-nvidia-anthropic/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "USTR publishes the Federal Register notices with specific Section 301 tariff rates: China 20% (rising to 40% if the Jan 10 trade truce unravels), Vietnam up to 35% (20% with a deal), India 25% (17% with a deal), EU/Japan/South Korea/Taiwan/Switzerland 15% (with 20-25% fallback rates), five Southeast Asian economies 18%, Singapore 10-20%. About $30B of Chinese goods exempt; nothing takes effect before the Jan 25, 2027 hearings. Written comments due Jan 5, 2027.",
+      "why_it_matters": "The numbers are now concrete rather than rumored, and they land at the low end of the feared range with caps tied to existing deals \u2014 a smaller-than-feared read, but the overhang now runs for months and the China 40% fallback is a live escalation lever.",
+      "sentiment": "neutral",
+      "confirmation": "confirmed",
+      "source": "https://www.tbsnews.net/world/trump-proposes-new-tariffs-14-trading-partners-1614031"
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Nvidia down ~8.4% to ~$142.31 (intraday low $141.19), erasing more than half of Monday's 31% reinstatement rally and trading back below $145, where it stood when Huang was fired. A WSJ news flash cited by traders claiming US officials told Congress there is 'no evidence China orchestrated Huang's affair' could not be independently verified and NVDA did not rebound on it.",
+      "why_it_matters": "The 'Jensen saves the market' narrative has fully reversed \u2014 the stock is back at its pre-firing level with the Dec 1/3 congressional hearings still ahead. The espionage-clearance flash is single-source and unverified, so treat it as fragile, not a catalyst. Earnings context: Nov 17, EPS $2.68 vs $2.47 expected, revenue $115.84B vs $109.28B expected (+103% y/y).",
+      "sentiment": "negative",
+      "confirmation": "unconfirmed",
+      "source": "https://sellthenews.org/wsb/daily"
+    },
+    {
+      "ticker": "ANT",
+      "headline": "Anthropic (ANT) rebounds intraday from a low of $73.86 to ~$80.20 (-2.1%), finding support around $80 after closing below its $83 IPO price Tuesday. Still ~30% below its $115 opening-day high.",
+      "why_it_matters": "The $80 level is holding for now, but the bounce is modest against the week's damage \u2014 the IPO that was meant to validate AI valuations is still underwater, which keeps pressure on the whole AI complex.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355"
+    },
+    {
+      "ticker": "NTNX",
+      "headline": "Nutanix dives ~20% to a session low of $42.58, its worst day in over two years and lowest since early May, on volume more than 9x its 50-day average. Fiscal Q1 beat (EPS $0.73, +78% y/y; revenue $772.4M, +15%), but CEO Rajiv Ramaswami announced he will step down after six years, and FY27 sales guidance of ~$3.21B came in just below the $3.22B FactSet estimate.",
+      "why_it_matters": "A leadership vacuum plus a soft guide outweighs a clean beat \u2014 in this tape even a solid quarter gets sold when the story has a crack in it, and the CEO exit adds uncertainty just as Nutanix pitches an unproven AI chapter.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data-nvidia-anthropic/"
+    },
+    {
+      "ticker": "DELL",
+      "headline": "Dell still down ~7% (low $137.72, lowest since April 7) despite a record quarter \u2014 adjusted EPS $9.45 vs ~$6.59 consensus, revenue $54.94B vs $49.32B expected, raised guidance \u2014 plus a newly announced $25B buyback. HPE down ~4% after sinking 16% Tuesday.",
+      "why_it_matters": "The beat-and-fall pattern is now the rule for AI hardware: even a record quarter, a raised guide and a huge buyback cannot hold the stock, so the market is repricing AI-demand durability, not the quarter.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data-nvidia-anthropic/"
+    },
+    {
+      "ticker": "SOXX",
+      "headline": "Semiconductors break down further: SMH -7% (ninth loss in 10 sessions), below $400 and more than 41% under its summer peak of $671.83. Micron -11.6%, SanDisk -13.1%, AMD -9.1%, Broadcom -6%; Oracle -8.2% and below $100, CoreWeave -9.9%. SOXL -21.7%, touching $25 intraday.",
+      "why_it_matters": "The chip complex is in a deep drawdown, not a pullback \u2014 the epicenter of the selloff keeps getting worse, and the damage is now spilling into AI credit (CoreWeave debt reportedly yielding ~18%) and neocloud names.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data-nvidia-anthropic/"
+    },
+    {
+      "ticker": "NONE",
+      "headline": "Mega-caps all red with Alphabet at a new 52-week low: GOOGL -5.4% to ~$264, Amazon -5%, Tesla -5%, Meta -3.6%, Microsoft -3.7%; Apple the relative holdout at ~-1.5% (~$347-349). The Mag 7 group is down 4.56%, accounting for about 1.40 points of the S&P's decline. Defensives green: P&G and Coca-Cola each +0.8%, XLP +0.1%.",
+      "why_it_matters": "No mega-cap is escaping and the most AI-exposed names are down most \u2014 the weakness is concentrated in the leadership that carried the market, which is what makes the index move so large, while money hides in staples.",
+      "sentiment": "negative",
+      "confirmation": "confirmed",
+      "source": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355"
+    }
+  ],
+  "usac": {
+    "headline": "Zacks Research raised its FY2026 EPS estimate for USA Compression Partners to $1.16 from $1.04 (Nov 24), with FY2027 at $1.31; a Seeking Alpha analysis published today calls USAC a buy at $23.63, citing the 8.9% yield backed by 1.67x distribution coverage and record pricing. Shares opened at $23.04 and traded ~$23.14 (+0.5%) mid-morning, near the 52-week low of $22.65.",
+    "why_it_matters": "Analyst sentiment is turning modestly more constructive on the numbers \u2014 a raised estimate and a buy case built on the contracted, fixed-fee cash flow \u2014 even as the units sit near their lows with the broader market selling off. No fresh company news; next earnings Feb 16, 2027. Carry-forward: Q3 2026 (Nov 3) revenue $357.2M (+43% y/y, above ~$348.3M consensus), EPS $0.33/unit in line, adjusted EBITDA $197.3M, DCF $127.1M, coverage 1.67x; FY26 adjusted EBITDA guidance narrowed to $770-780M; $0.525/unit quarterly distribution (annualized $2.10) paid Nov 6; $500M order book through 2029, >60% of 2027 new horsepower contracted.",
+    "sentiment": "positive",
+    "source": "https://www.marketbeat.com/instant-alerts/estimates-txse-usac-stock-earnings-estimates-boosted-by-zacks-research-2026-11-25/"
+  },
+  "watch_next": [
+    "Whether SPY holds $700 and NVDA holds ~$142 into the close \u2014 the tape is pinned in a narrow range after the morning flush.",
+    "Market closed Thu Nov 26 for Thanksgiving; half day Fri Nov 27 (1 PM ET close) \u2014 thin liquidity can amplify moves, and traders worry Friday could repeat last Friday's QQQ -6% move.",
+    "Huang's congressional hearings Dec 1 (closed-door, House) and Dec 3 (public, Senate); Nvidia 10-Q deadline Dec 4; December Fed meeting Dec 8-9 (December hike now priced near-certain after hot core PCE).",
+    "Tariff process: written comments due Jan 5, 2027, public hearings from Jan 25, 2027; China rate rises to 40% if the Jan 10 trade truce unravels."
+  ],
+  "analysis": "What changed vs the 8 AM brief: the selloff has not reversed \u2014 it has consolidated. SPY is pinned in a tight $695-704 range around $700, the Nasdaq is a touch worse (-4.1% vs -3.9%), and SMH broke below $400 with a seventh straight leg down. The genuinely new item is the USTR Federal Register notice with specific Section 301 rates: concrete, mostly at the low end of the feared range, capped by existing deals, and months away from taking effect \u2014 a smaller-than-feared read that still leaves a multi-month overhang and a 40% China fallback lever. The second new item is Nutanix -20% on a surprise CEO exit, the freshest example of the beat-and-fall pattern that also hit Dell (record quarter, $25B buyback, still -7%). Anthropic finding support at $80 is the only stabilization signal, and it is thin. The WSB community has moved from fear to numb exhaustion and capitulation rhetoric, with the 'Jensen rally' now universally called a dead-cat bounce and an exit window; notably, even the community notes the market is pinning intraday rather than waterfalling. Signal vs noise: SPY pinned at $700 on heavy volume, SMH -41% from its peak, the concrete tariff rates and the hot core PCE print are signal; the unverified 'no evidence of espionage' flash and any single-name intraday bounce are noise. The risk into the close and Friday's half session is the same as this morning \u2014 thin holiday tape amplifying the first move in either direction.",
+  "community_signals": [
+    {
+      "platform": "other",
+      "title": "WSB Sentiment Today: QQQ, NVDA, PCE, ANT, CNBC (2026-11-25) \u2014 r/wallstreetbets Daily Discussion Analysis",
+      "url": "https://sellthenews.org/wsb/daily",
+      "takeaway": "Extreme fear (~9/100) with capitulation rhetoric rising; Monday's 'Jensen rally' now universally called a dead-cat bounce and exit window. NVDA back below 145 with bears eyeing 140/125-130; ANT's $80 support attributed to underwriter buying; MU/SNDK/SOXL collapse and AI-credit worries (CRWV debt ~18%) dominate. Notably the community itself notes the market is pinning intraday (SPY 695-700) rather than waterfalling, and scattered dip-buying (GOOGL, NVDA, VOO, ANT) suggests the washout is not yet complete."
+    }
+  ],
+  "opinion": null,
+  "disclaimer": "Not financial advice \u2014 for informational purposes only."
+}
